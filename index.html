@@ -4,59 +4,136 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>WRS Data</title>
+
+  <!-- Google tag -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CNSP7M0GFT"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-CNSP7M0GFT');
+  </script>
+
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
- 
-    header {
-      background: #fff;
-      border-bottom: 1px solid #e0e0e0;
-      padding: 12px 24px;
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+      background: #f5f5f5;
     }
- 
+
+header {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 16px 48px; /* increased from 32px */
+}
+
+.header-container {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  /* removed max-width and margin */
+}
+
+    .logo-left  { display: flex; justify-content: flex-start; }
+    .logo-right { display: flex; justify-content: flex-end; text-decoration: none; align-items: center;}
+
     header a img {
-      height: 50px;
-      width: auto;
-      display: block;
+        height: 50px;
+        width: auto;
+        display: block;
     }
 
-    .header-container {
-    display: flex; /* Makes child elements sit side-by-side */
-    justify-content: space-around; /*Distributes space between and around items */
-    align-items: center; /* Centers items vertically */
+    .header-title {
+        text-align: center;
     }
 
+    .header-title h1 {
+        /* font-size: 2.0rem; */
+        /* font-family: Fjalla One, sans-serif; */
+        /* /* font-weight: 700; */
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        margin: 0 0 17.5px;
+        font-family: Fjalla One, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.2;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        color: #111;
+        display: block; */
+        font-size: 2.0 em;
+        margin-block-start: 0.83em;
+        margin-block-end: 0.83em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        unicode-bidi: isolate;
+    }
+
+    .header-title p {
+        font-size: 0.75rem;
+        color: #888;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-top: 2px;
+        text-align: center;
+    }
+
+    .archie-logo {
+        height: 80px; /* increase this to make it bigger */
+        align-items: center;
+        margin-left: 20px;
+    }
+
+    .presented-by {
+        /* text-align: left; */
+        font-size: 0.7rem;
+        color: #888;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-bottom: 4px;
+        text-decoration: none;
+        align-items: center;
+    }
+
+    .a_config {
+        text-decoration: none;
+        align-items: center;
+        text-align: center;
+        
+    }
+
+    @media (max-width: 600px) {
+      .logo-left, .logo-right { display: none; }
+      .header-container { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
-
-<!-- Google tag (gtag.js) ================================================================= -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-CNSP7M0GFT"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-CNSP7M0GFT');
-</script>
-<!-- Google tag (gtag.js) ================================================================= -->
-
 <body>
- 
+
   <header>
     <div class="header-container">
-        <div> 
-            <a href="https://weeklyraceseries.com/">
-            <img src="wrs_logo.avif" alt="Logo"/>
-            </a>
+        <div class="logo-left">
+        <a href="https://weeklyraceseries.com/">
+            <img src="wrs_logo.avif" alt="Weekly Race Series"/>
+        </a>
         </div>
-        <div> 
+        <div class="header-title">
             <h1>Lifetime Race Results</h1>
+            <!-- <p>Utah's Weekly Race Series</p> -->
         </div>
-        <div>
-              <a href="https://www.archieraceteam.com/">
-            <img src="archie_logo.svg"/>
-            </a>
-        </div>
+        <div class="logo-right">
+            <div>
+                <a class="a_config" href="https://www.archieraceteam.com/">
+                    <p class="presented-by">Presented by:</p>   
+                    <img src="archie_logo.svg" alt="Archie Race Team" class="archie-logo"/>
+                </a>
+            </div>
+    </div>
     </div>
   </header>
- 
+
 </body>
 </html>
