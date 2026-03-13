@@ -49,10 +49,6 @@ header {
     }
 
     .header-title h1 {
-        /* font-size: 2.0rem; */
-        /* font-family: Fjalla One, sans-serif; */
-        /* /* font-weight: 700; */
-        letter-spacing: 0.04em;
         text-transform: uppercase;
         margin: 0 0 17.5px;
         font-family: Fjalla One, sans-serif;
@@ -66,8 +62,6 @@ header {
         font-size: 2.0rem;
         margin-block-start: 0.83em;
         margin-block-end: 0.83em;
-        margin-inline-start: 0px;
-        margin-inline-end: 0px;
         font-weight: bold;
         unicode-bidi: isolate;
     }
@@ -107,33 +101,34 @@ header {
     }
 
     @media (max-width: 600px) {
-    header {
-        padding: 10px 16px;
+        header {
+            padding: 10px 16px;
+        }
+
+        .header-title h1 {
+            font-size: 1rem;
+            word-break: break-word;
+            max-width: 90px;
+        }
+
+        .header-title p {
+            font-size: 0.65rem;
+        }
+
+        header a img,
+        .archie-logo {
+            height: 30px;
+        }
+
+        .archie-logo {
+            height: 50px;
+        }
+
+        .presented-by {
+            font-size: 0.5rem;
+        }
     }
 
-    .header-title h1 {
-        font-size: 1rem;
-        word-break: break-word;
-        max-width: 90px;
-    }
-
-    .header-title p {
-        font-size: 0.65rem;
-    }
-
-    header a img,
-    .archie-logo {
-        height: 30px;
-    }
-
-    .archie-logo {
-        height: 50px;
-    }
-
-    .presented-by {
-        font-size: 0.5rem;
-    }
-    }
   </style>
 </head>
 <body>
