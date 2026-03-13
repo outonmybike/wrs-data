@@ -18,6 +18,13 @@
       width: auto;
       display: block;
     }
+
+    .header-container {
+    display: flex; /* Makes child elements sit side-by-side */
+    justify-content: space-around; /*Distributes space between and around items */
+    align-items: center; /* Centers items vertically */
+    }
+
   </style>
 </head>
 
@@ -34,13 +41,20 @@
 <body>
  
   <header>
-    <div>
-    <a href="https://weeklyraceseries.com/">
-      <img src="wrs_logo.avif" alt="Logo"/>
-    </a>
-    </div>
-    <div style="text-align:center";> 
-        <h1>Lifetime Race Results</h1>
+    <div class="header-container">
+        <div> 
+            <a href="https://weeklyraceseries.com/">
+            <img src="wrs_logo.avif" alt="Logo"/>
+            </a>
+        </div>
+        <div> 
+            <h1>Lifetime Race Results</h1>
+        </div>
+        <div>
+              <a href="https://www.archieraceteam.com/">
+            <img src="archie_logo.svg"/>
+            </a>
+        </div>
     </div>
   </header>
  
