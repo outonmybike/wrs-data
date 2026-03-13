@@ -62,8 +62,8 @@ header {
         overflow-wrap: break-word;
         word-wrap: break-word;
         color: #111;
-        display: block; */
-        font-size: 2.0 em;
+        display: block;
+        font-size: 2.0rem;
         margin-block-start: 0.83em;
         margin-block-end: 0.83em;
         margin-inline-start: 0px;
@@ -107,8 +107,26 @@ header {
     }
 
     @media (max-width: 600px) {
-      .logo-left, .logo-right { display: none; }
-      .header-container { grid-template-columns: 1fr; }
+    header {
+        padding: 10px 16px;
+    }
+
+    .header-title h1 {
+        font-size: 1rem;
+    }
+
+    .header-title p {
+        font-size: 0.65rem;
+    }
+
+    header a img,
+    .archie-logo {
+        height: 30px;
+    }
+
+    .presented-by {
+        font-size: 0.6rem;
+    }
     }
   </style>
 </head>
