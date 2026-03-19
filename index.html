@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>WRS Data</title>
+    <title>Top 10</title>
 
     <!-- Google tag (gtag.js) ================================================================= -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CNSP7M0GFT"></script>
@@ -15,19 +15,21 @@
     </script>
     <!-- Google tag (gtag.js) ================================================================= -->
 
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
             background: #f5f5f5;
-            min-height: 3000px;
+            min-height: 100vh;
         }
 
         header {
             background: #fff;
             box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-            padding: 16px 48px; /* increased from 32px */
+            padding: 16px 48px;
             position: sticky;
             top: 0;
             z-index: 100;
@@ -37,7 +39,6 @@
             display: grid;
             grid-template-columns: 1fr auto 1fr;
             align-items: center;
-            /* removed max-width and margin */
         }
 
         .logo-left  { display: flex; justify-content: flex-start; }
@@ -49,14 +50,12 @@
             display: block;
         }
 
-        .header-title {
-            text-align: center;
-        }
+        .header-title { text-align: center; }
 
         .header-title h1 {
             text-transform: uppercase;
             margin: 0 0 17.5px;
-            font-family: Fjalla One, sans-serif;
+            font-family: 'Fjalla One', sans-serif;
             font-style: normal;
             font-weight: 400;
             line-height: 1.2;
@@ -81,14 +80,12 @@
         }
 
         .archie-logo {
-            height: 80px; /* increase this to make it bigger */
+            height: 80px;
             align-items: center;
             margin: auto;
-            /* margin-left: 20px; */
         }
 
         .presented-by {
-            /* text-align: left; */
             font-size: 0.7rem;
             color: #888;
             letter-spacing: 0.08em;
@@ -102,38 +99,183 @@
             text-decoration: none;
             align-items: center;
             text-align: center;
-            
+        }
+
+        /* ── TABLE SECTION ─────────────────────────────────────────── */
+
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 32px 24px 64px;
+        }
+
+        .home-link {
+            display: inline-block;
+            margin-bottom: 24px;
+            color: #555;
+            text-decoration: none;
+            font-size: 0.85rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            transition: color 0.15s;
+        }
+        .home-link:hover { color: #111; }
+
+        .table-controls {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .search-wrap {
+            position: relative;
+        }
+
+        .search-wrap svg {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #aaa;
+            pointer-events: none;
+        }
+
+        #search-input {
+            font-family: 'Barlow', sans-serif;
+            font-size: 0.9rem;
+            padding: 9px 14px 9px 38px;
+            border: 1.5px solid #ddd;
+            border-radius: 8px;
+            outline: none;
+            width: 260px;
+            background: #fff;
+            transition: border-color 0.15s;
+        }
+        #search-input:focus { border-color: #888; }
+
+        .row-count {
+            font-family: 'Barlow', sans-serif;
+            font-size: 0.8rem;
+            color: #999;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+
+        .table-wrap {
+            width: 100%;
+            overflow-x: auto;
+            border-radius: 12px;
+            box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+            background: #fff;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: 'Barlow', sans-serif;
+            font-size: 0.92rem;
+        }
+
+        thead {
+            background: #1a1a1a;
+            color: #fff;
+        }
+
+        thead th {
+            padding: 14px 18px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.78rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            white-space: nowrap;
+            cursor: pointer;
+            user-select: none;
+            transition: background 0.15s;
+        }
+
+        thead th:hover { background: #333; }
+
+        thead th .sort-icon {
+            display: inline-block;
+            margin-left: 6px;
+            opacity: 0.4;
+            font-size: 0.7rem;
+            transition: opacity 0.15s;
+        }
+
+        thead th.sorted-asc .sort-icon::after  { content: '▲'; opacity: 1; }
+        thead th.sorted-desc .sort-icon::after { content: '▼'; opacity: 1; }
+        thead th:not(.sorted-asc):not(.sorted-desc) .sort-icon::after { content: '⇅'; }
+
+        thead th.sorted-asc,
+        thead th.sorted-desc { background: #333; }
+
+        tbody tr {
+            border-bottom: 1px solid #f0f0f0;
+            transition: background 0.1s;
+        }
+
+        tbody tr:last-child { border-bottom: none; }
+        tbody tr:hover { background: #fafafa; }
+
+        /* Zebra stripe */
+        tbody tr:nth-child(even) { background: #f8f8f8; }
+        tbody tr:nth-child(even):hover { background: #f2f2f2; }
+
+        /* Top 3 rows gold/silver/bronze rank accent */
+        tbody tr:nth-child(1) td:first-child { border-left: 4px solid #f5c518; }
+        tbody tr:nth-child(2) td:first-child { border-left: 4px solid #b0b7c3; }
+        tbody tr:nth-child(3) td:first-child { border-left: 4px solid #c4793a; }
+
+        tbody td {
+            padding: 12px 18px;
+            color: #222;
+            white-space: nowrap;
+        }
+
+        /* Rank column (first col) */
+        tbody td:first-child {
+            font-weight: 600;
+            color: #555;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 48px 20px;
+            color: #bbb;
+            font-size: 0.95rem;
+            letter-spacing: 0.04em;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 48px 20px;
+            color: #bbb;
+            font-size: 0.95rem;
+        }
+
+        .error-msg {
+            text-align: center;
+            padding: 48px 20px;
+            color: #c0392b;
+            font-size: 0.9rem;
         }
 
         @media (max-width: 600px) {
-            header {
-                padding: 10px 16px;
-            }
-
-            .header-title h1 {
-                font-size: 1rem;
-                word-break: break-word;
-                max-width: 90px;
-            }
-
-            .header-title p {
-                font-size: 0.65rem;
-            }
-
-            header a img,
-            .archie-logo {
-                height: 30px;
-            }
-
-            .archie-logo {
-                height: 50px;
-            }
-
-            .presented-by {
-                font-size: 0.5rem;
-            }
+            header { padding: 10px 16px; }
+            .header-title h1 { font-size: 1rem; word-break: break-word; max-width: 90px; }
+            .header-title p  { font-size: 0.65rem; }
+            header a img, .archie-logo { height: 30px; }
+            .archie-logo { height: 50px; }
+            .presented-by { font-size: 0.5rem; }
+            main { padding: 20px 12px 48px; }
+            #search-input { width: 100%; }
+            .table-controls { flex-direction: column; align-items: flex-start; }
         }
-
     </style>                        
 </head>
 
@@ -158,8 +300,169 @@
             </div>
         </div>
     </header>
+
     <main>
-        <a href="top10.html">See top 10</a>
+        <!-- <a class="home-link" href="top10.html">← See Results</a> -->
+
+        <!-- ── TABLE WITH TOP 25 RACERS ─────────────────────────── -->
+        <div class="table-controls">
+            <div class="search-wrap">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                </svg>
+                <input type="text" id="search-input" placeholder="Search racers…" oninput="filterTable()">
+            </div>
+            <span class="row-count" id="row-count"></span>
+        </div>
+
+        <div class="table-wrap">
+            <table id="results-table">
+                <thead id="table-head"></thead>
+                <tbody id="table-body">
+                    <tr><td colspan="99" class="loading">Loading results…</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <!-- ── END TABLE ─────────────────────────────────────────── -->
+
     </main>
+
+    <script>
+    (() => {
+        // Column definitions: CSV key → display label, alignment, formatter
+        const COLS = [
+            { key: '_rank',        label: 'Rank',         align: 'center', fmt: v => v },
+            { key: 'racer_name',   label: 'Racer',        align: 'left',   fmt: v => v },
+            { key: 'total_points', label: 'Total Points', align: 'right',  fmt: v => Number(v).toLocaleString() },
+            { key: 'race_count',   label: 'Races',        align: 'center', fmt: v => v },
+        ];
+
+        // Columns that are sortable (exclude rank — rank reflects current sort order)
+        const SORTABLE_COLS = [1, 2, 3];
+
+        let allRows = [];   // array of objects keyed by CSV header
+        let sortColIdx = 2; // default: sort by total_points desc
+        let sortDir = -1;
+
+        // ── Parse CSV ───────────────────────────────────────────────
+        function parseCSV(text) {
+            const lines = text.trim().split(/\r?\n/);
+            const parseLine = line => {
+                const cols = []; let cur = '', inQ = false;
+                for (const ch of line) {
+                    if (ch === '"') { inQ = !inQ; continue; }
+                    if (ch === ',' && !inQ) { cols.push(cur.trim()); cur = ''; continue; }
+                    cur += ch;
+                }
+                cols.push(cur.trim());
+                return cols;
+            };
+            const hdrs = parseLine(lines[0]);
+            return lines.slice(1).filter(l => l.trim()).map(line => {
+                const vals = parseLine(line);
+                const obj = {};
+                hdrs.forEach((h, i) => obj[h] = vals[i] ?? '');
+                return obj;
+            });
+        }
+
+        // ── Build thead ─────────────────────────────────────────────
+        function buildHead() {
+            const tr = document.createElement('tr');
+            COLS.forEach((col, i) => {
+                const th = document.createElement('th');
+                th.style.textAlign = col.align;
+                if (SORTABLE_COLS.includes(i)) {
+                    th.innerHTML = `${col.label} <span class="sort-icon"></span>`;
+                    th.style.cursor = 'pointer';
+                    th.addEventListener('click', () => sortBy(i));
+                } else {
+                    th.textContent = col.label;
+                    th.style.cursor = 'default';
+                }
+                if (i === sortColIdx) th.classList.add(sortDir === 1 ? 'sorted-asc' : 'sorted-desc');
+                tr.appendChild(th);
+            });
+            document.getElementById('table-head').innerHTML = '';
+            document.getElementById('table-head').appendChild(tr);
+        }
+
+        // ── Render rows ─────────────────────────────────────────────
+        function renderRows(rows) {
+            const tbody = document.getElementById('table-body');
+            tbody.innerHTML = '';
+
+            if (!rows.length) {
+                tbody.innerHTML = '<tr><td colspan="99" class="no-results">No results found.</td></tr>';
+                document.getElementById('row-count').textContent = '0 racers';
+                return;
+            }
+
+            rows.forEach((row, idx) => {
+                const tr = document.createElement('tr');
+                COLS.forEach(col => {
+                    const td = document.createElement('td');
+                    td.style.textAlign = col.align;
+                    const raw = col.key === '_rank' ? String(idx + 1) : (row[col.key] ?? '');
+                    td.textContent = col.fmt(raw);
+                    tr.appendChild(td);
+                });
+                tbody.appendChild(tr);
+            });
+
+            const n = rows.length;
+            document.getElementById('row-count').textContent = `${n} racer${n !== 1 ? 's' : ''}`;
+        }
+
+        // ── Sort ────────────────────────────────────────────────────
+        function sortBy(colIdx) {
+            if (sortColIdx === colIdx) {
+                sortDir *= -1;
+            } else {
+                sortColIdx = colIdx;
+                sortDir = colIdx === 1 ? 1 : -1; // names asc, numbers desc by default
+            }
+
+            const key = COLS[colIdx].key;
+            allRows.sort((a, b) => {
+                const av = a[key] ?? '', bv = b[key] ?? '';
+                const an = parseFloat(av), bn = parseFloat(bv);
+                if (!isNaN(an) && !isNaN(bn)) return (an - bn) * sortDir;
+                return av.localeCompare(bv) * sortDir;
+            });
+
+            buildHead();
+            filterTable();
+        }
+
+        // ── Search / filter ─────────────────────────────────────────
+        window.filterTable = function () {
+            const q = document.getElementById('search-input').value.toLowerCase().trim();
+            const filtered = q
+                ? allRows.filter(row => Object.values(row).some(v => v.toLowerCase().includes(q)))
+                : allRows;
+            renderRows(filtered);
+        };
+
+        // ── Fetch & init ────────────────────────────────────────────
+        fetch('top_25.csv')
+            .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); })
+            .then(text => {
+                allRows = parseCSV(text);
+                // Default sort: total_points descending
+                allRows.sort((a, b) => parseFloat(b.total_points) - parseFloat(a.total_points));
+                buildHead();
+                renderRows(allRows);
+            })
+            .catch(err => {
+                document.getElementById('table-body').innerHTML =
+                    `<tr><td colspan="99" class="error-msg">
+                        Could not load results.csv — make sure it's in the same folder as this HTML file.<br>
+                        <small style="color:#aaa">${err.message}</small>
+                    </td></tr>`;
+                console.error('CSV load error:', err);
+            });
+    })();
+    </script>
 </body>
 </html>
