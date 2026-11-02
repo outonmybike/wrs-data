@@ -1,4 +1,4 @@
-race_number,category,place,racer_name,plate_number,points,finish_time,venue,race_date,avg_speed
+Race Number,Category,Place,Racer Name,Plate Number,Points,Finish Time,Race Location,Race Date,Average Speed
 1,PRO,1,Carter Anderson,5,80,0:45:43,Eagle Mountain,2023-04-12,13.6
 1,PRO,2,Hunter Hill,10,73,0:47:31,Eagle Mountain,2023-04-12,13.1
 1,PRO,3,Andrew Conover,6,66,0:47:33,Eagle Mountain,2023-04-12,13.1
@@ -4425,3 +4425,1384 @@ race_number,category,place,racer_name,plate_number,points,finish_time,venue,race
 ,Beginner Women,1,Karen Hoggan,50,,0:42:07,Soldier Hollow,2005-08-03,
 ,Beginner Women,1,Jennifer Lehmbeck,48,,0:45:34,Soldier Hollow,2005-07-21,
 ,Beginner Women,1,Jennifer Lehmbeck,48,,0:33:48,Soldier Hollow,2005-08-31,
+1,PRO,1,John Wessling,12,80,0:52:28,Eagle Mountain,2026-04-15,15.5
+1,PRO,2,Aj Conover,2,73,0:52:28,Eagle Mountain,2026-04-15,15.5
+1,PRO,3,Jude Marsden,1,66,0:53:05,Eagle Mountain,2026-04-15,15.3
+1,PRO,4,Henry Stevens,11,59,0:53:52,Eagle Mountain,2026-04-15,15.1
+1,PRO,5,James Parkinson,4,54,0:58:19,Eagle Mountain,2026-04-15,13.9
+1,PRO,6,Cooper Peterson,10,49,0:58:23,Eagle Mountain,2026-04-15,13.9
+1,PRO,7,Christian Merkley,9,44,0:58:27,Eagle Mountain,2026-04-15,13.9
+1,PRO,8,Jamison Burton,8,39,0:58:38,Eagle Mountain,2026-04-15,13.8
+1,PRO,9,Spencer Maughan,42,36,1:00:22,Eagle Mountain,2026-04-15,13.4
+1,PRO,10,Charlie Severson,5,33,1:05:43,Eagle Mountain,2026-04-15,12.3
+1,SEMI-PRO,1,Val Gibson,100,80,0:50:25,Eagle Mountain,2026-04-15,14.3
+1,SEMI-PRO,2,Tyson Peterson,114,73,0:50:28,Eagle Mountain,2026-04-15,14.3
+1,SEMI-PRO,3,Gerrit Garberich,109,66,0:50:32,Eagle Mountain,2026-04-15,14.2
+1,SEMI-PRO,4,Dan Nelson,104,59,0:51:52,Eagle Mountain,2026-04-15,13.9
+1,SEMI-PRO,5,Mark Tuttle,6,54,0:52:05,Eagle Mountain,2026-04-15,13.8
+1,SEMI-PRO,6,Matt Frisby,102,49,0:52:26,Eagle Mountain,2026-04-15,13.7
+1,SEMI-PRO,7,Owen Peterson,113,44,0:52:35,Eagle Mountain,2026-04-15,13.7
+1,SEMI-PRO,8,Nate Miller,103,39,0:53:05,Eagle Mountain,2026-04-15,13.6
+1,SEMI-PRO,9,Manny Howell,111,36,0:53:57,Eagle Mountain,2026-04-15,13.3
+1,SEMI-PRO,10,Blake Botten,106,33,0:54:05,Eagle Mountain,2026-04-15,13.3
+1,SEMI-PRO,11,Kimball Gay,110,30,0:54:19,Eagle Mountain,2026-04-15,13.2
+1,SEMI-PRO,12,Tavin Bussio,101,27,0:55:44,Eagle Mountain,2026-04-15,12.9
+1,SEMI-PRO,13,Judd Eldredge,108,24,0:55:50,Eagle Mountain,2026-04-15,12.9
+1,SEMI-PRO,14,Woody,0,21,0:55:53,Eagle Mountain,2026-04-15,12.9
+1,SEMI-PRO,15,Lewis Stewart,115,18,0:56:45,Eagle Mountain,2026-04-15,12.7
+1,SEMI-PRO,16,Dayvin Johnson,112,15,0:58:10,Eagle Mountain,2026-04-15,12.4
+1,SEMI-PRO,17,Boston Eldredge,107,12,1:08:31,Eagle Mountain,2026-04-15,10.5
+1,EXPERT A,1,Max Glade,412,80,0:45:57,Eagle Mountain,2026-04-15,13.7
+1,EXPERT A,2,Tyler Ashworth,211,73,0:47:33,Eagle Mountain,2026-04-15,13.3
+1,EXPERT A,3,Jason Coates,214,66,0:48:34,Eagle Mountain,2026-04-15,13.0
+1,EXPERT A,4,Pearson Wallace,226,59,0:48:45,Eagle Mountain,2026-04-15,12.9
+1,EXPERT A,5,Locke Erickson,217,54,0:48:51,Eagle Mountain,2026-04-15,12.9
+1,EXPERT A,6,Cameron Gibby,204,49,0:49:16,Eagle Mountain,2026-04-15,12.8
+1,EXPERT A,7,Henry Holmes,218,44,0:49:25,Eagle Mountain,2026-04-15,12.8
+1,EXPERT A,8,Clark Boushka,213,39,0:49:38,Eagle Mountain,2026-04-15,12.7
+1,EXPERT A,9,Leo Dailey,216,36,0:49:49,Eagle Mountain,2026-04-15,12.7
+1,EXPERT A,10,Todd Brown,203,33,0:50:10,Eagle Mountain,2026-04-15,12.6
+1,EXPERT A,11,Jeffrey Previte,220,30,0:50:26,Eagle Mountain,2026-04-15,12.5
+1,EXPERT A,12,Liam Thomas,225,27,0:50:26,Eagle Mountain,2026-04-15,12.5
+1,EXPERT A,13,Tj Stone,209,24,0:50:39,Eagle Mountain,2026-04-15,12.5
+1,EXPERT A,14,Brian Cook,215,21,0:50:43,Eagle Mountain,2026-04-15,12.4
+1,EXPERT A,15,Jacob Barton,212,18,0:50:53,Eagle Mountain,2026-04-15,12.4
+1,EXPERT A,16,Cody Shepherd,208,15,0:51:01,Eagle Mountain,2026-04-15,12.4
+1,EXPERT A,17,Taylor Smart,224,12,0:51:19,Eagle Mountain,2026-04-15,12.3
+1,EXPERT A,18,Dennis Allen,210,9,0:51:30,Eagle Mountain,2026-04-15,12.3
+1,EXPERT A,19,Jackson Bingham,201,7,0:52:23,Eagle Mountain,2026-04-15,12.0
+1,EXPERT A,20,Ben Severson,207,5,0:52:25,Eagle Mountain,2026-04-15,12.0
+1,EXPERT A,21,Nick Birch,202,3,0:54:14,Eagle Mountain,2026-04-15,11.6
+1,EXPERT A,22,Brian Ressa,221,2,0:54:17,Eagle Mountain,2026-04-15,11.6
+1,EXPERT A,23,Nathanicus Clarkmeister,200,2,0:57:27,Eagle Mountain,2026-04-15,11.0
+1,EXPERT A,24,Cory Larsen,206,2,0:57:30,Eagle Mountain,2026-04-15,11.0
+1,EXPERT A,25,Conner Jones,219,2,1:01:07,Eagle Mountain,2026-04-15,10.3
+1,PRO WOMEN,1,Sydney Averett,306,80,0:51:53,Eagle Mountain,2026-04-15,12.2
+1,PRO WOMEN,2,Ella Collett,307,73,0:54:53,Eagle Mountain,2026-04-15,11.5
+1,PRO WOMEN,3,Rachel Miller,301,66,0:55:55,Eagle Mountain,2026-04-15,11.3
+1,PRO WOMEN,4,Laura Jacobsen,308,59,0:56:19,Eagle Mountain,2026-04-15,11.2
+1,PRO WOMEN,5,Kristi Mcilmoil,302,54,0:56:20,Eagle Mountain,2026-04-15,11.2
+1,PRO WOMEN,6,Kylee Mendenhall,310,49,0:56:36,Eagle Mountain,2026-04-15,11.1
+1,PRO WOMEN,7,Macey Morgan,311,44,0:57:28,Eagle Mountain,2026-04-15,11.0
+1,PRO WOMEN,8,Brooke Louis,309,39,0:57:42,Eagle Mountain,2026-04-15,10.9
+1,PRO WOMEN,9,Samara Smith,304,36,0:58:16,Eagle Mountain,2026-04-15,10.8
+1,PRO WOMEN,10,Hayden Brown,305,33,0:58:22,Eagle Mountain,2026-04-15,10.8
+1,EXPERT B,1,John D Mcilmoil,404,80,0:42:52,Eagle Mountain,2026-04-15,12.6
+1,EXPERT B,2,Eli Crandall,426,73,0:43:31,Eagle Mountain,2026-04-15,12.4
+1,EXPERT B,3,Camden Rose,222,66,0:44:09,Eagle Mountain,2026-04-15,12.2
+1,EXPERT B,4,Jared Ririe,408,59,0:44:25,Eagle Mountain,2026-04-15,12.2
+1,EXPERT B,5,Jerry Brown,400,54,0:44:58,Eagle Mountain,2026-04-15,12.0
+1,EXPERT B,6,Jordan Thurston,410,49,0:45:09,Eagle Mountain,2026-04-15,12.0
+1,EXPERT B,7,Ryan Mann,422,44,0:45:17,Eagle Mountain,2026-04-15,11.9
+1,EXPERT B,8,John W Mcilmoil,405,39,0:45:21,Eagle Mountain,2026-04-15,11.9
+1,EXPERT B,9,Shane Jenson,420,36,0:45:24,Eagle Mountain,2026-04-15,11.9
+1,EXPERT B,10,Mike Madsen,421,33,0:46:36,Eagle Mountain,2026-04-15,11.6
+1,EXPERT B,11,Tyler Perry,406,30,0:46:42,Eagle Mountain,2026-04-15,11.6
+1,EXPERT B,12,Joey Jacobsen,418,27,0:47:01,Eagle Mountain,2026-04-15,11.5
+1,EXPERT B,13,Carey Pierce,423,24,0:47:11,Eagle Mountain,2026-04-15,11.4
+1,EXPERT B,14,Heber Anderson,413,21,0:48:22,Eagle Mountain,2026-04-15,11.2
+1,EXPERT B,15,Landon Larsen,403,18,0:49:17,Eagle Mountain,2026-04-15,11.0
+1,EXPERT B,16,Wells Holmes,417,15,0:49:29,Eagle Mountain,2026-04-15,10.9
+1,EXPERT B,17,Hunter Bennett,414,12,0:50:25,Eagle Mountain,2026-04-15,10.7
+1,EXPERT B,18,Elijah Styler,424,9,0:57:22,Eagle Mountain,2026-04-15,9.4
+1,EXPERT B,19,Peter Fitzgerald,415,7,0:59:03,Eagle Mountain,2026-04-15,9.1
+1,EXPERT B,20,Cora Hafen,416,5,1:01:38,Eagle Mountain,2026-04-15,8.7
+1,EXPERT B,21,Thomas Witney,425,3,1:06:14,Eagle Mountain,2026-04-15,8.1
+1,EXPERT B,22,Markee Farrer,1013,2,1:07:13,Eagle Mountain,2026-04-15,8.0
+1,EXPERT B,23,Tyler Abrams,1004,2,1:07:19,Eagle Mountain,2026-04-15,8.0
+1,EXPERT C,1,Zac Rollins,514,80,0:42:36,Eagle Mountain,2026-04-15,12.7
+1,EXPERT C,2,Dylan Glover,502,73,0:43:39,Eagle Mountain,2026-04-15,12.4
+1,EXPERT C,3,Tommy Peterson,513,66,0:44:15,Eagle Mountain,2026-04-15,12.2
+1,EXPERT C,4,Edward Yuan,518,59,0:47:55,Eagle Mountain,2026-04-15,11.3
+1,EXPERT C,5,Charlie Turcsanski,516,54,0:47:56,Eagle Mountain,2026-04-15,11.3
+1,EXPERT C,6,Gordon Garrett,511,49,0:48:24,Eagle Mountain,2026-04-15,11.2
+1,EXPERT C,7,Bryan King,503,44,0:48:52,Eagle Mountain,2026-04-15,11.0
+1,EXPERT C,8,Ben Marsden,512,39,0:49:41,Eagle Mountain,2026-04-15,10.9
+1,EXPERT C,9,John Taylor,515,36,0:50:20,Eagle Mountain,2026-04-15,10.7
+1,EXPERT C,10,Matt Barton,507,33,0:50:25,Eagle Mountain,2026-04-15,10.7
+1,EXPERT C,11,Kerry Smith,504,30,0:50:25,Eagle Mountain,2026-04-15,10.7
+1,EXPERT C,12,Jeff Clark,510,27,0:51:40,Eagle Mountain,2026-04-15,10.4
+1,EXPERT C,13,Parker Allen,506,24,0:51:56,Eagle Mountain,2026-04-15,10.4
+1,EXPERT C,14,Kolby Bernards,508,21,0:52:05,Eagle Mountain,2026-04-15,10.4
+1,EXPERT C,15,Matt Y,517,18,0:52:05,Eagle Mountain,2026-04-15,10.4
+1,EXPERT C,16,Jayson Vincent,505,15,0:52:41,Eagle Mountain,2026-04-15,10.2
+1,EXPERT C,17,Ian Beaty,500,12,0:54:04,Eagle Mountain,2026-04-15,10.0
+1,EXPERT C,18,Kyden Bernards,509,9,0:54:41,Eagle Mountain,2026-04-15,9.9
+1,EXPERT C,19,Mark Nelson,000,7,0:55:20,Eagle Mountain,2026-04-15,9.8
+1,EXPERT C,20,Calvin Cahoon,501,5,0:57:53,Eagle Mountain,2026-04-15,9.3
+1,EXPERT WOMEN,1,Caylie Peterson,605,80,0:50:15,Eagle Mountain,2026-04-15,10.7
+1,EXPERT WOMEN,2,Jeanette Pierce,606,73,0:50:49,Eagle Mountain,2026-04-15,10.6
+1,EXPERT WOMEN,3,Hillary Brown,601,66,0:53:33,Eagle Mountain,2026-04-15,10.1
+1,EXPERT WOMEN,4,Christina Perry,604,59,0:56:19,Eagle Mountain,2026-04-15,9.6
+1,SPORT A,1,Scott Muhlestein,701,80,0:36:37,Eagle Mountain,2026-04-15,12.3
+1,SPORT A,2,David Rodriguez,702,73,0:36:52,Eagle Mountain,2026-04-15,12.2
+1,SPORT A,3,Wyatt Dawson,705,66,0:37:02,Eagle Mountain,2026-04-15,12.1
+1,SPORT A,4,Colton Pearce,708,59,0:38:34,Eagle Mountain,2026-04-15,11.6
+1,SPORT A,5,Malcolm Rose,710,54,0:39:43,Eagle Mountain,2026-04-15,11.3
+1,SPORT A,6,Dennis Muhlestein,707,49,0:40:45,Eagle Mountain,2026-04-15,11.0
+1,SPORT A,7,Soelden Probert,709,44,0:41:41,Eagle Mountain,2026-04-15,10.8
+1,SPORT A,8,Mattix Thurston,703,39,0:44:42,Eagle Mountain,2026-04-15,10.0
+1,SPORT A,9,Bryant Muhlestein,706,36,0:46:50,Eagle Mountain,2026-04-15,9.6
+1,SPORT A,10,Phillip Titsworth,711,33,0:47:17,Eagle Mountain,2026-04-15,9.5
+1,SPORT A,11,Brad Zobrist,712,30,0:48:33,Eagle Mountain,2026-04-15,9.2
+1,SPORT B,1,Grant Crandall,815,80,0:33:33,Eagle Mountain,2026-04-15,10.8
+1,SPORT B,2,Nathan Crandall,816,73,0:33:39,Eagle Mountain,2026-04-15,10.7
+1,SPORT B,3,Cole Sorenson,805,66,0:33:42,Eagle Mountain,2026-04-15,10.7
+1,SPORT B,4,Todd Kingsolver,812,59,0:35:09,Eagle Mountain,2026-04-15,10.3
+1,SPORT B,5,Isaac Miller,803,54,0:36:31,Eagle Mountain,2026-04-15,9.9
+1,SPORT B,6,Wels Decker,808,49,0:38:07,Eagle Mountain,2026-04-15,9.5
+1,SPORT B,7,Kyrie Bingham,800,44,0:39:01,Eagle Mountain,2026-04-15,9.2
+1,SPORT B,8,Raymond Fitzgerald,809,39,0:39:56,Eagle Mountain,2026-04-15,9.0
+1,SPORT B,9,Troy Johansson,811,36,0:40:24,Eagle Mountain,2026-04-15,8.9
+1,SPORT B,10,Tyson Widdison,806,33,0:41:56,Eagle Mountain,2026-04-15,8.6
+1,SPORT B,11,Nathan Peterson,814,30,0:41:59,Eagle Mountain,2026-04-15,8.6
+1,SPORT B,12,Jared Payne,807,27,0:43:17,Eagle Mountain,2026-04-15,8.3
+1,SPORT B,13,Danny Mann,813,24,0:44:22,Eagle Mountain,2026-04-15,8.1
+1,SPORT B,14,Sean Kerman,802,21,0:59:46,Eagle Mountain,2026-04-15,6.0
+1,SPORT B,DNF,Matthew Robbins,804,2,,Eagle Mountain,2026-04-15,
+1,SPORT WOMEN,1,Brooke Vincent,910,80,0:33:07,Eagle Mountain,2026-04-15,10.9
+1,SPORT WOMEN,2,Aurora Curtis,906,73,0:34:17,Eagle Mountain,2026-04-15,10.5
+1,SPORT WOMEN,3,Lindsay Curtis,907,66,0:37:34,Eagle Mountain,2026-04-15,9.6
+1,SPORT WOMEN,4,Sammi Buckner,905,59,0:38:11,Eagle Mountain,2026-04-15,9.4
+1,SPORT WOMEN,5,Lexi Spensko,909,54,0:39:04,Eagle Mountain,2026-04-15,9.2
+1,SPORT WOMEN,6,Becky Moyes,902,49,0:39:19,Eagle Mountain,2026-04-15,9.2
+1,SPORT WOMEN,7,Lyla Brown,901,44,0:40:17,Eagle Mountain,2026-04-15,8.9
+1,SPORT WOMEN,8,Jami Buckner,903,39,0:40:20,Eagle Mountain,2026-04-15,8.9
+1,SPORT WOMEN,9,Liz Buckner,904,36,0:40:45,Eagle Mountain,2026-04-15,8.8
+1,SPORT WOMEN,10,Colleen Hafen,908,33,0:50:16,Eagle Mountain,2026-04-15,7.2
+1,JUNIOR,1,Grant Gibson,1000,80,0:25:49,Eagle Mountain,2026-04-15,10.5
+1,JUNIOR,2,Trey Madsen,1002,73,0:25:53,Eagle Mountain,2026-04-15,10.4
+1,JUNIOR,3,Julianna Titsworth,1011,66,0:29:55,Eagle Mountain,2026-04-15,9.0
+1,JUNIOR,4,Liam Childs,1006,59,0:30:56,Eagle Mountain,2026-04-15,8.7
+1,JUNIOR,5,Carter Jones,1108,54,0:34:19,Eagle Mountain,2026-04-15,7.9
+1,JUNIOR,6,Alex Elison,1007,49,0:35:23,Eagle Mountain,2026-04-15,7.6
+1,JUNIOR,7,Bailey Louder,1009,44,0:39:03,Eagle Mountain,2026-04-15,6.9
+1,JUNIOR,8,Nathan Kerman,1001,39,0:42:03,Eagle Mountain,2026-04-15,6.4
+1,JUNIOR,9,Tyler Wilkin,1012,36,0:52:05,Eagle Mountain,2026-04-15,5.2
+1,JUNIOR,10,Reno Jones,1008,33,0:52:12,Eagle Mountain,2026-04-15,5.1
+1,JUNIOR,11,Kayson Reed,1010,30,0:53:11,Eagle Mountain,2026-04-15,5.0
+1,JUNIOR,12,Ellie Anderson,1005,27,0:53:12,Eagle Mountain,2026-04-15,5.0
+1,BEGINNER,1,Asher Burton,1105,80,0:14:58,Eagle Mountain,2026-04-15,12.1
+1,BEGINNER,2,Eliza Miller,1100,73,0:16:50,Eagle Mountain,2026-04-15,10.8
+1,BEGINNER,3,Cooper Jones,1109,66,0:17:42,Eagle Mountain,2026-04-15,10.3
+1,BEGINNER,4,Amy Kerman,1103,59,0:18:11,Eagle Mountain,2026-04-15,10.0
+1,BEGINNER,5,Becca Buckner,1104,54,0:20:53,Eagle Mountain,2026-04-15,8.7
+1,BEGINNER,6,Dan Kerman,1102,49,0:22:17,Eagle Mountain,2026-04-15,8.1
+1,BEGINNER,7,Callen Muhlestein,1111,44,0:23:53,Eagle Mountain,2026-04-15,7.6
+1,BEGINNER,8,Zander Smith,1112,39,0:29:49,Eagle Mountain,2026-04-15,6.1
+2,PRO,1,Preston Johnson,16,80,0:56:58,Euclid,2026-04-29,12.7
+2,PRO,2,John Wessling,12,73,0:57:52,Euclid,2026-04-29,12.5
+2,PRO,3,Jasper Armstrong,14,66,0:58:26,Euclid,2026-04-29,12.4
+2,PRO,4,Aj Conover,2,59,0:58:38,Euclid,2026-04-29,12.3
+2,PRO,5,Asa Pulley,19,54,1:00:54,Euclid,2026-04-29,11.9
+2,PRO,6,James Parkinson,4,49,1:01:48,Euclid,2026-04-29,11.7
+2,PRO,7,Tanner Gillespie,13,44,1:02:17,Euclid,2026-04-29,11.6
+2,PRO,8,Milo Peterson,17,39,1:03:18,Euclid,2026-04-29,11.4
+2,PRO,9,Scott Preston,7,36,1:06:00,Euclid,2026-04-29,10.9
+2,PRO,10,Christian Merkley,9,33,1:07:14,Euclid,2026-04-29,10.7
+2,PRO,11,Emmett Covington,15,30,1:08:40,Euclid,2026-04-29,10.5
+2,PRO,12,Spencer Maughan,42,27,1:10:01,Euclid,2026-04-29,10.3
+2,PRO,13,Charlie Severson,5,24,1:10:03,Euclid,2026-04-29,10.3
+2,PRO,DNF,Asher Pope,18,2,,Euclid,2026-04-29,
+2,SEMI-PRO,1,Val Gibson,100,80,0:56:16,Euclid,2026-04-29,11.3
+2,SEMI-PRO,2,Bayles Black,117,73,0:58:24,Euclid,2026-04-29,10.9
+2,SEMI-PRO,3,Eli Armstrong,116,66,1:00:18,Euclid,2026-04-29,10.5
+2,SEMI-PRO,4,Mark Tuttle,6,59,1:01:11,Euclid,2026-04-29,10.4
+2,SEMI-PRO,5,James Lewis,119,54,1:01:56,Euclid,2026-04-29,10.3
+2,SEMI-PRO,6,Tavin Bussio,101,49,1:02:23,Euclid,2026-04-29,10.2
+2,SEMI-PRO,7,John Woodruff,0,44,1:03:10,Euclid,2026-04-29,10.1
+2,SEMI-PRO,8,Matt Frisby,102,39,1:03:50,Euclid,2026-04-29,10.0
+2,SEMI-PRO,9,Ethan Nicholson,120,36,1:04:26,Euclid,2026-04-29,9.9
+2,SEMI-PRO,10,Joe Reese,122,33,1:05:15,Euclid,2026-04-29,9.7
+2,SEMI-PRO,11,Lewis Stewart,115,30,1:06:03,Euclid,2026-04-29,9.6
+2,SEMI-PRO,12,Dayvin Johnson,112,27,1:06:49,Euclid,2026-04-29,9.5
+2,SEMI-PRO,13,Benjamin Preece,121,24,1:08:07,Euclid,2026-04-29,9.3
+2,SEMI-PRO,DNF,Quinn Jacobsen,118,2,,Euclid,2026-04-29,
+2,EXPERT A,1,Max Glade,412,80,0:47:16,Euclid,2026-04-29,10.9
+2,EXPERT A,2,Quinn Parks,233,73,0:48:48,Euclid,2026-04-29,10.5
+2,EXPERT A,3,Grant Mcrae,231,66,0:49:24,Euclid,2026-04-29,10.4
+2,EXPERT A,4,Jason Coates,214,59,0:49:47,Euclid,2026-04-29,10.3
+2,EXPERT A,5,Grayson Adams,227,54,0:50:34,Euclid,2026-04-29,10.2
+2,EXPERT A,6,Clark Boushka,213,49,0:51:39,Euclid,2026-04-29,9.9
+2,EXPERT A,7,Easton Bybee,229,44,0:51:40,Euclid,2026-04-29,9.9
+2,EXPERT A,8,Adam Pulley,234,39,0:51:41,Euclid,2026-04-29,9.9
+2,EXPERT A,9,Henry Holmes,218,36,0:51:52,Euclid,2026-04-29,9.9
+2,EXPERT A,10,Cody Shepherd,208,33,0:52:55,Euclid,2026-04-29,9.7
+2,EXPERT A,11,Todd Brown,203,30,0:53:24,Euclid,2026-04-29,9.6
+2,EXPERT A,12,Thomas Hansen,205,27,0:53:46,Euclid,2026-04-29,9.5
+2,EXPERT A,13,Aiden Hoover,230,24,0:53:54,Euclid,2026-04-29,9.5
+2,EXPERT A,14,Brian Ressa,221,21,0:54:31,Euclid,2026-04-29,9.4
+2,EXPERT A,15,Nathanicus Clarkmeister,200,18,0:55:18,Euclid,2026-04-29,9.3
+2,EXPERT A,16,Ben Severson,207,15,0:55:51,Euclid,2026-04-29,9.2
+2,EXPERT A,17,Tj Stone,209,12,0:56:25,Euclid,2026-04-29,9.1
+2,EXPERT A,18,Jackson Bingham,201,9,0:56:25,Euclid,2026-04-29,9.1
+2,EXPERT A,19,Liam Thomas,225,7,0:56:38,Euclid,2026-04-29,9.1
+2,EXPERT A,20,Nick Birch,202,5,0:58:33,Euclid,2026-04-29,8.8
+2,EXPERT A,21,Conner Jones,219,3,1:03:10,Euclid,2026-04-29,8.1
+2,EXPERT A,22,Tyler Brinkerhoff,228,2,1:20:03,Euclid,2026-04-29,6.4
+2,PRO WOMEN,1,Pepper Smith,314,80,0:46:02,Euclid,2026-04-29,10.1
+2,PRO WOMEN,2,Ella Collett,307,73,0:50:41,Euclid,2026-04-29,9.2
+2,PRO WOMEN,3,Kristi Mcilmoil,302,66,0:51:53,Euclid,2026-04-29,9.0
+2,PRO WOMEN,4,Avery Charles,313,59,0:51:56,Euclid,2026-04-29,9.0
+2,PRO WOMEN,5,Samara Smith,304,54,0:53:24,Euclid,2026-04-29,8.7
+2,PRO WOMEN,6,Hayden Brown,305,49,0:55:58,Euclid,2026-04-29,8.3
+2,PRO WOMEN,7,Macey Morgan,311,44,0:56:07,Euclid,2026-04-29,8.3
+2,PRO WOMEN,8,Laura Jacobsen,308,39,0:56:10,Euclid,2026-04-29,8.3
+2,PRO WOMEN,9,Avery Preston,303,36,0:57:44,Euclid,2026-04-29,8.1
+2,EXPERT B,1,Carter Shea,430,80,0:46:48,Euclid,2026-04-29,9.9
+2,EXPERT B,2,Grey Gardner,401,73,0:47:09,Euclid,2026-04-29,9.9
+2,EXPERT B,3,Eli Crandall,426,66,0:47:34,Euclid,2026-04-29,9.8
+2,EXPERT B,4,Jared Ririe,408,59,0:49:08,Euclid,2026-04-29,9.5
+2,EXPERT B,5,Chris Covington,427,54,0:49:22,Euclid,2026-04-29,9.4
+2,EXPERT B,6,Jerry Brown,400,49,0:49:28,Euclid,2026-04-29,9.4
+2,EXPERT B,7,Camden Rose,222,44,0:49:42,Euclid,2026-04-29,9.4
+2,EXPERT B,8,Tyler Perry,406,39,0:50:34,Euclid,2026-04-29,9.2
+2,EXPERT B,9,Thomas Witney,425,36,0:50:54,Euclid,2026-04-29,9.1
+2,EXPERT B,10,Landon Larsen,403,33,0:51:00,Euclid,2026-04-29,9.1
+2,EXPERT B,11,John D Mcilmoil,404,30,0:51:02,Euclid,2026-04-29,9.1
+2,EXPERT B,12,John W Mcilmoil,405,27,0:52:00,Euclid,2026-04-29,8.9
+2,EXPERT B,13,Beckam Zobrist,431,24,0:53:17,Euclid,2026-04-29,8.7
+2,EXPERT B,14,Kipton Pilling,429,21,0:53:20,Euclid,2026-04-29,8.7
+2,EXPERT B,15,Carey Pierce,423,18,0:55:21,Euclid,2026-04-29,8.4
+2,EXPERT B,16,Joey Jacobsen,418,15,0:55:34,Euclid,2026-04-29,8.4
+2,EXPERT B,17,Cory Larsen,428,12,0:59:14,Euclid,2026-04-29,7.9
+2,EXPERT B,18,Wells Holmes,417,9,1:01:30,Euclid,2026-04-29,7.6
+2,EXPERT B,19,Elijah Styler,424,7,1:07:03,Euclid,2026-04-29,6.9
+2,EXPERT B,DNF,Markee Farrer,1013,2,,Euclid,2026-04-29,
+2,EXPERT B,DNF,Tyler Abrams,1004,2,,Euclid,2026-04-29,
+2,EXPERT C,1,Dylan Glover,502,80,0:46:33,Euclid,2026-04-29,10.0
+2,EXPERT C,2,Charlie Turcsanski,516,73,0:49:48,Euclid,2026-04-29,9.3
+2,EXPERT C,3,Tommy Peterson,513,66,0:50:57,Euclid,2026-04-29,9.1
+2,EXPERT C,4,Gordon Garrett,511,59,0:55:05,Euclid,2026-04-29,8.4
+2,EXPERT C,5,Kerry Smith,504,54,0:55:06,Euclid,2026-04-29,8.4
+2,EXPERT C,6,Mark Nelson,000,49,0:55:51,Euclid,2026-04-29,8.3
+2,EXPERT C,7,Nate Jacobsen,520,44,0:56:50,Euclid,2026-04-29,8.2
+2,EXPERT C,8,Matt Stewart,517,39,0:58:09,Euclid,2026-04-29,8.0
+2,EXPERT C,9,Brian Stastny,523,36,0:58:16,Euclid,2026-04-29,8.0
+2,EXPERT C,10,Hunter Jeppson,521,33,0:59:21,Euclid,2026-04-29,7.8
+2,EXPERT C,11,Jayson Vincent,505,30,1:01:47,Euclid,2026-04-29,7.5
+2,EXPERT C,12,Kolby Bernards,508,27,1:04:07,Euclid,2026-04-29,7.2
+2,EXPERT C,13,Cole Gonsalves,519,24,1:06:03,Euclid,2026-04-29,7.0
+2,EXPERT C,14,John Taylor,515,21,1:06:42,Euclid,2026-04-29,7.0
+2,EXPERT C,15,Kris Johnson,522,18,1:06:49,Euclid,2026-04-29,7.0
+2,EXPERT C,16,Calvin Cahoon,501,15,1:06:59,Euclid,2026-04-29,6.9
+2,EXPERT C,17,Kyden Bernards,509,12,1:10:35,Euclid,2026-04-29,6.6
+2,EXPERT WOMEN,1,Emma Walton,608,80,0:45:02,Euclid,2026-04-29,8.4
+2,EXPERT WOMEN,2,Alexia Welch,609,73,0:45:29,Euclid,2026-04-29,8.3
+2,EXPERT WOMEN,3,Jeanette Pierce,606,66,0:46:37,Euclid,2026-04-29,8.1
+2,EXPERT WOMEN,4,Hillary Brown,601,59,0:46:49,Euclid,2026-04-29,8.1
+2,EXPERT WOMEN,5,Brooke Louis,610,54,0:46:56,Euclid,2026-04-29,8.1
+2,EXPERT WOMEN,6,Sydney Reese,607,49,0:48:23,Euclid,2026-04-29,7.8
+2,EXPERT WOMEN,7,Christina Perry,604,44,0:49:46,Euclid,2026-04-29,7.6
+2,EXPERT WOMEN,8,Ariann Apostol,600,39,0:50:30,Euclid,2026-04-29,7.5
+2,EXPERT WOMEN,9,Maya Hood,602,36,0:59:04,Euclid,2026-04-29,6.4
+2,EXPERT WOMEN,DNF,Emma Johnson,603,2,0:50:33,Euclid,2026-04-29,7.5
+2,SPORT A,1,David Rodriguez,702,80,0:39:08,Euclid,2026-04-29,9.7
+2,SPORT A,2,Wyatt Dawson,705,73,0:39:08,Euclid,2026-04-29,9.7
+2,SPORT A,3,Keagan Peterson,713,66,0:40:23,Euclid,2026-04-29,9.4
+2,SPORT A,4,Brody Smith,714,59,0:42:31,Euclid,2026-04-29,8.9
+2,SPORT A,5,Scott Muhlestein,701,54,0:44:03,Euclid,2026-04-29,8.6
+2,SPORT A,6,Soelden Probert,709,49,0:44:13,Euclid,2026-04-29,8.6
+2,SPORT A,7,Dennis Muhlestein,707,44,0:44:27,Euclid,2026-04-29,8.5
+2,SPORT A,8,Colton Pearce,708,39,0:44:41,Euclid,2026-04-29,8.5
+2,SPORT A,9,Jensen Paterson,700,36,0:48:17,Euclid,2026-04-29,7.8
+2,SPORT A,10,Bryant Muhlestein,706,33,0:48:18,Euclid,2026-04-29,7.8
+2,SPORT A,11,Mattix Thurston,703,30,0:49:30,Euclid,2026-04-29,7.6
+2,SPORT A,DNF,Darian Bingham,704,2,,Euclid,2026-04-29,
+2,SPORT B,1,Zack Morgan,824,80,0:37:46,Euclid,2026-04-29,8.8
+2,SPORT B,2,Scott Nicholson,826,73,0:39:25,Euclid,2026-04-29,8.4
+2,SPORT B,3,Cole Sorenson,805,66,0:40:40,Euclid,2026-04-29,8.1
+2,SPORT B,4,Scott Matheson,822,59,0:42:21,Euclid,2026-04-29,7.8
+2,SPORT B,5,Brad Zobrist,829,54,0:43:25,Euclid,2026-04-29,7.6
+2,SPORT B,6,Jesse Coates,819,49,0:43:40,Euclid,2026-04-29,7.6
+2,SPORT B,7,Kyrie Bingham,800,44,0:47:58,Euclid,2026-04-29,6.9
+2,SPORT B,8,Gary Moyes,825,39,0:48:14,Euclid,2026-04-29,6.9
+2,SPORT B,9,Chris Pilling,827,36,0:50:28,Euclid,2026-04-29,6.5
+2,SPORT B,10,Josh Leavitt,817,33,0:52:28,Euclid,2026-04-29,6.3
+2,SPORT B,11,Jared Payne,807,30,0:53:29,Euclid,2026-04-29,6.2
+2,SPORT B,12,Karina Saunders,828,27,0:55:05,Euclid,2026-04-29,6.0
+2,SPORT B,13,Richard Matheson,821,24,0:55:31,Euclid,2026-04-29,5.9
+2,SPORT B,14,Sean Kerman,802,21,1:25:27,Euclid,2026-04-29,3.8
+2,SPORT B,DNF,Dakoda Araiza,818,2,,Euclid,2026-04-29,
+2,SPORT B,DNF,Dante Miller,823,2,,Euclid,2026-04-29,
+2,SPORT WOMEN,1,Kanani Richards,914,80,0:39:08,Euclid,2026-04-29,8.5
+2,SPORT WOMEN,2,Brooke Vincent,910,73,0:39:42,Euclid,2026-04-29,8.3
+2,SPORT WOMEN,3,Aurora Curtis,906,66,0:40:27,Euclid,2026-04-29,8.2
+2,SPORT WOMEN,4,Lucy Nelson,900,59,0:40:46,Euclid,2026-04-29,8.1
+2,SPORT WOMEN,5,Lindsay Curtis,907,54,0:44:36,Euclid,2026-04-29,7.4
+2,SPORT WOMEN,6,Becky Moyes,902,49,0:52:46,Euclid,2026-04-29,6.3
+2,SPORT WOMEN,7,Jane Jeppson,913,44,0:54:18,Euclid,2026-04-29,6.1
+2,SPORT WOMEN,8,Kallie Anderson,911,39,0:55:41,Euclid,2026-04-29,5.9
+2,SPORT WOMEN,9,Tara Bate,912,36,0:57:54,Euclid,2026-04-29,5.7
+2,SPORT WOMEN,DNF,Alexis (lexi) Spensko,909,2,,Euclid,2026-04-29,
+2,SPORT WOMEN,DNF,Lyla Brown,901,2,,Euclid,2026-04-29,
+2,JUNIOR,1,Grant Gibson,1000,80,0:22:38,Euclid,2026-04-29,9.2
+2,JUNIOR,2,Trey Madsen,1002,73,0:24:52,Euclid,2026-04-29,8.4
+2,JUNIOR,3,Tyler Wilkin,1012,66,0:25:26,Euclid,2026-04-29,8.2
+2,JUNIOR,4,Reno Jones,1008,59,0:25:45,Euclid,2026-04-29,8.1
+2,JUNIOR,5,Hazel Adams,1014,54,0:29:33,Euclid,2026-04-29,7.1
+2,JUNIOR,6,Dunken Paterson,1003,49,0:30:02,Euclid,2026-04-29,6.9
+2,JUNIOR,7,Julianna Titsworth,1011,44,0:33:26,Euclid,2026-04-29,6.2
+2,JUNIOR,8,Carter Jones,1108,39,0:36:41,Euclid,2026-04-29,5.7
+2,JUNIOR,9,Michael Vaillancourt,1120,36,0:37:14,Euclid,2026-04-29,5.6
+2,JUNIOR,10,Nathan Kerman,1015,33,0:43:40,Euclid,2026-04-29,4.8
+2,JUNIOR,11,Ellie Anderson,1005,30,1:21:48,Euclid,2026-04-29,2.5
+2,BEGINNER,1,Atticus Shepherd,1117,80,0:25:13,Euclid,2026-04-29,9.0
+2,BEGINNER,2,Crosby Tucker,1119,73,0:26:24,Euclid,2026-04-29,8.5
+2,BEGINNER,3,Cooper Jones,1109,66,0:27:25,Euclid,2026-04-29,8.2
+2,BEGINNER,4,Dan Kerman,1102,59,0:30:11,Euclid,2026-04-29,7.5
+2,BEGINNER,5,Cooper Nelson,1121,54,0:31:43,Euclid,2026-04-29,7.1
+2,BEGINNER,6,Maile Richards,1116,49,0:31:56,Euclid,2026-04-29,7.1
+2,BEGINNER,7,Jay Jacobsen,1114,44,0:33:52,Euclid,2026-04-29,6.6
+2,BEGINNER,8,Amy Kerman,1103,39,0:33:57,Euclid,2026-04-29,6.6
+2,BEGINNER,9,Helana Shepherd,1118,36,0:37:12,Euclid,2026-04-29,6.0
+2,BEGINNER,10,Isaac Kerman,1115,33,0:41:25,Euclid,2026-04-29,5.4
+2,BEGINNER,DNF,Mars Burton,1113,2,,Euclid,2026-04-29,
+2,BEGINNER,DNF,Callen Muhlestein,1111,2,,Euclid,2026-04-29,
+3,PRO,1,Jude Marsden,1,80,1:00:46,Sorensen,2026-05-13,13.1
+3,PRO,2,Preston Johnson,16,73,1:00:47,Sorensen,2026-05-13,13.1
+3,PRO,3,Johnny D Pedersen,22,66,1:02:43,Sorensen,2026-05-13,12.7
+3,PRO,4,Jasper Armstrong,14,59,1:03:46,Sorensen,2026-05-13,12.4
+3,PRO,5,Asa Pulley,19,54,1:04:05,Sorensen,2026-05-13,12.4
+3,PRO,6,James Parkinson,4,49,1:07:30,Sorensen,2026-05-13,11.8
+3,PRO,7,Asher Pope,18,44,1:09:36,Sorensen,2026-05-13,11.4
+3,PRO,8,Scott Preston,7,39,1:09:56,Sorensen,2026-05-13,11.3
+3,PRO,9,Charlie Severson,5,36,1:12:00,Sorensen,2026-05-13,11.0
+3,PRO,10,Chase Bacon,20,33,1:13:16,Sorensen,2026-05-13,10.8
+3,PRO,11,Spencer Maughan,42,30,1:13:29,Sorensen,2026-05-13,10.8
+3,PRO,12,Emmett Covington,15,27,1:13:41,Sorensen,2026-05-13,10.8
+3,PRO,13,Brandon Firth,21,24,1:13:42,Sorensen,2026-05-13,10.8
+3,SEMI-PRO,1,Gerrit Garberich,109,80,1:02:33,Sorensen,2026-05-13,11.6
+3,SEMI-PRO,2,Spencer Stevenson,129,73,1:03:30,Sorensen,2026-05-13,11.5
+3,SEMI-PRO,3,Quinn Parks,131,66,1:03:55,Sorensen,2026-05-13,11.4
+3,SEMI-PRO,4,Eli Armstrong,116,59,1:03:55,Sorensen,2026-05-13,11.4
+3,SEMI-PRO,5,Val Gibson,100,54,1:05:04,Sorensen,2026-05-13,11.2
+3,SEMI-PRO,6,Blake Botten,106,49,1:06:22,Sorensen,2026-05-13,11.0
+3,SEMI-PRO,7,Mason Schwarzenbach,128,44,1:06:23,Sorensen,2026-05-13,11.0
+3,SEMI-PRO,8,Dillon Bethers,123,39,1:07:02,Sorensen,2026-05-13,10.9
+3,SEMI-PRO,9,John Ginster,125,36,1:07:05,Sorensen,2026-05-13,10.9
+3,SEMI-PRO,10,Brandon Smith,105,33,1:07:38,Sorensen,2026-05-13,10.8
+3,SEMI-PRO,11,Nate Miller,103,30,1:07:56,Sorensen,2026-05-13,10.7
+3,SEMI-PRO,12,Tavin Bussio,101,27,1:08:22,Sorensen,2026-05-13,10.6
+3,SEMI-PRO,13,Matt Frisby,102,24,1:09:15,Sorensen,2026-05-13,10.5
+3,SEMI-PRO,14,Joe Reese,122,21,1:09:35,Sorensen,2026-05-13,10.5
+3,SEMI-PRO,15,Cody Richards,127,18,1:10:50,Sorensen,2026-05-13,10.3
+3,SEMI-PRO,16,Dayvin Johnson,112,15,1:12:22,Sorensen,2026-05-13,10.1
+3,SEMI-PRO,17,Thomas van de Kamp,130,12,1:13:25,Sorensen,2026-05-13,9.9
+3,SEMI-PRO,18,John Woodruff,0,9,1:13:52,Sorensen,2026-05-13,9.8
+3,SEMI-PRO,DNF,Dan Nelson,104,2,,Sorensen,2026-05-13,
+3,SEMI-PRO,DNF,Liam Buhl,124,2,,Sorensen,2026-05-13,
+3,EXPERT A,1,Max Glade,412,80,0:50:37,Sorensen,2026-05-13,11.2
+3,EXPERT A,2,Wade Quilter,239,73,0:50:58,Sorensen,2026-05-13,11.1
+3,EXPERT A,3,Leo Dailey,216,66,0:52:01,Sorensen,2026-05-13,10.9
+3,EXPERT A,4,Evan Degray,237,59,0:52:15,Sorensen,2026-05-13,10.8
+3,EXPERT A,5,Adam Pulley,234,54,0:52:27,Sorensen,2026-05-13,10.8
+3,EXPERT A,6,Jonah van Orman,242,49,0:52:51,Sorensen,2026-05-13,10.7
+3,EXPERT A,7,Locke Erickson,217,44,0:53:41,Sorensen,2026-05-13,10.5
+3,EXPERT A,8,Carter Shea,240,39,0:53:53,Sorensen,2026-05-13,10.5
+3,EXPERT A,9,Seth Bradley,236,36,0:54:09,Sorensen,2026-05-13,10.5
+3,EXPERT A,10,Ryan Smith,241,33,0:54:26,Sorensen,2026-05-13,10.4
+3,EXPERT A,11,Aiden Hoover,230,30,0:54:47,Sorensen,2026-05-13,10.3
+3,EXPERT A,12,Cody Shepherd,208,27,0:54:59,Sorensen,2026-05-13,10.3
+3,EXPERT A,13,Todd Brown,203,24,0:55:06,Sorensen,2026-05-13,10.3
+3,EXPERT A,14,Ben Severson,207,21,0:55:28,Sorensen,2026-05-13,10.2
+3,EXPERT A,15,Tj Stone,209,18,0:56:02,Sorensen,2026-05-13,10.1
+3,EXPERT A,16,Nick Birch,202,15,0:56:30,Sorensen,2026-05-13,10.0
+3,EXPERT A,17,Jeffrey Previte,220,12,0:57:06,Sorensen,2026-05-13,9.9
+3,EXPERT A,18,Nick Sibert,223,9,0:57:20,Sorensen,2026-05-13,9.9
+3,EXPERT A,19,Nicholas Johnson,238,7,0:57:22,Sorensen,2026-05-13,9.9
+3,EXPERT A,20,Jackson Bingham,201,5,0:57:25,Sorensen,2026-05-13,9.9
+3,EXPERT A,21,Nathanicus Clarkmeister,200,3,0:57:26,Sorensen,2026-05-13,9.9
+3,EXPERT A,22,Jacob Barton,212,2,0:57:45,Sorensen,2026-05-13,9.8
+3,EXPERT A,23,Josey Apostol,0000,2,1:00:33,Sorensen,2026-05-13,9.3
+3,EXPERT A,24,Conner Jones,219,2,1:02:55,Sorensen,2026-05-13,9.0
+3,PRO WOMEN,1,Brynn Lloyd,316,80,0:52:53,Sorensen,2026-05-13,10.7
+3,PRO WOMEN,2,Kadence Preston,300,73,0:52:58,Sorensen,2026-05-13,10.7
+3,PRO WOMEN,3,Sydney Averett,306,66,0:56:27,Sorensen,2026-05-13,10.0
+3,PRO WOMEN,4,Quincy Peper,23,59,0:57:11,Sorensen,2026-05-13,9.9
+3,PRO WOMEN,5,Ella Collett,307,54,0:57:48,Sorensen,2026-05-13,9.8
+3,PRO WOMEN,6,Qiana Chavez,315,49,0:57:54,Sorensen,2026-05-13,9.8
+3,PRO WOMEN,7,Avery Charles,313,44,0:58:07,Sorensen,2026-05-13,9.7
+3,PRO WOMEN,8,Hayden Brown,305,39,0:58:21,Sorensen,2026-05-13,9.7
+3,PRO WOMEN,9,Samara Smith,318,36,0:58:24,Sorensen,2026-05-13,9.7
+3,PRO WOMEN,10,Rachel Miller,301,33,0:59:40,Sorensen,2026-05-13,9.5
+3,PRO WOMEN,11,Kristi Mcilmoil,302,30,1:02:14,Sorensen,2026-05-13,9.1
+3,PRO WOMEN,12,Emma Walton,319,27,1:02:44,Sorensen,2026-05-13,9.0
+3,PRO WOMEN,13,Rachel Tucker,317,24,1:07:16,Sorensen,2026-05-13,8.4
+3,PRO WOMEN,DNF,Macey Morgan,311,2,,Sorensen,2026-05-13,
+3,EXPERT B,1,John D Mcilmoil,404,80,0:47:17,Sorensen,2026-05-13,10.8
+3,EXPERT B,2,Grey Gardner,401,73,0:47:17,Sorensen,2026-05-13,10.8
+3,EXPERT B,3,Jared Ririe,408,66,0:49:11,Sorensen,2026-05-13,10.4
+3,EXPERT B,4,Jerry Brown,400,59,0:49:44,Sorensen,2026-05-13,10.3
+3,EXPERT B,5,Carson Seegmiller,434,54,0:49:51,Sorensen,2026-05-13,10.2
+3,EXPERT B,6,Chris Covington,427,49,0:49:52,Sorensen,2026-05-13,10.2
+3,EXPERT B,7,Shane Jenson,420,44,0:50:26,Sorensen,2026-05-13,10.1
+3,EXPERT B,8,Mike Madsen,421,39,0:50:30,Sorensen,2026-05-13,10.1
+3,EXPERT B,9,Jordan Thurston,410,36,0:51:16,Sorensen,2026-05-13,9.9
+3,EXPERT B,10,Ben Ginster,433,33,0:52:26,Sorensen,2026-05-13,9.7
+3,EXPERT B,11,Christian van Orman,435,30,0:52:37,Sorensen,2026-05-13,9.7
+3,EXPERT B,12,Tyler Perry,406,27,0:54:16,Sorensen,2026-05-13,9.4
+3,EXPERT B,13,Landon Larsen,403,24,0:54:26,Sorensen,2026-05-13,9.4
+3,EXPERT B,14,John W Mcilmoil,405,21,0:55:19,Sorensen,2026-05-13,9.2
+3,EXPERT B,15,Cory Larsen,428,18,0:55:19,Sorensen,2026-05-13,9.2
+3,EXPERT B,16,Dallan Robbins,409,15,1:00:38,Sorensen,2026-05-13,8.4
+3,EXPERT B,17,Todd Erickson,432,12,1:00:58,Sorensen,2026-05-13,8.4
+3,EXPERT B,DNF,Markee Farrer,1013,2,,Sorensen,2026-05-13,
+3,EXPERT B,DNF,Caroline Ridge,407,2,,Sorensen,2026-05-13,
+3,EXPERT C,1,Tommy Peterson,513,80,0:53:11,Sorensen,2026-05-13,9.6
+3,EXPERT C,2,Steve Mayfield,525,73,0:54:20,Sorensen,2026-05-13,9.4
+3,EXPERT C,3,Christopher Johnson,524,66,0:57:07,Sorensen,2026-05-13,8.9
+3,EXPERT C,4,Mark Nelson,000,59,0:57:42,Sorensen,2026-05-13,8.8
+3,EXPERT C,5,Kerry Smith,504,54,0:57:55,Sorensen,2026-05-13,8.8
+3,EXPERT C,6,Brian Stastny,523,49,0:58:14,Sorensen,2026-05-13,8.7
+3,EXPERT C,7,Hunter Jeppson,521,44,0:58:30,Sorensen,2026-05-13,8.7
+3,EXPERT C,8,Matt Stewart,517,39,0:59:47,Sorensen,2026-05-13,8.5
+3,EXPERT C,9,Matt Barton,507,36,0:59:53,Sorensen,2026-05-13,8.5
+3,EXPERT C,10,Jayson Vincent,505,33,1:01:33,Sorensen,2026-05-13,8.3
+3,EXPERT C,11,John Taylor,515,30,1:03:05,Sorensen,2026-05-13,8.1
+3,EXPERT C,12,Calvin Cahoon,501,27,1:06:30,Sorensen,2026-05-13,7.7
+3,EXPERT WOMEN,1,Virginia Solomon,613,80,0:50:22,Sorensen,2026-05-13,8.8
+3,EXPERT WOMEN,2,Jeanette Pierce,606,73,0:50:29,Sorensen,2026-05-13,8.8
+3,EXPERT WOMEN,3,Brooke Louis,610,66,0:51:31,Sorensen,2026-05-13,8.6
+3,EXPERT WOMEN,4,Jane Stringham,614,59,0:52:52,Sorensen,2026-05-13,8.4
+3,EXPERT WOMEN,5,Christina Perry,604,54,0:53:27,Sorensen,2026-05-13,8.3
+3,EXPERT WOMEN,6,Blake Laakso,612,49,0:54:34,Sorensen,2026-05-13,8.1
+3,EXPERT WOMEN,7,Sydney Reese,607,44,0:55:10,Sorensen,2026-05-13,8.1
+3,EXPERT WOMEN,8,Jessica Averett,611,39,0:57:09,Sorensen,2026-05-13,7.8
+3,SPORT A,1,Wyatt Dawson,705,80,0:45:37,Sorensen,2026-05-13,9.7
+3,SPORT A,2,Soelden Probert,709,73,0:47:05,Sorensen,2026-05-13,9.4
+3,SPORT A,3,Colton Pearce,708,66,0:48:12,Sorensen,2026-05-13,9.2
+3,SPORT A,4,Scott Muhlestein,701,59,0:48:39,Sorensen,2026-05-13,9.1
+3,SPORT A,5,Dennis Muhlestein,707,54,0:49:04,Sorensen,2026-05-13,9.1
+3,SPORT A,6,Josh Thornton,717,49,0:49:30,Sorensen,2026-05-13,9.0
+3,SPORT A,7,Bryant Muhlestein,706,44,0:52:10,Sorensen,2026-05-13,8.5
+3,SPORT A,8,Mattix Thurston,703,39,0:52:34,Sorensen,2026-05-13,8.5
+3,SPORT A,9,Jensen Paterson,700,36,0:53:10,Sorensen,2026-05-13,8.4
+3,SPORT A,10,Emma Quilter,716,33,0:58:26,Sorensen,2026-05-13,7.6
+3,SPORT A,DNF,Nikson Thornton,718,2,,Sorensen,2026-05-13,
+3,SPORT B,1,Zack Morgan,824,80,0:31:52,Sorensen,2026-05-13,8.9
+3,SPORT B,2,Grant Gibson,916,73,0:31:52,Sorensen,2026-05-13,8.9
+3,SPORT B,3,Trey Madsen,917,66,0:31:52,Sorensen,2026-05-13,8.9
+3,SPORT B,4,Cole Sorenson,805,59,0:33:47,Sorensen,2026-05-13,8.4
+3,SPORT B,5,Will Schwarzenbach,831,54,0:36:07,Sorensen,2026-05-13,7.8
+3,SPORT B,6,Wels Decker,808,49,0:36:44,Sorensen,2026-05-13,7.7
+3,SPORT B,7,Chris Taylor,832,44,0:36:59,Sorensen,2026-05-13,7.6
+3,SPORT B,8,Troy Johansson,811,39,0:39:50,Sorensen,2026-05-13,7.1
+3,SPORT B,9,Jared Payne,807,36,0:42:10,Sorensen,2026-05-13,6.7
+3,SPORT B,10,Kyrie Bingham,800,33,0:44:29,Sorensen,2026-05-13,6.3
+3,SPORT B,11,Josh Leavitt,817,30,0:47:02,Sorensen,2026-05-13,6.0
+3,SPORT B,12,Sean Kerman,802,27,1:03:48,Sorensen,2026-05-13,4.4
+3,SPORT B,13,Karina Saunders,828,24,1:07:33,Sorensen,2026-05-13,4.2
+3,SPORT B,14,Andy Cox,830,21,1:08:14,Sorensen,2026-05-13,4.1
+3,SPORT B,15,Dakoda Araiza,818,18,1:30:00,Sorensen,2026-05-13,3.1
+3,SPORT WOMEN,1,Aurora Curtis,906,80,0:33:57,Sorensen,2026-05-13,8.3
+3,SPORT WOMEN,2,Brooke Vincent,910,73,0:34:34,Sorensen,2026-05-13,8.2
+3,SPORT WOMEN,3,Lucy Nelson,900,66,0:35:04,Sorensen,2026-05-13,8.1
+3,SPORT WOMEN,4,Lindsay Curtis,907,59,0:36:02,Sorensen,2026-05-13,7.8
+3,SPORT WOMEN,5,Becky Moyes,902,54,0:39:28,Sorensen,2026-05-13,7.2
+3,SPORT WOMEN,6,Lyla Brown,901,49,0:43:28,Sorensen,2026-05-13,6.5
+3,SPORT WOMEN,7,Alexis (lexi) Spensko,909,44,0:48:23,Sorensen,2026-05-13,5.8
+3,SPORT WOMEN,8,Simone Smith,918,39,0:49:34,Sorensen,2026-05-13,5.7
+3,SPORT WOMEN,9,Charli Taft,919,36,0:50:13,Sorensen,2026-05-13,5.6
+3,SPORT WOMEN,10,Lesa Cox,915,33,1:07:15,Sorensen,2026-05-13,4.2
+3,JUNIOR,1,Dunken Paterson,1003,80,0:29:53,Sorensen,2026-05-13,7.6
+3,JUNIOR,2,Nathan Kerman,1015,73,0:30:48,Sorensen,2026-05-13,7.3
+3,JUNIOR,3,Michael Vaillancourt,1120,66,0:34:32,Sorensen,2026-05-13,6.6
+3,JUNIOR,4,Carter Jones,1108,59,0:34:32,Sorensen,2026-05-13,6.5
+3,JUNIOR,5,Matthew Robbins,1016,54,0:47:21,Sorensen,2026-05-13,4.8
+3,JUNIOR,6,Ellie Anderson,1005,49,1:05:31,Sorensen,2026-05-13,3.4
+3,JUNIOR,7,Reno Jones,1008,44,1:28:00,Sorensen,2026-05-13,2.5
+3,JUNIOR,8,Tyler Abrams,1004,39,1:29:00,Sorensen,2026-05-13,2.5
+3,JUNIOR,DNF,Tyler Wilkins,1012,2,,Sorensen,2026-05-13,
+3,BEGINNER,1,Eliza Miller,1100,80,0:22:40,Sorensen,2026-05-13,7.1
+3,BEGINNER,2,Crosby Tucker,1119,73,0:22:40,Sorensen,2026-05-13,7.1
+3,BEGINNER,3,Hunter Thornton,1126,66,0:24:47,Sorensen,2026-05-13,6.5
+3,BEGINNER,4,Cooper Jones,1109,59,0:25:48,Sorensen,2026-05-13,6.2
+3,BEGINNER,5,Callen Muhlestein,1111,54,0:27:19,Sorensen,2026-05-13,5.9
+3,BEGINNER,6,Maile Richards,1116,49,0:27:50,Sorensen,2026-05-13,5.8
+3,BEGINNER,7,Amy Kerman,1103,44,0:28:47,Sorensen,2026-05-13,5.6
+3,BEGINNER,8,Dan Kerman,1102,39,0:29:09,Sorensen,2026-05-13,5.5
+3,BEGINNER,9,Quinn Paterson,1123,36,0:29:55,Sorensen,2026-05-13,5.4
+3,BEGINNER,10,Rudy Taylor,1125,33,0:30:37,Sorensen,2026-05-13,5.3
+3,BEGINNER,11,Isaac Kerman,1115,30,0:36:09,Sorensen,2026-05-13,4.4
+3,BEGINNER,12,Ethan Averett,1122,27,0:44:41,Sorensen,2026-05-13,3.6
+3,BEGINNER,13,Natalie Ridge,1124,24,0:48:32,Sorensen,2026-05-13,3.3
+4,PRO,1,Preston Johnson,16,80,1:00:22,Sundance,2026-07-08,12.9
+4,PRO,2,Jude Marsden,1,73,1:00:26,Sundance,2026-07-08,12.9
+4,PRO,3,Henry Stevens,11,66,1:01:38,Sundance,2026-07-08,12.7
+4,PRO,4,Chris Holley,32,59,1:04:38,Sundance,2026-07-08,12.1
+4,PRO,5,Jaxon Wiggins,51,54,1:07:47,Sundance,2026-07-08,11.5
+4,PRO,6,Cj Wiggins,50,49,1:08:29,Sundance,2026-07-08,11.4
+4,PRO,7,Elliot Tippetts,46,44,1:08:30,Sundance,2026-07-08,11.4
+4,PRO,8,James Parkinson,30,39,1:11:04,Sundance,2026-07-08,11.0
+4,PRO,9,Sullivan Mcclellan,49,36,1:15:15,Sundance,2026-07-08,10.4
+4,PRO,10,Easton Gray,48,33,1:18:14,Sundance,2026-07-08,10.0
+4,PRO,11,Josh Blake,47,30,1:18:14,Sundance,2026-07-08,10.0
+4,PRO,12,Brandon Firth,21,27,1:20:38,Sundance,2026-07-08,9.7
+4,PRO,13,Charlie Severson,5,24,1:20:45,Sundance,2026-07-08,9.6
+4,SEMI-PRO,1,Jonah van Orman,146,80,1:01:09,Sundance,2026-07-08,11.1
+4,SEMI-PRO,2,Mark Tuttle,6,73,1:02:09,Sundance,2026-07-08,11.0
+4,SEMI-PRO,3,Val Gibson,100,66,1:02:10,Sundance,2026-07-08,11.0
+4,SEMI-PRO,4,Quinn Parks,136,59,1:02:33,Sundance,2026-07-08,10.9
+4,SEMI-PRO,5,Asher Anderson,144,54,1:03:03,Sundance,2026-07-08,10.8
+4,SEMI-PRO,6,Rhys Louis,142,49,1:03:35,Sundance,2026-07-08,10.7
+4,SEMI-PRO,7,Kade Gray,141,44,1:04:49,Sundance,2026-07-08,10.5
+4,SEMI-PRO,8,Woody,0,39,1:05:24,Sundance,2026-07-08,10.4
+4,SEMI-PRO,9,Brandon Smith,105,36,1:05:39,Sundance,2026-07-08,10.4
+4,SEMI-PRO,10,Dayvin Johnson,112,33,1:08:24,Sundance,2026-07-08,10.0
+4,SEMI-PRO,11,Dan Nelson,104,30,1:09:02,Sundance,2026-07-08,9.9
+4,SEMI-PRO,12,Garner Meads Iv,145,27,1:16:14,Sundance,2026-07-08,8.9
+4,SEMI-PRO,13,Lewis Stewart,115,24,1:16:26,Sundance,2026-07-08,8.9
+4,SEMI-PRO,DNF,Duncan Rich,134,2,,Sundance,2026-07-08,
+4,SEMI-PRO,DNF,Joe Reese,122,2,,Sundance,2026-07-08,
+4,EXPERT A,1,Grey Gardner,265,80,0:52:26,Sundance,2026-07-08,11.1
+4,EXPERT A,2,Matthan Airmet,260,73,0:52:40,Sundance,2026-07-08,11.1
+4,EXPERT A,3,Grant Mcrae,231,66,0:53:07,Sundance,2026-07-08,11.0
+4,EXPERT A,4,Austin Gunther,248,59,0:53:14,Sundance,2026-07-08,11.0
+4,EXPERT A,5,Max Glade,412,54,0:53:42,Sundance,2026-07-08,10.9
+4,EXPERT A,6,Adam Pulley,234,49,0:54:31,Sundance,2026-07-08,10.7
+4,EXPERT A,7,Grayson Adams,227,44,0:55:17,Sundance,2026-07-08,10.6
+4,EXPERT A,8,Mitch Wright,254,39,0:56:29,Sundance,2026-07-08,10.3
+4,EXPERT A,9,Jason Coates,214,36,0:56:48,Sundance,2026-07-08,10.3
+4,EXPERT A,10,Cody Shepherd,208,33,0:57:16,Sundance,2026-07-08,10.2
+4,EXPERT A,11,Ingmar Jungnickel,250,30,0:58:46,Sundance,2026-07-08,9.9
+4,EXPERT A,12,Nick Birch,202,27,0:58:54,Sundance,2026-07-08,9.9
+4,EXPERT A,13,Jackson Bingham,201,24,0:59:29,Sundance,2026-07-08,9.8
+4,EXPERT A,14,Austin Miner,263,21,0:59:31,Sundance,2026-07-08,9.8
+4,EXPERT A,15,Christian van Orman,266,18,0:59:44,Sundance,2026-07-08,9.8
+4,EXPERT A,16,Ben Severson,207,15,1:00:45,Sundance,2026-07-08,9.6
+4,EXPERT A,17,Josey Apostol,0000,12,1:01:23,Sundance,2026-07-08,9.5
+4,EXPERT A,18,Nathanicus Clarkmeister,200,9,1:02:45,Sundance,2026-07-08,9.3
+4,EXPERT A,19,Jacob Barton,258,7,1:04:41,Sundance,2026-07-08,9.0
+4,PRO WOMEN,1,Pepper Smith,314,80,0:54:54,Sundance,2026-07-08,10.6
+4,PRO WOMEN,2,Kadence Preston,300,73,0:57:29,Sundance,2026-07-08,10.1
+4,PRO WOMEN,3,Kc Holley,320,66,1:01:06,Sundance,2026-07-08,9.5
+4,PRO WOMEN,4,Kristi Mcilmoil,302,59,1:05:20,Sundance,2026-07-08,8.9
+4,EXPERT B,1,Henry Parcell,461,80,0:38:52,Sundance,2026-07-08,10.2
+4,EXPERT B,2,Jared Ririe,408,73,0:38:54,Sundance,2026-07-08,10.2
+4,EXPERT B,3,Jordan Thurston,410,66,0:39:08,Sundance,2026-07-08,10.1
+4,EXPERT B,4,John D Mcilmoil,1139,59,0:39:20,Sundance,2026-07-08,10.1
+4,EXPERT B,5,Eli Crandall,426,54,0:39:34,Sundance,2026-07-08,10.0
+4,EXPERT B,6,Zach Fruit,37,49,0:40:31,Sundance,2026-07-08,9.8
+4,EXPERT B,7,Jerry Brown,400,44,0:40:47,Sundance,2026-07-08,9.7
+4,EXPERT B,8,John W Mcilmoil,405,39,0:40:48,Sundance,2026-07-08,9.7
+4,EXPERT B,9,Conner Jones,452,36,0:41:54,Sundance,2026-07-08,9.5
+4,EXPERT B,10,Kyle Tippetts,459,33,0:41:54,Sundance,2026-07-08,9.5
+4,EXPERT B,11,Carey Pierce,423,30,0:42:51,Sundance,2026-07-08,9.3
+4,EXPERT B,12,Carson Smith,442,27,0:44:00,Sundance,2026-07-08,9.0
+4,EXPERT B,13,Tyler Perry,406,24,0:44:45,Sundance,2026-07-08,8.9
+4,EXPERT B,14,Beckett Miller,457,21,0:45:12,Sundance,2026-07-08,8.8
+4,EXPERT B,15,John Airmet,455,18,0:46:16,Sundance,2026-07-08,8.6
+4,EXPERT B,16,Charlie Rich,462,15,0:48:55,Sundance,2026-07-08,8.1
+4,EXPERT B,17,Harper Tippetts,458,12,0:49:41,Sundance,2026-07-08,8.0
+4,EXPERT C,1,Damin Luedke,545,80,0:41:34,Sundance,2026-07-08,9.5
+4,EXPERT C,2,Wyatt Dawson,526,73,0:42:12,Sundance,2026-07-08,9.4
+4,EXPERT C,3,Dallan Robbins,527,66,0:44:08,Sundance,2026-07-08,9.0
+4,EXPERT C,4,Cole Gonsalves,519,59,0:46:39,Sundance,2026-07-08,8.5
+4,EXPERT C,5,John Taylor,515,54,0:47:02,Sundance,2026-07-08,8.4
+4,EXPERT C,6,Kerry Smith,504,49,0:47:24,Sundance,2026-07-08,8.4
+4,EXPERT C,7,Matt Barton,539,44,0:48:04,Sundance,2026-07-08,8.3
+4,EXPERT C,8,Matt Stewart,517,39,0:48:46,Sundance,2026-07-08,8.1
+4,EXPERT C,9,Kris Johnson,522,36,0:49:29,Sundance,2026-07-08,8.0
+4,EXPERT C,10,Tharon Smith,529,33,0:50:40,Sundance,2026-07-08,7.8
+4,EXPERT C,11,Darin Hakes,530,30,0:50:50,Sundance,2026-07-08,7.8
+4,EXPERT C,12,Jayson Vincent,505,27,0:50:59,Sundance,2026-07-08,7.8
+4,EXPERT C,13,John Beck,543,24,0:51:28,Sundance,2026-07-08,7.7
+4,EXPERT C,14,Ian Beaty,500,21,0:53:27,Sundance,2026-07-08,7.4
+4,EXPERT C,15,Bryan King,503,18,0:54:36,Sundance,2026-07-08,7.3
+4,EXPERT C,16,Cameron Hill,544,15,0:56:36,Sundance,2026-07-08,7.0
+4,EXPERT C,17,Calvin Cahoon,501,12,1:00:15,Sundance,2026-07-08,6.6
+4,EXPERT WOMEN,1,May Miller,618,80,0:46:38,Sundance,2026-07-08,8.5
+4,EXPERT WOMEN,2,Maya Hood,602,73,0:49:34,Sundance,2026-07-08,8.0
+4,EXPERT WOMEN,3,Ariann Apostol,600,66,0:50:05,Sundance,2026-07-08,7.9
+4,EXPERT WOMEN,4,Brooke Louis,610,59,0:51:13,Sundance,2026-07-08,7.7
+4,EXPERT WOMEN,5,Christina Perry,604,54,0:51:44,Sundance,2026-07-08,7.7
+4,EXPERT WOMEN,6,Nora Tippetts,617,49,0:54:03,Sundance,2026-07-08,7.3
+4,EXPERT WOMEN,DNF,Sydney Reese,607,2,,Sundance,2026-07-08,
+4,SPORT A,1,John Cates,724,80,0:42:55,Sundance,2026-07-08,9.2
+4,SPORT A,2,Rex Haslam,735,73,0:45:07,Sundance,2026-07-08,8.8
+4,SPORT A,3,Grant Gibson,719,66,0:45:24,Sundance,2026-07-08,8.7
+4,SPORT A,4,Scott Muhlestein,701,59,0:45:24,Sundance,2026-07-08,8.7
+4,SPORT A,5,Carson Carter,734,54,0:45:50,Sundance,2026-07-08,8.7
+4,SPORT A,6,Trey Madsen,720,49,0:45:56,Sundance,2026-07-08,8.6
+4,SPORT A,7,Ethan Miner,732,44,0:46:14,Sundance,2026-07-08,8.6
+4,SPORT A,8,Dennis Muhlestein,707,39,0:46:40,Sundance,2026-07-08,8.5
+4,SPORT A,9,Jensen Paterson,700,36,0:48:08,Sundance,2026-07-08,8.2
+4,SPORT A,10,Bob Rich,736,33,0:53:13,Sundance,2026-07-08,7.4
+4,SPORT A,11,Darian Bingham,704,30,0:56:09,Sundance,2026-07-08,7.1
+4,SPORT A,DNF,Mattix Thurston,703,2,,Sundance,2026-07-08,
+4,SPORT B,1,Cole Sorenson,805,80,0:34:27,Sundance,2026-07-08,8.7
+4,SPORT B,2,Asher Burton,844,73,0:35:32,Sundance,2026-07-08,8.4
+4,SPORT B,3,Grant Crandall,815,66,0:35:48,Sundance,2026-07-08,8.3
+4,SPORT B,4,Rhett Miller,846,59,0:36:07,Sundance,2026-07-08,8.3
+4,SPORT B,5,Wade Nokleby,847,54,0:36:57,Sundance,2026-07-08,8.1
+4,SPORT B,6,Nathan Crandall,816,49,0:38:47,Sundance,2026-07-08,7.7
+4,SPORT B,7,Andrew Lumsden,849,44,0:40:11,Sundance,2026-07-08,7.4
+4,SPORT B,8,Kyrie Bingham,800,39,0:42:55,Sundance,2026-07-08,7.0
+4,SPORT B,9,Tyson Widdison,806,36,0:44:15,Sundance,2026-07-08,6.7
+4,SPORT B,10,Jared Payne,807,33,0:45:56,Sundance,2026-07-08,6.5
+4,SPORT WOMEN,1,Aurora Curtis,906,80,0:35:58,Sundance,2026-07-08,8.3
+4,SPORT WOMEN,2,Lucy Nelson,900,73,0:36:12,Sundance,2026-07-08,8.3
+4,SPORT WOMEN,3,Brooke Vincent,910,66,0:36:36,Sundance,2026-07-08,8.2
+4,SPORT WOMEN,4,Lindsay Curtis,907,59,0:38:56,Sundance,2026-07-08,7.7
+4,SPORT WOMEN,5,Julianna Titsworth,931,54,0:41:51,Sundance,2026-07-08,7.1
+4,SPORT WOMEN,6,Hazel Adams,921,49,0:43:09,Sundance,2026-07-08,6.9
+4,SPORT WOMEN,7,Vera Milone,932,44,0:43:51,Sundance,2026-07-08,6.8
+4,SPORT WOMEN,8,Becky Moyes,902,39,0:50:06,Sundance,2026-07-08,5.9
+4,JUNIOR,1,Maxwell Brown,1023,80,0:38:29,Sundance,2026-07-08,7.8
+4,JUNIOR,2,Dunken Paterson,1003,73,0:51:58,Sundance,2026-07-08,5.7
+4,JUNIOR,3,Matthew Robbins,1016,66,1:18:00,Sundance,2026-07-08,3.8
+4,BEGINNER,1,Miles Thurston,1133,80,0:26:15,Sundance,2026-07-08,4.9
+4,BEGINNER,2,Bryce Miller,1134,73,0:27:23,Sundance,2026-07-08,4.7
+4,BEGINNER,3,Cooper Nelson,1121,66,0:32:55,Sundance,2026-07-08,3.9
+5,PRO,1,Jude Marsden,1,80,,Euclid,2026-05-27,
+5,PRO,1,Aj Conover,2,80,,Euclid,2026-05-27,
+5,PRO,1,Jacob Miller,3,80,,Euclid,2026-05-27,
+5,PRO,1,James Parkinson,4,80,,Euclid,2026-05-27,
+5,PRO,1,Charlie Severson,5,80,,Euclid,2026-05-27,
+5,PRO,1,Scott Preston,7,80,,Euclid,2026-05-27,
+5,PRO,1,Jamison Burton,8,80,,Euclid,2026-05-27,
+5,PRO,1,Preston Johnson,16,80,,Euclid,2026-05-27,
+5,PRO,1,Asa Pulley,19,80,,Euclid,2026-05-27,
+5,PRO,1,Weston Luzadder,25,80,,Euclid,2026-05-27,
+5,PRO,1,Stetson Provost,26,80,,Euclid,2026-05-27,
+5,PRO,1,Cutler Reschke,27,80,,Euclid,2026-05-27,
+5,PRO,1,Reese Romney,28,80,,Euclid,2026-05-27,
+5,PRO,1,Jason Rupert,29,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Woody,0,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Mark Tuttle,6,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Val Gibson,100,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Tavin Bussio,101,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Matt Frisby,102,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Nate Miller,103,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Brandon Smith,105,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Judd Eldredge,108,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Lewis Stewart,115,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Joe Reese,122,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Cody Richards,127,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Jackson Allen,235,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Quinn Parks,136,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Thomas Hansen,132,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,William Peterman,133,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Duncan Rich,134,80,,Euclid,2026-05-27,
+5,SEMI-PRO,1,Bracken Lunt,727,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Nathanicus Clarkmeister,200,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Jackson Bingham,201,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Nick Birch,202,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Todd Brown,203,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Ben Severson,207,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Tj Stone,209,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Jacob Barton,212,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Clark Boushka,213,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Locke Erickson,217,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Henry Holmes,218,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Conner Jones,219,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Max Glade,412,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Grayson Adams,227,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Adam Pulley,234,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Jonah van Orman,242,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Zane Adamson,243,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Sam Andersen,244,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Levi Blumer,245,80,,Euclid,2026-05-27,
+5,EXPERT A,1,Carsonn Pickett,246,80,,Euclid,2026-05-27,
+5,PRO WOMEN,1,Hayden Brown,305,80,,Euclid,2026-05-27,
+5,PRO WOMEN,1,Kadence Preston,300,80,,Euclid,2026-05-27,
+5,PRO WOMEN,1,Rachel Miller,301,80,,Euclid,2026-05-27,
+5,PRO WOMEN,1,Kristi Mcilmoil,302,80,,Euclid,2026-05-27,
+5,PRO WOMEN,1,Avery Charles,313,80,,Euclid,2026-05-27,
+5,PRO WOMEN,1,Samara Smith,318,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Jerry Brown,400,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Grey Gardner,401,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Landon Larsen,403,80,,Euclid,2026-05-27,
+5,EXPERT B,1,John W Mcilmoil,405,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Tyler Perry,406,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Caroline Ridge,407,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Jared Ririe,408,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Jordan Thurston,410,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Hunter Bennett,414,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Mike Madsen,421,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Eli Crandall,426,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Cory Larsen,428,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Christian van Orman,435,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Alan Farnes,436,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Zach Fruit,437,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Boston Hartshorn,438,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Mac Hartshorn,439,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Paul Parkinson,440,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Clark Romney,441,80,,Euclid,2026-05-27,
+5,EXPERT B,1,Carson Smith,442,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Mark Nelson,000,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Ian Beaty,500,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Calvin Cahoon,501,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Dylan Glover,502,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Bryan King,503,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Kerry Smith,504,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Jayson Vincent,505,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Parker Allen,506,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Matt Barton,507,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Tommy Peterson,513,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Charlie Turcsanski,516,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Matt Stewart,517,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Cole Gonsalves,519,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Wyatt Dawson,526,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Dallan Robbins,527,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Bode Rupert,528,80,,Euclid,2026-05-27,
+5,EXPERT C,1,Tharon Smith,529,80,,Euclid,2026-05-27,
+5,EXPERT WOMEN,1,Ariann Apostol,600,80,,Euclid,2026-05-27,
+5,EXPERT WOMEN,1,Maya Hood,602,80,,Euclid,2026-05-27,
+5,EXPERT WOMEN,1,Emma Johnson,603,80,,Euclid,2026-05-27,
+5,EXPERT WOMEN,1,Christina Perry,604,80,,Euclid,2026-05-27,
+5,EXPERT WOMEN,1,Sydney Reese,607,80,,Euclid,2026-05-27,
+5,EXPERT WOMEN,1,Brooke Louis,610,80,,Euclid,2026-05-27,
+5,SPORT A,1,Jensen Paterson,700,80,,Euclid,2026-05-27,
+5,SPORT A,1,Scott Muhlestein,701,80,,Euclid,2026-05-27,
+5,SPORT A,1,David Rodriguez,702,80,,Euclid,2026-05-27,
+5,SPORT A,1,Mattix Thurston,703,80,,Euclid,2026-05-27,
+5,SPORT A,1,Dennis Muhlestein,707,80,,Euclid,2026-05-27,
+5,SPORT A,1,Grant Gibson,719,80,,Euclid,2026-05-27,
+5,SPORT A,1,Trey Madsen,720,80,,Euclid,2026-05-27,
+5,SPORT B,1,Kyrie Bingham,800,80,,Euclid,2026-05-27,
+5,SPORT B,1,Sean Kerman,802,80,,Euclid,2026-05-27,
+5,SPORT B,1,Isaac Miller,803,80,,Euclid,2026-05-27,
+5,SPORT B,1,Cole Sorenson,805,80,,Euclid,2026-05-27,
+5,SPORT B,1,Tyson Widdison,806,80,,Euclid,2026-05-27,
+5,SPORT B,1,Jared Payne,807,80,,Euclid,2026-05-27,
+5,SPORT B,1,Grant Crandall,815,80,,Euclid,2026-05-27,
+5,SPORT B,1,Nathan Crandall,816,80,,Euclid,2026-05-27,
+5,SPORT B,1,Gavin Norton,833,80,,Euclid,2026-05-27,
+5,SPORT B,1,Talmage Romney,834,80,,Euclid,2026-05-27,
+5,SPORT B,1,Thomas Romney,835,80,,Euclid,2026-05-27,
+5,SPORT WOMEN,1,Lyla Brown,901,80,,Euclid,2026-05-27,
+5,SPORT WOMEN,1,Becky Moyes,902,80,,Euclid,2026-05-27,
+5,SPORT WOMEN,1,Aurora Curtis,906,80,,Euclid,2026-05-27,
+5,SPORT WOMEN,1,Lindsay Curtis,907,80,,Euclid,2026-05-27,
+5,SPORT WOMEN,1,Brooke Vincent,910,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Dunken Paterson,1003,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Carter Jones,1108,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Nathan Kerman,1015,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Matthew Robbins,1016,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Asher Burton,1018,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Cannon Conover,1019,80,,Euclid,2026-05-27,
+5,JUNIOR,1,Jones Hartshorn,1020,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Eliza Miller,1100,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Dan Kerman,1102,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Amy Kerman,1103,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Callen Muhlestein,1111,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Maile Richards,1116,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Crosby Tucker,1119,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Cooper Nelson,1121,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Quinn Paterson,1123,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Jonas Blumer,1127,80,,Euclid,2026-05-27,
+5,BEGINNER,1,John Farnes,1128,80,,Euclid,2026-05-27,
+5,BEGINNER,1,Lincoln Reese,1129,80,,Euclid,2026-05-27,
+6,PRO,1,John Wessling,12,80,1:01:19,Sundance,2026-06-03,12.7
+6,PRO,2,Jasper Armstrong,14,73,1:01:44,Sundance,2026-06-03,12.6
+6,PRO,3,Aj Conover,2,66,1:03:24,Sundance,2026-06-03,12.3
+6,PRO,4,Cameron Larson,34,59,1:05:00,Sundance,2026-06-03,12.0
+6,PRO,5,Chris Holley,32,54,1:05:51,Sundance,2026-06-03,11.8
+6,PRO,6,Crew Melchior,36,49,1:07:43,Sundance,2026-06-03,11.5
+6,PRO,7,Isaac Castle,31,44,1:08:18,Sundance,2026-06-03,11.4
+6,PRO,8,James Parkinson,30,39,1:09:04,Sundance,2026-06-03,11.3
+6,PRO,9,Weston Luzadder,25,36,1:12:41,Sundance,2026-06-03,10.7
+6,PRO,10,Anna Keller,33,33,1:13:54,Sundance,2026-06-03,10.5
+6,PRO,11,Brandon Mcallister,35,30,1:17:10,Sundance,2026-06-03,10.1
+6,SEMI-PRO,1,Eli Armstrong,116,80,1:02:05,Sundance,2026-06-03,11.0
+6,SEMI-PRO,2,Val Gibson,100,73,1:02:22,Sundance,2026-06-03,10.9
+6,SEMI-PRO,3,Dan Nelson,104,66,1:04:51,Sundance,2026-06-03,10.5
+6,SEMI-PRO,4,Brandon Smith,105,59,1:05:24,Sundance,2026-06-03,10.4
+6,SEMI-PRO,5,Tavin Bussio,101,54,1:08:04,Sundance,2026-06-03,10.0
+6,SEMI-PRO,6,Joe Reese,122,49,1:08:50,Sundance,2026-06-03,9.9
+6,SEMI-PRO,7,Thomas Hansen,132,44,1:14:58,Sundance,2026-06-03,9.1
+6,SEMI-PRO,8,Judd Eldredge,108,39,1:15:29,Sundance,2026-06-03,9.0
+6,SEMI-PRO,9,Boston Eldredge,107,36,1:22:08,Sundance,2026-06-03,8.3
+6,SEMI-PRO,DNF,Mark Tuttle,6,2,,Sundance,2026-06-03,
+6,EXPERT A,1,Evan Degray,237,80,0:54:56,Sundance,2026-06-03,10.6
+6,EXPERT A,2,Mike Broderick,247,73,0:55:11,Sundance,2026-06-03,10.6
+6,EXPERT A,3,Max Glade,412,66,0:55:14,Sundance,2026-06-03,10.6
+6,EXPERT A,4,Jonah van Orman,242,59,0:55:36,Sundance,2026-06-03,10.5
+6,EXPERT A,5,Ingmar Jungnickel,250,54,0:56:04,Sundance,2026-06-03,10.4
+6,EXPERT A,6,Grayson Adams,227,49,0:56:15,Sundance,2026-06-03,10.4
+6,EXPERT A,7,Clark Boushka,213,44,0:56:31,Sundance,2026-06-03,10.3
+6,EXPERT A,8,Jack Smith,253,39,0:56:32,Sundance,2026-06-03,10.3
+6,EXPERT A,9,Henry Holmes,218,36,0:56:34,Sundance,2026-06-03,10.3
+6,EXPERT A,10,Austin Gunther,248,33,0:57:57,Sundance,2026-06-03,10.1
+6,EXPERT A,11,Todd Brown,203,30,0:57:57,Sundance,2026-06-03,10.1
+6,EXPERT A,12,Nathanicus Clarkmeister,200,27,1:00:02,Sundance,2026-06-03,9.7
+6,EXPERT A,13,Jimmer Hare,249,24,1:00:18,Sundance,2026-06-03,9.7
+6,EXPERT A,14,Pearson Wallace,226,21,1:01:29,Sundance,2026-06-03,9.5
+6,EXPERT A,15,Samuel Andersen,244,18,1:01:31,Sundance,2026-06-03,9.5
+6,EXPERT A,16,Everett Nokes,251,15,1:01:48,Sundance,2026-06-03,9.4
+6,EXPERT A,17,Cody Shepherd,208,12,1:02:08,Sundance,2026-06-03,9.4
+6,EXPERT A,18,Jacob Barton,212,9,1:02:31,Sundance,2026-06-03,9.3
+6,EXPERT A,19,Josey Apostol,0000,7,1:02:32,Sundance,2026-06-03,9.3
+6,EXPERT A,20,Tj Stone,209,5,1:04:21,Sundance,2026-06-03,9.1
+6,EXPERT A,21,Bryce Primosch,252,3,1:04:44,Sundance,2026-06-03,9.0
+6,EXPERT A,DNF,Conner Jones,219,2,,Sundance,2026-06-03,
+6,PRO WOMEN,1,Pepper Smith,314,80,0:58:14,Sundance,2026-06-03,10.0
+6,PRO WOMEN,2,Kc Holley,320,73,0:59:59,Sundance,2026-06-03,9.7
+6,PRO WOMEN,3,Rachel Miller,301,66,1:03:22,Sundance,2026-06-03,9.2
+6,PRO WOMEN,4,Hayden Brown,305,59,1:05:43,Sundance,2026-06-03,8.9
+6,PRO WOMEN,5,Avery Charles,313,54,1:06:24,Sundance,2026-06-03,8.8
+6,PRO WOMEN,6,Kristi Mcilmoil,302,49,1:06:57,Sundance,2026-06-03,8.7
+6,PRO WOMEN,DNF,May Miller,321,2,,Sundance,2026-06-03,
+6,EXPERT B,1,Grey Gardner,401,80,0:37:03,Sundance,2026-06-03,10.7
+6,EXPERT B,2,John D Mcilmoil,404,73,0:37:03,Sundance,2026-06-03,10.7
+6,EXPERT B,3,Jordan Thurston,410,66,0:40:12,Sundance,2026-06-03,9.9
+6,EXPERT B,4,Jared Ririe,408,59,0:40:20,Sundance,2026-06-03,9.8
+6,EXPERT B,5,Jj Payne,446,54,0:40:24,Sundance,2026-06-03,9.8
+6,EXPERT B,6,Christian van Orman,435,49,0:40:44,Sundance,2026-06-03,9.7
+6,EXPERT B,7,Jerry Brown,400,44,0:41:04,Sundance,2026-06-03,9.7
+6,EXPERT B,8,Landon Larsen,403,39,0:42:13,Sundance,2026-06-03,9.4
+6,EXPERT B,9,John W Mcilmoil,405,36,0:42:17,Sundance,2026-06-03,9.4
+6,EXPERT B,10,Carson Smith,1140,33,0:43:01,Sundance,2026-06-03,9.2
+6,EXPERT B,11,Zach Fruit,37,30,0:43:07,Sundance,2026-06-03,9.2
+6,EXPERT B,12,Kipton Pilling,429,27,0:44:20,Sundance,2026-06-03,8.9
+6,EXPERT B,13,Thomas Witney,425,24,0:44:23,Sundance,2026-06-03,8.9
+6,EXPERT B,14,Tyler Perry,406,21,0:46:21,Sundance,2026-06-03,8.6
+6,EXPERT B,15,Hunter Bennett,414,18,0:46:49,Sundance,2026-06-03,8.5
+6,EXPERT B,16,James Mangelson,445,15,0:47:16,Sundance,2026-06-03,8.4
+6,EXPERT B,17,Jared van Orman,447,12,0:47:45,Sundance,2026-06-03,8.3
+6,EXPERT B,DNF,Cory Larsen,428,2,,Sundance,2026-06-03,
+6,EXPERT C,1,Wyatt Dawson,526,80,0:42:37,Sundance,2026-06-03,9.3
+6,EXPERT C,2,Tommy Peterson,513,73,0:44:09,Sundance,2026-06-03,9.0
+6,EXPERT C,3,Beckett Miller,532,66,0:44:40,Sundance,2026-06-03,8.9
+6,EXPERT C,4,Edward Yuan,518,59,0:44:42,Sundance,2026-06-03,8.9
+6,EXPERT C,5,Steve Mayfield,525,54,0:45:32,Sundance,2026-06-03,8.7
+6,EXPERT C,6,Hunter Jeppson,521,49,0:46:56,Sundance,2026-06-03,8.5
+6,EXPERT C,7,Gordon Garrett,511,44,0:47:26,Sundance,2026-06-03,8.4
+6,EXPERT C,8,Kerry Smith,504,39,0:47:33,Sundance,2026-06-03,8.3
+6,EXPERT C,9,Mark Nelson,000,36,0:48:28,Sundance,2026-06-03,8.2
+6,EXPERT C,10,Matt Stewart,517,33,0:49:03,Sundance,2026-06-03,8.1
+6,EXPERT C,11,Cole Gonsalves,519,30,0:49:38,Sundance,2026-06-03,8.0
+6,EXPERT C,12,John Taylor,515,27,0:50:02,Sundance,2026-06-03,7.9
+6,EXPERT C,13,Matt Barton,507,24,0:50:06,Sundance,2026-06-03,7.9
+6,EXPERT C,14,Jason Rupert,533,21,0:50:39,Sundance,2026-06-03,7.8
+6,EXPERT C,15,Jayson Vincent,505,18,0:51:58,Sundance,2026-06-03,7.6
+6,EXPERT C,16,Darin Hakes,530,15,0:52:48,Sundance,2026-06-03,7.5
+6,EXPERT C,17,Calvin Cahoon,501,12,0:56:48,Sundance,2026-06-03,7.0
+6,EXPERT C,DNF,Bryan Mangelson,531,2,,Sundance,2026-06-03,
+6,EXPERT WOMEN,1,Christina Perry,604,80,0:49:56,Sundance,2026-06-03,7.9
+6,EXPERT WOMEN,2,Maya Hood,602,73,0:51:55,Sundance,2026-06-03,7.6
+6,EXPERT WOMEN,3,Sydney Reese,607,66,0:52:23,Sundance,2026-06-03,7.6
+6,EXPERT WOMEN,4,Ariann Apostol,600,59,0:53:39,Sundance,2026-06-03,7.4
+6,SPORT A,1,Porter Field,715,80,0:43:30,Sundance,2026-06-03,9.1
+6,SPORT A,2,Soelden Probert,709,73,0:45:22,Sundance,2026-06-03,8.7
+6,SPORT A,3,Dennis Muhlestein,707,66,0:45:31,Sundance,2026-06-03,8.7
+6,SPORT A,4,Grant Gibson,719,59,0:45:56,Sundance,2026-06-03,8.6
+6,SPORT A,5,Scott Muhlestein,701,54,0:46:28,Sundance,2026-06-03,8.5
+6,SPORT A,6,Mattix Thurston,703,49,0:46:57,Sundance,2026-06-03,8.4
+6,SPORT A,7,Jensen Paterson,700,44,0:47:59,Sundance,2026-06-03,8.3
+6,SPORT A,8,Bryant Muhlestein,706,39,0:53:15,Sundance,2026-06-03,7.4
+6,SPORT A,9,Lucas Dixon,721,36,1:28:14,Sundance,2026-06-03,4.5
+6,SPORT A,DNF,Matt Muhlestein,722,2,,Sundance,2026-06-03,
+6,SPORT B,1,Henry Parcell,836,80,0:32:08,Sundance,2026-06-03,9.3
+6,SPORT B,2,Cole Sorenson,805,73,0:35:39,Sundance,2026-06-03,8.4
+6,SPORT B,3,Brad Zobrist,829,66,0:36:14,Sundance,2026-06-03,8.2
+6,SPORT B,4,Wels Decker,808,59,0:40:32,Sundance,2026-06-03,7.4
+6,SPORT B,5,Christopher Pilling,827,54,0:44:37,Sundance,2026-06-03,6.7
+6,SPORT B,6,Reed Primosch,837,49,0:45:30,Sundance,2026-06-03,6.6
+6,SPORT B,7,Troy Johansson,811,44,0:46:37,Sundance,2026-06-03,6.4
+6,SPORT B,8,Tyson Widdison,806,39,0:47:16,Sundance,2026-06-03,6.3
+6,SPORT B,9,Jared Payne,807,36,0:49:08,Sundance,2026-06-03,6.1
+6,SPORT B,10,Sean Kerman,802,33,1:09:22,Sundance,2026-06-03,4.3
+6,SPORT WOMEN,1,Brooke Vincent,910,80,0:38:18,Sundance,2026-06-03,7.8
+6,SPORT WOMEN,2,Lucy Nelson,900,73,0:39:58,Sundance,2026-06-03,7.5
+6,SPORT WOMEN,3,Lindsay Curtis,907,66,0:42:10,Sundance,2026-06-03,7.1
+6,SPORT WOMEN,4,Becky Moyes,902,59,0:43:41,Sundance,2026-06-03,6.8
+6,SPORT WOMEN,5,Brooklyn Riley,920,54,0:43:49,Sundance,2026-06-03,6.8
+6,SPORT WOMEN,6,Jane Jeppson,913,49,0:47:50,Sundance,2026-06-03,6.2
+6,SPORT WOMEN,7,Lyla Brown,901,44,0:55:51,Sundance,2026-06-03,5.3
+6,JUNIOR,1,Hazel Adams,1014,80,0:38:50,Sundance,2026-06-03,7.7
+6,JUNIOR,2,Nathan Kerman,1015,73,0:39:53,Sundance,2026-06-03,7.5
+6,JUNIOR,3,Dunken Paterson,1003,66,0:43:38,Sundance,2026-06-03,6.8
+6,BEGINNER,1,Eliza Miller,1100,80,0:24:00,Sundance,2026-06-03,5.3
+6,BEGINNER,2,Crosby Tucker,1119,73,0:24:58,Sundance,2026-06-03,5.1
+6,BEGINNER,3,Jack Rupert,1132,66,0:25:28,Sundance,2026-06-03,5.0
+6,BEGINNER,4,Miles Thurston,1133,59,0:30:47,Sundance,2026-06-03,4.1
+6,BEGINNER,5,Callen Muhlestein,1111,54,0:32:38,Sundance,2026-06-03,3.9
+6,BEGINNER,6,Dan Kerman,1102,49,0:32:51,Sundance,2026-06-03,3.9
+6,BEGINNER,7,Amy Kerman,1103,44,0:39:01,Sundance,2026-06-03,3.3
+6,BEGINNER,8,Quinn Paterson,1123,39,0:41:13,Sundance,2026-06-03,3.1
+6,BEGINNER,9,Brenley Cheever,1130,36,0:42:05,Sundance,2026-06-03,3.0
+6,BEGINNER,10,Hannah Rupert,1131,33,0:44:39,Sundance,2026-06-03,2.8
+7,PRO,1,John Wessling,12,80,1:00:21,Sundance,2026-06-10,12.9
+7,PRO,2,Joe Hansen,40,73,1:03:42,Sundance,2026-06-10,12.2
+7,PRO,3,Mitt Niederhauser,43,66,1:04:52,Sundance,2026-06-10,12.0
+7,PRO,4,Jack Romasanta,45,59,1:05:53,Sundance,2026-06-10,11.8
+7,PRO,5,James Parkinson,30,54,1:07:17,Sundance,2026-06-10,11.6
+7,PRO,6,Jamison Burton,8,49,1:08:50,Sundance,2026-06-10,11.3
+7,PRO,7,Benjamin Brinton,38,44,1:09:18,Sundance,2026-06-10,11.2
+7,PRO,8,Luke Lundberg,41,39,1:11:47,Sundance,2026-06-10,10.9
+7,PRO,9,Spencer Maughan,42,36,1:14:02,Sundance,2026-06-10,10.5
+7,PRO,10,Charlie Severson,5,33,1:18:25,Sundance,2026-06-10,9.9
+7,PRO,DNF,Cameron Larson,34,2,,Sundance,2026-06-10,
+7,PRO,DNF,Ridger Gasser,39,2,,Sundance,2026-06-10,
+7,SEMI-PRO,1,Spencer Stevenson,129,80,0:58:06,Sundance,2026-06-10,11.7
+7,SEMI-PRO,2,Braxton Mabey,137,73,1:00:08,Sundance,2026-06-10,11.3
+7,SEMI-PRO,3,Tavin Bussio,101,66,1:02:29,Sundance,2026-06-10,10.9
+7,SEMI-PRO,4,Dan Nelson,104,59,1:02:40,Sundance,2026-06-10,10.9
+7,SEMI-PRO,5,Dylan Romasanta,139,54,1:03:16,Sundance,2026-06-10,10.8
+7,SEMI-PRO,6,Brandon Smith,105,49,1:03:50,Sundance,2026-06-10,10.7
+7,SEMI-PRO,7,Dillon Bethers,123,44,1:04:34,Sundance,2026-06-10,10.6
+7,SEMI-PRO,8,Locke Erickson,135,39,1:04:59,Sundance,2026-06-10,10.5
+7,SEMI-PRO,9,Mark Tuttle,6,36,1:05:31,Sundance,2026-06-10,10.4
+7,SEMI-PRO,10,Duncan Rich,134,33,1:06:12,Sundance,2026-06-10,10.3
+7,SEMI-PRO,11,Woody,0,30,1:07:34,Sundance,2026-06-10,10.1
+7,SEMI-PRO,12,Oliver Miller,138,27,1:08:29,Sundance,2026-06-10,9.9
+7,SEMI-PRO,13,Lewis Stewart,115,24,1:13:42,Sundance,2026-06-10,9.2
+7,SEMI-PRO,14,Dayvin Johnson,112,21,1:17:55,Sundance,2026-06-10,8.7
+7,SEMI-PRO,DNF,Joe Reese,122,2,,Sundance,2026-06-10,
+7,EXPERT A,1,Mike Broderick,247,80,0:53:58,Sundance,2026-06-10,10.8
+7,EXPERT A,2,Jack Smith,253,73,0:55:14,Sundance,2026-06-10,10.6
+7,EXPERT A,3,Ryan Smith,241,66,0:56:48,Sundance,2026-06-10,10.3
+7,EXPERT A,4,Grayson Adams,227,59,0:57:10,Sundance,2026-06-10,10.2
+7,EXPERT A,5,Cody Shepherd,208,54,0:57:32,Sundance,2026-06-10,10.1
+7,EXPERT A,6,Tj Stone,209,49,0:59:24,Sundance,2026-06-10,9.8
+7,EXPERT A,7,Nathanicus Clarkmeister,200,44,1:00:03,Sundance,2026-06-10,9.7
+7,EXPERT A,8,Nick Sibert,223,39,1:00:17,Sundance,2026-06-10,9.7
+7,EXPERT A,9,Nick Birch,202,36,1:00:59,Sundance,2026-06-10,9.6
+7,EXPERT A,10,Josey Apostol,0000,33,1:01:08,Sundance,2026-06-10,9.5
+7,EXPERT A,11,Jacob Barton,212,30,1:01:50,Sundance,2026-06-10,9.4
+7,EXPERT A,12,Jackson Bingham,201,27,1:04:02,Sundance,2026-06-10,9.1
+7,EXPERT A,13,Bryce Primosch,252,24,1:04:07,Sundance,2026-06-10,9.1
+7,EXPERT A,14,Ryan Primosch,256,21,1:13:00,Sundance,2026-06-10,8.0
+7,EXPERT A,15,Max Lundberg,255,18,1:17:59,Sundance,2026-06-10,7.5
+7,EXPERT A,DNF,Levi Blumer,245,2,,Sundance,2026-06-10,
+7,EXPERT A,DNF,Ben Severson,207,2,,Sundance,2026-06-10,
+7,PRO WOMEN,1,Pepper Smith,314,80,0:57:27,Sundance,2026-06-10,10.2
+7,PRO WOMEN,2,Kristi Mcilmoil,302,73,1:07:27,Sundance,2026-06-10,8.6
+7,PRO WOMEN,3,Macey Morgan,311,66,1:16:59,Sundance,2026-06-10,7.6
+7,PRO WOMEN,DNF,Rachel Miller,301,2,,Sundance,2026-06-10,
+7,EXPERT B,1,Grey Gardner,401,80,0:36:38,Sundance,2026-06-10,10.8
+7,EXPERT B,2,Jackson Wilkins,450,73,0:38:25,Sundance,2026-06-10,10.3
+7,EXPERT B,3,Jared Ririe,408,66,0:39:10,Sundance,2026-06-10,10.1
+7,EXPERT B,4,Jordan Thurston,410,59,0:39:52,Sundance,2026-06-10,10.0
+7,EXPERT B,5,John D Mcilmoil,404,54,0:39:54,Sundance,2026-06-10,9.9
+7,EXPERT B,6,Eli Crandall,426,49,0:39:55,Sundance,2026-06-10,9.9
+7,EXPERT B,7,Jerry Brown,400,44,0:40:01,Sundance,2026-06-10,9.9
+7,EXPERT B,8,Zach Fruit,37,39,0:40:25,Sundance,2026-06-10,9.8
+7,EXPERT B,9,Landon Larsen,403,36,0:41:23,Sundance,2026-06-10,9.6
+7,EXPERT B,10,Conner Jones,452,33,0:41:25,Sundance,2026-06-10,9.6
+7,EXPERT B,11,Carson Smith,442,30,0:41:31,Sundance,2026-06-10,9.6
+7,EXPERT B,12,Ryan Mann,422,27,0:42:15,Sundance,2026-06-10,9.4
+7,EXPERT B,13,Mike Madsen,421,24,0:42:36,Sundance,2026-06-10,9.3
+7,EXPERT B,14,Nathan Sibbett,449,21,0:43:01,Sundance,2026-06-10,9.2
+7,EXPERT B,15,Hunter Bennett,414,18,0:43:23,Sundance,2026-06-10,9.1
+7,EXPERT B,16,Zane Adamson,443,15,0:44:56,Sundance,2026-06-10,8.8
+7,EXPERT B,17,Tyler Perry,406,12,0:45:46,Sundance,2026-06-10,8.7
+7,EXPERT B,18,Tanner Hansen,448,9,0:51:29,Sundance,2026-06-10,7.7
+7,EXPERT B,19,Alan Farnes,436,7,0:53:11,Sundance,2026-06-10,7.5
+7,EXPERT C,1,Wyatt Dawson,526,80,0:41:25,Sundance,2026-06-10,9.6
+7,EXPERT C,2,Kolby Bernards,537,73,0:43:58,Sundance,2026-06-10,9.0
+7,EXPERT C,3,Kerry Smith,504,66,0:46:56,Sundance,2026-06-10,8.5
+7,EXPERT C,4,Cole Gonsalves,519,59,0:47:00,Sundance,2026-06-10,8.4
+7,EXPERT C,5,Matt Stewart,517,54,0:48:23,Sundance,2026-06-10,8.2
+7,EXPERT C,6,Matt Barton,507,49,0:49:50,Sundance,2026-06-10,8.0
+7,EXPERT C,7,Jayson Vincent,505,44,0:50:27,Sundance,2026-06-10,7.9
+7,EXPERT C,8,Ian Beaty,500,39,0:52:07,Sundance,2026-06-10,7.6
+7,EXPERT C,9,Kris Johnson,522,36,0:53:42,Sundance,2026-06-10,7.4
+7,EXPERT C,10,Bryan King,503,33,0:55:10,Sundance,2026-06-10,7.2
+7,EXPERT C,11,Kyden Bernards,538,30,1:16:55,Sundance,2026-06-10,5.1
+7,EXPERT C,DNF,Cory Larsen,534,2,,Sundance,2026-06-10,
+7,EXPERT C,DNF,Allen Parcell,535,2,,Sundance,2026-06-10,
+7,EXPERT WOMEN,1,Christina Perry,604,80,0:49:33,Sundance,2026-06-10,8.0
+7,EXPERT WOMEN,2,Maya Hood,602,73,0:50:12,Sundance,2026-06-10,7.9
+7,EXPERT WOMEN,3,Ariann Apostol,600,66,0:51:03,Sundance,2026-06-10,7.8
+7,EXPERT WOMEN,4,Sydney Reese,607,59,1:00:09,Sundance,2026-06-10,6.6
+7,SPORT A,1,David Rodriguez,728,80,0:40:43,Sundance,2026-06-10,9.7
+7,SPORT A,2,Chandler Kay,725,73,0:42:17,Sundance,2026-06-10,9.4
+7,SPORT A,3,Scott Muhlestein,701,66,0:44:12,Sundance,2026-06-10,9.0
+7,SPORT A,4,Grant Gibson,719,59,0:44:20,Sundance,2026-06-10,8.9
+7,SPORT A,5,Jj Teemant,726,54,0:45:44,Sundance,2026-06-10,8.7
+7,SPORT A,6,Brody Smith,714,49,0:46:43,Sundance,2026-06-10,8.5
+7,SPORT A,7,Jensen Paterson,700,44,0:47:43,Sundance,2026-06-10,8.3
+7,SPORT A,8,Dennis Muhlestein,707,39,0:47:44,Sundance,2026-06-10,8.3
+7,SPORT A,9,Bryant Muhlestein,706,36,0:49:59,Sundance,2026-06-10,7.9
+7,SPORT A,10,Mattix Thurston,703,33,0:51:24,Sundance,2026-06-10,7.7
+7,SPORT A,11,Brad Bennett,723,30,1:04:56,Sundance,2026-06-10,6.1
+7,SPORT A,12,Darian Bingham,704,27,1:05:31,Sundance,2026-06-10,6.0
+7,SPORT A,DNF,John Cates,724,2,,Sundance,2026-06-10,
+7,SPORT B,1,Henry Parcell,836,80,0:29:13,Sundance,2026-06-10,10.2
+7,SPORT B,2,Christian Nydegger,842,73,0:34:34,Sundance,2026-06-10,8.6
+7,SPORT B,3,Cole Sorenson,805,66,0:35:39,Sundance,2026-06-10,8.4
+7,SPORT B,4,Gabriel James,841,59,0:37:20,Sundance,2026-06-10,8.0
+7,SPORT B,5,Benson Holmes,838,54,0:38:23,Sundance,2026-06-10,7.8
+7,SPORT B,6,Grant Crandall,815,49,0:38:56,Sundance,2026-06-10,7.7
+7,SPORT B,7,Nathan Crandall,816,44,0:39:13,Sundance,2026-06-10,7.6
+7,SPORT B,8,Chris Taylor,832,39,0:43:44,Sundance,2026-06-10,6.8
+7,SPORT B,9,Tyson Widdison,806,36,0:48:16,Sundance,2026-06-10,6.2
+7,SPORT B,10,Kyrie Bingham,800,33,0:48:21,Sundance,2026-06-10,6.2
+7,SPORT B,11,Jared Payne,807,30,0:49:53,Sundance,2026-06-10,6.0
+7,SPORT B,12,Tate Holmes,840,27,0:50:31,Sundance,2026-06-10,5.9
+7,SPORT B,13,Sean Kerman,802,24,1:12:34,Sundance,2026-06-10,4.1
+7,SPORT WOMEN,1,Lindsay Curtis,907,80,0:39:13,Sundance,2026-06-10,7.6
+7,SPORT WOMEN,2,Brooke Vincent,910,73,0:39:30,Sundance,2026-06-10,7.6
+7,SPORT WOMEN,3,Hazel Adams,921,66,0:48:03,Sundance,2026-06-10,6.2
+7,SPORT WOMEN,4,Becky Moyes,902,59,0:48:17,Sundance,2026-06-10,6.2
+7,SPORT WOMEN,5,Simone Smith,918,54,0:55:51,Sundance,2026-06-10,5.3
+7,SPORT WOMEN,6,Catharine Primosch,922,49,0:59:42,Sundance,2026-06-10,5.0
+7,JUNIOR,1,Asher Burton,1018,80,0:35:59,Sundance,2026-06-10,8.3
+7,JUNIOR,2,Eli Baird,1021,73,0:38:10,Sundance,2026-06-10,7.8
+7,JUNIOR,3,Nathan Kerman,1015,66,0:40:13,Sundance,2026-06-10,7.4
+7,JUNIOR,4,Brody Washburn,1022,59,0:41:54,Sundance,2026-06-10,7.1
+7,JUNIOR,5,Dunken Paterson,1003,54,0:46:57,Sundance,2026-06-10,6.4
+7,JUNIOR,6,Carter Jones,1108,49,0:55:43,Sundance,2026-06-10,5.3
+7,BEGINNER,1,Eliza Miller,1100,80,0:23:51,Sundance,2026-06-10,5.4
+7,BEGINNER,2,Crosby Tucker,1119,73,0:24:56,Sundance,2026-06-10,5.1
+7,BEGINNER,3,Dan Kerman,1102,66,0:30:42,Sundance,2026-06-10,4.2
+7,BEGINNER,4,Callen Muhlestein,1111,59,0:30:50,Sundance,2026-06-10,4.1
+7,BEGINNER,5,Amy Kerman,1103,54,0:44:31,Sundance,2026-06-10,2.8
+8,PRO,1,Jude Marsden,1,80,0:52:59,Wolf Creek Ranch,2026-06-17,13.5
+8,PRO,2,Preston Johnson,16,73,0:53:51,Wolf Creek Ranch,2026-06-17,13.3
+8,PRO,3,Aj Conover,2,66,0:55:53,Wolf Creek Ranch,2026-06-17,12.8
+8,PRO,4,Johnny Rainer,44,59,0:57:40,Wolf Creek Ranch,2026-06-17,12.4
+8,PRO,5,Jacob Miller,3,54,1:04:08,Wolf Creek Ranch,2026-06-17,11.2
+8,PRO,6,Charlie Severson,5,49,1:12:26,Wolf Creek Ranch,2026-06-17,9.9
+8,SEMI-PRO,1,Val Gibson,100,80,0:58:31,Wolf Creek Ranch,2026-06-17,11.0
+8,SEMI-PRO,2,Nate Miller,103,73,1:00:13,Wolf Creek Ranch,2026-06-17,10.7
+8,SEMI-PRO,3,Mark Tuttle,6,66,1:00:53,Wolf Creek Ranch,2026-06-17,10.6
+8,SEMI-PRO,4,Joe Reese,122,59,1:01:45,Wolf Creek Ranch,2026-06-17,10.4
+8,SEMI-PRO,5,Woody,0,54,1:02:48,Wolf Creek Ranch,2026-06-17,10.2
+8,SEMI-PRO,6,Thomas Hansen,132,49,1:04:38,Wolf Creek Ranch,2026-06-17,9.9
+8,SEMI-PRO,7,Matt Frisby,102,44,1:05:29,Wolf Creek Ranch,2026-06-17,9.8
+8,EXPERT A,1,Adam Pulley,234,80,0:53:52,Wolf Creek Ranch,2026-06-17,10.8
+8,EXPERT A,2,Max Glade,412,73,0:54:52,Wolf Creek Ranch,2026-06-17,10.6
+8,EXPERT A,3,Cody Shepherd,208,66,0:56:10,Wolf Creek Ranch,2026-06-17,10.4
+8,EXPERT A,4,Grayson Adams,227,59,0:56:16,Wolf Creek Ranch,2026-06-17,10.4
+8,EXPERT A,5,Aiden Hoover,230,54,0:57:01,Wolf Creek Ranch,2026-06-17,10.2
+8,EXPERT A,6,Jackson Bingham,201,49,0:58:30,Wolf Creek Ranch,2026-06-17,10.0
+8,EXPERT A,7,Bryce Primosch,252,44,0:58:31,Wolf Creek Ranch,2026-06-17,10.0
+8,EXPERT A,8,Ben Severson,207,39,0:58:33,Wolf Creek Ranch,2026-06-17,10.0
+8,EXPERT A,9,Nick Birch,202,36,0:58:39,Wolf Creek Ranch,2026-06-17,9.9
+8,EXPERT A,10,Nick Sibert,223,33,0:58:42,Wolf Creek Ranch,2026-06-17,9.9
+8,EXPERT A,11,Dennis Allen,210,30,0:59:00,Wolf Creek Ranch,2026-06-17,9.9
+8,EXPERT A,12,Nathanicus Clarkmeister,200,27,0:59:52,Wolf Creek Ranch,2026-06-17,9.7
+8,EXPERT A,13,Jacob Barton,258,24,1:05:15,Wolf Creek Ranch,2026-06-17,8.9
+8,EXPERT A,14,Todd Brown,259,21,1:08:53,Wolf Creek Ranch,2026-06-17,8.5
+8,PRO WOMEN,1,Pepper Smith,314,80,0:57:37,Wolf Creek Ranch,2026-06-17,10.1
+8,PRO WOMEN,2,Emeree Gale,322,73,1:01:00,Wolf Creek Ranch,2026-06-17,9.5
+8,PRO WOMEN,3,Alta Miller,312,66,1:03:18,Wolf Creek Ranch,2026-06-17,9.2
+8,PRO WOMEN,4,Hayden Brown,323,59,1:05:11,Wolf Creek Ranch,2026-06-17,8.9
+8,PRO WOMEN,5,Kristi Mcilmoil,302,54,1:07:13,Wolf Creek Ranch,2026-06-17,8.7
+8,PRO WOMEN,DNF,Rachel Miller,301,2,,Wolf Creek Ranch,2026-06-17,
+8,EXPERT B,1,Grey Gardner,401,80,0:37:58,Wolf Creek Ranch,2026-06-17,11.8
+8,EXPERT B,2,John D Mcilmoil,404,73,0:39:46,Wolf Creek Ranch,2026-06-17,11.3
+8,EXPERT B,3,Jared Ririe,408,66,0:40:58,Wolf Creek Ranch,2026-06-17,11.0
+8,EXPERT B,4,Eli Crandall,426,59,0:41:55,Wolf Creek Ranch,2026-06-17,10.7
+8,EXPERT B,5,Jerry Brown,400,54,0:42:20,Wolf Creek Ranch,2026-06-17,10.6
+8,EXPERT B,6,Jordan Thurston,410,49,0:43:29,Wolf Creek Ranch,2026-06-17,10.3
+8,EXPERT B,7,John W Mcilmoil,405,44,0:45:14,Wolf Creek Ranch,2026-06-17,9.9
+8,EXPERT B,8,Carson Smith,442,39,0:46:16,Wolf Creek Ranch,2026-06-17,9.7
+8,EXPERT B,9,Mike Madsen,421,36,0:46:52,Wolf Creek Ranch,2026-06-17,9.6
+8,EXPERT B,10,Tyler Perry,406,33,0:47:09,Wolf Creek Ranch,2026-06-17,9.5
+8,EXPERT B,11,Hunter Bennett,414,30,0:48:09,Wolf Creek Ranch,2026-06-17,9.3
+8,EXPERT B,12,Ryan Primosch,453,27,0:51:51,Wolf Creek Ranch,2026-06-17,8.6
+8,EXPERT B,13,Kipton Pilling,429,24,0:53:57,Wolf Creek Ranch,2026-06-17,8.3
+8,EXPERT B,14,Caroline Ridge,407,21,0:56:22,Wolf Creek Ranch,2026-06-17,8.0
+8,EXPERT B,15,Parker Goodwin,451,18,1:12:36,Wolf Creek Ranch,2026-06-17,6.2
+8,EXPERT C,1,Keagan Peterson,536,80,0:45:15,Wolf Creek Ranch,2026-06-17,9.9
+8,EXPERT C,2,Wyatt Dawson,526,73,0:45:16,Wolf Creek Ranch,2026-06-17,9.9
+8,EXPERT C,3,Tommy Peterson,513,66,0:46:21,Wolf Creek Ranch,2026-06-17,9.7
+8,EXPERT C,4,Steve Mayfield,525,59,0:48:41,Wolf Creek Ranch,2026-06-17,9.2
+8,EXPERT C,5,Cole Gonsalves,519,54,0:49:58,Wolf Creek Ranch,2026-06-17,9.0
+8,EXPERT C,6,Matt Stewart,517,49,0:50:32,Wolf Creek Ranch,2026-06-17,8.9
+8,EXPERT C,7,Matt Barton,539,44,0:51:12,Wolf Creek Ranch,2026-06-17,8.8
+8,EXPERT C,8,Kerry Smith,504,39,0:51:31,Wolf Creek Ranch,2026-06-17,8.7
+8,EXPERT C,9,Jayson Vincent,505,36,0:54:45,Wolf Creek Ranch,2026-06-17,8.2
+8,EXPERT C,10,Kyden Bernards,538,33,0:57:52,Wolf Creek Ranch,2026-06-17,7.7
+8,EXPERT C,11,Calvin Cahoon,501,30,0:59:15,Wolf Creek Ranch,2026-06-17,7.6
+8,EXPERT C,12,Bryan King,503,27,1:01:02,Wolf Creek Ranch,2026-06-17,7.3
+8,EXPERT C,13,Ian Beaty,500,24,1:27:18,Wolf Creek Ranch,2026-06-17,5.1
+8,EXPERT C,DNF,Mark Nelson,000,2,,Wolf Creek Ranch,2026-06-17,
+8,EXPERT WOMEN,1,Ariann Apostol,600,80,0:49:00,Wolf Creek Ranch,2026-06-17,8.5
+8,EXPERT WOMEN,2,Christina Perry,604,73,0:49:23,Wolf Creek Ranch,2026-06-17,8.5
+8,EXPERT WOMEN,3,Sydney Reese,607,66,0:54:49,Wolf Creek Ranch,2026-06-17,7.6
+8,SPORT A,1,Scott Muhlestein,701,80,0:42:54,Wolf Creek Ranch,2026-06-17,9.7
+8,SPORT A,2,Grant Gibson,719,73,0:42:57,Wolf Creek Ranch,2026-06-17,9.7
+8,SPORT A,3,Trey Madsen,720,66,0:42:58,Wolf Creek Ranch,2026-06-17,9.7
+8,SPORT A,4,Dennis Muhlestein,707,59,0:45:05,Wolf Creek Ranch,2026-06-17,9.3
+8,SPORT A,5,Jensen Paterson,700,54,0:46:04,Wolf Creek Ranch,2026-06-17,9.1
+8,SPORT A,6,Colton Pearce,708,49,0:46:18,Wolf Creek Ranch,2026-06-17,9.0
+8,SPORT A,7,Harvey Chaney,729,44,0:49:28,Wolf Creek Ranch,2026-06-17,8.4
+8,SPORT A,8,Bryant Muhlestein,706,39,0:50:16,Wolf Creek Ranch,2026-06-17,8.3
+8,SPORT A,9,Darian Bingham,704,36,1:01:05,Wolf Creek Ranch,2026-06-17,6.8
+8,SPORT A,10,Brad Bennett,723,33,1:02:25,Wolf Creek Ranch,2026-06-17,6.7
+8,SPORT A,11,Lucas Dixon,721,30,1:18:37,Wolf Creek Ranch,2026-06-17,5.3
+8,SPORT B,1,Grant Crandall,815,80,0:26:19,Wolf Creek Ranch,2026-06-17,8.5
+8,SPORT B,2,Nathan Crandall,816,73,0:26:21,Wolf Creek Ranch,2026-06-17,8.5
+8,SPORT B,3,Nate Peterson,843,66,0:28:33,Wolf Creek Ranch,2026-06-17,7.8
+8,SPORT B,4,Chris Pilling,827,59,0:30:23,Wolf Creek Ranch,2026-06-17,7.4
+8,SPORT B,5,Kyrie Bingham,800,54,0:33:08,Wolf Creek Ranch,2026-06-17,6.8
+8,SPORT B,6,Jared Payne,807,49,0:33:41,Wolf Creek Ranch,2026-06-17,6.6
+8,SPORT B,7,Tyson Widdison,806,44,0:42:53,Wolf Creek Ranch,2026-06-17,5.2
+8,SPORT B,8,Sean Kerman,802,39,0:44:20,Wolf Creek Ranch,2026-06-17,5.0
+8,SPORT WOMEN,1,Lucy Nelson,900,80,0:26:40,Wolf Creek Ranch,2026-06-17,8.4
+8,SPORT WOMEN,2,Brooke Vincent,910,73,0:26:43,Wolf Creek Ranch,2026-06-17,8.4
+8,SPORT WOMEN,3,Lindsay Chaney,923,66,0:32:31,Wolf Creek Ranch,2026-06-17,6.9
+8,SPORT WOMEN,4,Catharine Primosch,922,59,0:40:06,Wolf Creek Ranch,2026-06-17,5.6
+8,JUNIOR,1,Dunken Paterson,1003,80,0:30:57,Wolf Creek Ranch,2026-06-17,7.2
+8,JUNIOR,2,Carter Jones,1108,73,0:31:50,Wolf Creek Ranch,2026-06-17,7.0
+8,JUNIOR,3,Michael Vaillancourt,1120,66,0:33:14,Wolf Creek Ranch,2026-06-17,6.7
+8,JUNIOR,4,Matthew Robbins,1016,59,0:42:21,Wolf Creek Ranch,2026-06-17,5.3
+8,JUNIOR,5,Nathan Kerman,1015,54,0:47:37,Wolf Creek Ranch,2026-06-17,4.7
+8,BEGINNER,1,Eliza Miller,1100,80,0:20:54,Wolf Creek Ranch,2026-06-17,8.6
+8,BEGINNER,2,Crosby Tucker,1119,73,0:24:09,Wolf Creek Ranch,2026-06-17,7.4
+8,BEGINNER,3,Cooper Nelson,1121,66,0:24:38,Wolf Creek Ranch,2026-06-17,7.3
+8,BEGINNER,4,Lincoln Reese,1129,59,0:26:26,Wolf Creek Ranch,2026-06-17,6.8
+8,BEGINNER,5,Dan Kerman,1102,54,0:29:08,Wolf Creek Ranch,2026-06-17,6.1
+8,BEGINNER,6,Cooper Jones,1109,49,0:31:41,Wolf Creek Ranch,2026-06-17,5.6
+8,BEGINNER,7,Quinn Paterson,1123,44,0:35:05,Wolf Creek Ranch,2026-06-17,5.1
+8,BEGINNER,8,Amy Kerman,1103,39,0:43:37,Wolf Creek Ranch,2026-06-17,4.1
+8,BEGINNER,DNF,Callen Muhlestein,1111,2,,Wolf Creek Ranch,2026-06-17,
+9,PRO,1,Jude Marsden,1,80,0:59:51,Sundance,2026-07-01,13.0
+9,PRO,2,Preston Johnson,16,73,1:03:29,Sundance,2026-07-01,12.3
+9,PRO,3,Asa Pulley,19,66,1:04:44,Sundance,2026-07-01,12.0
+9,PRO,4,James Parkinson,30,59,1:05:09,Sundance,2026-07-01,12.0
+9,PRO,5,Jamison Burton,8,54,1:08:15,Sundance,2026-07-01,11.4
+9,PRO,DNF,Aj Conover,2,2,,Sundance,2026-07-01,
+9,PRO,DNF,Elliot Tippetts,46,2,,Sundance,2026-07-01,
+9,SEMI-PRO,1,Val Gibson,100,80,1:02:13,Sundance,2026-07-01,11.0
+9,SEMI-PRO,2,Kimball Gay,110,73,1:02:37,Sundance,2026-07-01,10.9
+9,SEMI-PRO,3,Dan Nelson,104,66,1:03:03,Sundance,2026-07-01,10.8
+9,SEMI-PRO,4,Oliver Miller,138,59,1:03:24,Sundance,2026-07-01,10.7
+9,SEMI-PRO,5,Mark Tuttle,6,54,1:04:04,Sundance,2026-07-01,10.6
+9,SEMI-PRO,6,Locke Erickson,135,49,1:04:36,Sundance,2026-07-01,10.5
+9,SEMI-PRO,7,Brandon Smith,105,44,1:05:13,Sundance,2026-07-01,10.4
+9,SEMI-PRO,8,Rhys Louis,142,39,1:05:35,Sundance,2026-07-01,10.4
+9,SEMI-PRO,9,Joe Reese,122,36,1:05:55,Sundance,2026-07-01,10.3
+9,SEMI-PRO,10,Matt Frisby,102,33,1:06:43,Sundance,2026-07-01,10.2
+9,SEMI-PRO,11,Kade Gray,141,30,1:06:48,Sundance,2026-07-01,10.2
+9,SEMI-PRO,12,Tavin Bussio,101,27,1:07:14,Sundance,2026-07-01,10.1
+9,SEMI-PRO,13,Woody,0,24,1:09:09,Sundance,2026-07-01,9.8
+9,SEMI-PRO,14,Dayvin Johnson,112,21,1:09:57,Sundance,2026-07-01,9.7
+9,SEMI-PRO,15,Lewis Stewart,115,18,1:12:59,Sundance,2026-07-01,9.3
+9,SEMI-PRO,DNF,Talcott Merrill,143,2,,Sundance,2026-07-01,
+9,SEMI-PRO,DNF,Michael Preece,121,2,,Sundance,2026-07-01,
+9,EXPERT A,1,Max Glade,412,80,0:51:32,Sundance,2026-07-01,11.3
+9,EXPERT A,2,Jonah van Orman,242,73,0:52:52,Sundance,2026-07-01,11.0
+9,EXPERT A,3,Matthan Airmet,260,66,0:53:00,Sundance,2026-07-01,11.0
+9,EXPERT A,4,Adam Pulley,234,59,0:53:26,Sundance,2026-07-01,10.9
+9,EXPERT A,5,Jason Coates,214,54,0:55:49,Sundance,2026-07-01,10.4
+9,EXPERT A,6,Caleb Christian,261,49,0:56:21,Sundance,2026-07-01,10.4
+9,EXPERT A,7,Cody Shepherd,208,44,0:57:00,Sundance,2026-07-01,10.2
+9,EXPERT A,8,Austin Miner,263,39,0:57:09,Sundance,2026-07-01,10.2
+9,EXPERT A,9,Jackson Bingham,201,36,0:57:39,Sundance,2026-07-01,10.1
+9,EXPERT A,10,Easton Bybee,229,33,0:58:08,Sundance,2026-07-01,10.0
+9,EXPERT A,11,Nick Sibert,223,30,0:58:28,Sundance,2026-07-01,10.0
+9,EXPERT A,12,Nick Birch,202,27,0:58:34,Sundance,2026-07-01,10.0
+9,EXPERT A,13,Nathanicus Clarkmeister,200,24,0:59:16,Sundance,2026-07-01,9.8
+9,EXPERT A,14,Josey Apostol,0000,21,0:59:19,Sundance,2026-07-01,9.8
+9,EXPERT A,15,Grayson Adams,227,18,1:01:21,Sundance,2026-07-01,9.5
+9,EXPERT A,16,Jacob Barton,258,15,1:01:23,Sundance,2026-07-01,9.5
+9,EXPERT A,17,Cameron Dufault,262,12,1:07:50,Sundance,2026-07-01,8.6
+9,EXPERT A,18,Dennis Allen,210,9,1:08:27,Sundance,2026-07-01,8.5
+9,PRO WOMEN,1,Pepper Smith,314,80,0:55:46,Sundance,2026-07-01,10.5
+9,PRO WOMEN,2,Kadence Preston,300,73,0:55:46,Sundance,2026-07-01,10.5
+9,PRO WOMEN,3,Avery Charles,313,66,1:01:32,Sundance,2026-07-01,9.5
+9,PRO WOMEN,4,Kristi Mcilmoil,302,59,1:04:38,Sundance,2026-07-01,9.0
+9,PRO WOMEN,5,Emeree Gale,322,54,1:05:26,Sundance,2026-07-01,8.9
+9,PRO WOMEN,6,Hayden Brown,323,49,1:06:50,Sundance,2026-07-01,8.7
+9,PRO WOMEN,7,Samara Smith,318,44,1:06:59,Sundance,2026-07-01,8.7
+9,PRO WOMEN,DNF,Sydney Averett,306,2,,Sundance,2026-07-01,
+9,EXPERT B,1,Grey Gardner,401,80,0:36:46,Sundance,2026-07-01,10.8
+9,EXPERT B,2,John D Mcilmoil,404,73,0:37:33,Sundance,2026-07-01,10.6
+9,EXPERT B,3,Eli Crandall,426,66,0:39:11,Sundance,2026-07-01,10.1
+9,EXPERT B,4,Jared Ririe,408,59,0:39:32,Sundance,2026-07-01,10.0
+9,EXPERT B,5,Jerry Brown,400,54,0:39:48,Sundance,2026-07-01,10.0
+9,EXPERT B,6,Jordan Thurston,410,49,0:40:23,Sundance,2026-07-01,9.8
+9,EXPERT B,7,Christian van Orman,435,44,0:41:06,Sundance,2026-07-01,9.7
+9,EXPERT B,8,Carson Smith,442,39,0:41:19,Sundance,2026-07-01,9.6
+9,EXPERT B,9,Landon Larsen,403,36,0:41:46,Sundance,2026-07-01,9.5
+9,EXPERT B,10,Conner Jones,452,33,0:41:52,Sundance,2026-07-01,9.5
+9,EXPERT B,11,John W Mcilmoil,405,30,0:42:24,Sundance,2026-07-01,9.4
+9,EXPERT B,12,Carey Pierce,423,27,0:43:03,Sundance,2026-07-01,9.2
+9,EXPERT B,13,Kyle Tippetts,459,24,0:43:07,Sundance,2026-07-01,9.2
+9,EXPERT B,14,Beckett Miller,457,21,0:43:47,Sundance,2026-07-01,9.1
+9,EXPERT B,15,Jake Bybee,454,18,0:45:48,Sundance,2026-07-01,8.7
+9,EXPERT B,16,Alan Farnes,436,15,0:49:31,Sundance,2026-07-01,8.0
+9,EXPERT B,17,Harper Tippetts,458,12,0:51:55,Sundance,2026-07-01,7.6
+9,EXPERT B,18,Porter Kellum,456,9,0:53:09,Sundance,2026-07-01,7.5
+9,EXPERT B,19,Ethan Wright,460,7,1:04:37,Sundance,2026-07-01,6.1
+9,EXPERT C,1,Eduardo Leon,541,80,0:39:31,Sundance,2026-07-01,10.0
+9,EXPERT C,2,Wyatt Dawson,526,73,0:41:06,Sundance,2026-07-01,9.7
+9,EXPERT C,3,Tommy Peterson,513,66,0:42:36,Sundance,2026-07-01,9.3
+9,EXPERT C,4,Dallan Robbins,527,59,0:43:39,Sundance,2026-07-01,9.1
+9,EXPERT C,5,Cole Gonsalves,519,54,0:46:34,Sundance,2026-07-01,8.5
+9,EXPERT C,6,Kerry Smith,504,49,0:46:40,Sundance,2026-07-01,8.5
+9,EXPERT C,7,John Taylor,515,44,0:47:37,Sundance,2026-07-01,8.3
+9,EXPERT C,8,Cory Larsen,534,39,0:47:56,Sundance,2026-07-01,8.3
+9,EXPERT C,9,Matt Stewart,517,36,0:48:43,Sundance,2026-07-01,8.1
+9,EXPERT C,10,Jayson Vincent,505,33,0:49:16,Sundance,2026-07-01,8.0
+9,EXPERT C,11,Landon Averett,540,30,0:50:30,Sundance,2026-07-01,7.9
+9,EXPERT C,12,Calvin Cahoon,501,27,0:52:13,Sundance,2026-07-01,7.6
+9,EXPERT C,13,Bryan King,503,24,0:52:46,Sundance,2026-07-01,7.5
+9,EXPERT C,14,Kris Johnson,522,21,0:53:27,Sundance,2026-07-01,7.4
+9,EXPERT C,15,Tharon Smith,529,18,0:53:40,Sundance,2026-07-01,7.4
+9,EXPERT C,16,Aaron Manwill,542,15,0:55:59,Sundance,2026-07-01,7.1
+9,EXPERT C,17,Darin Hakes,530,12,1:14:48,Sundance,2026-07-01,5.3
+9,EXPERT WOMEN,1,Nora Tippetts,617,80,0:48:03,Sundance,2026-07-01,8.3
+9,EXPERT WOMEN,2,Caylie Peterson,605,73,0:48:18,Sundance,2026-07-01,8.2
+9,EXPERT WOMEN,3,Brooke Louis,610,66,0:50:29,Sundance,2026-07-01,7.9
+9,EXPERT WOMEN,4,Ariann Apostol,600,59,0:50:47,Sundance,2026-07-01,7.8
+9,EXPERT WOMEN,5,Maya Hood,602,54,0:53:48,Sundance,2026-07-01,7.4
+9,EXPERT WOMEN,6,Emma Johnson,603,49,1:03:48,Sundance,2026-07-01,6.2
+9,EXPERT WOMEN,7,Cora Merrill,616,44,1:04:05,Sundance,2026-07-01,6.2
+9,SPORT A,1,Henry Parcell,733,80,0:41:06,Sundance,2026-07-01,9.7
+9,SPORT A,2,Porter Field,715,73,0:42:03,Sundance,2026-07-01,9.4
+9,SPORT A,3,Grant Gibson,719,66,0:43:29,Sundance,2026-07-01,9.1
+9,SPORT A,4,Scott Muhlestein,701,59,0:44:05,Sundance,2026-07-01,9.0
+9,SPORT A,5,Trey Madsen,720,54,0:44:22,Sundance,2026-07-01,8.9
+9,SPORT A,6,Dennis Muhlestein,707,49,0:48:27,Sundance,2026-07-01,8.2
+9,SPORT A,7,Ethan Miner,732,44,0:49:22,Sundance,2026-07-01,8.0
+9,SPORT A,8,Jacob Meyerson,731,39,0:50:27,Sundance,2026-07-01,7.9
+9,SPORT A,9,Darian Bingham,704,36,1:00:21,Sundance,2026-07-01,6.6
+9,SPORT A,DNF,Mattix Thurston,703,2,,Sundance,2026-07-01,
+9,SPORT B,1,Wade Nokleby,847,80,0:33:06,Sundance,2026-07-01,9.0
+9,SPORT B,2,Lucas Johnson,845,73,0:33:46,Sundance,2026-07-01,8.8
+9,SPORT B,3,Rhett Miller,846,66,0:34:34,Sundance,2026-07-01,8.6
+9,SPORT B,4,Asher Burton,844,59,0:34:55,Sundance,2026-07-01,8.6
+9,SPORT B,5,Cole Sorenson,805,54,0:35:49,Sundance,2026-07-01,8.3
+9,SPORT B,6,Grant Crandall,815,49,0:37:42,Sundance,2026-07-01,7.9
+9,SPORT B,7,Nathan Crandall,816,44,0:38:03,Sundance,2026-07-01,7.8
+9,SPORT B,8,Kyrie Bingham,800,39,0:41:55,Sundance,2026-07-01,7.1
+9,SPORT B,9,Troy Johansson,811,36,0:45:29,Sundance,2026-07-01,6.6
+9,SPORT B,10,Mike Rossberg,848,33,0:45:48,Sundance,2026-07-01,6.5
+9,SPORT B,11,Tyson Widdison,806,30,0:47:08,Sundance,2026-07-01,6.3
+9,SPORT B,12,Jared Payne,807,27,0:47:25,Sundance,2026-07-01,6.3
+9,SPORT B,13,Sean Kerman,802,24,1:09:57,Sundance,2026-07-01,4.2
+9,SPORT WOMEN,1,Lucy Nelson,900,80,0:35:41,Sundance,2026-07-01,8.4
+9,SPORT WOMEN,2,Aurora Curtis,906,73,0:36:54,Sundance,2026-07-01,8.1
+9,SPORT WOMEN,3,Brooke Vincent,910,66,0:37:17,Sundance,2026-07-01,8.0
+9,SPORT WOMEN,4,Lindsay Curtis,907,59,0:39:35,Sundance,2026-07-01,7.5
+9,SPORT WOMEN,5,Julianna Titsworth,931,54,0:41:10,Sundance,2026-07-01,7.3
+9,SPORT WOMEN,6,Lyla Brown,901,49,0:52:55,Sundance,2026-07-01,5.6
+9,JUNIOR,1,Max Brown,1023,80,0:40:46,Sundance,2026-07-01,7.3
+9,JUNIOR,2,Carter Jones,1108,73,0:45:56,Sundance,2026-07-01,6.5
+9,JUNIOR,3,Matthew Robbins,1016,66,1:01:41,Sundance,2026-07-01,4.8
+9,BEGINNER,1,Crosby Tucker,1119,80,0:26:16,Sundance,2026-07-01,4.9
+9,BEGINNER,2,Callen Muhlestein,1111,73,0:26:51,Sundance,2026-07-01,4.8
+9,BEGINNER,3,Cooper Nelson,1121,66,0:35:39,Sundance,2026-07-01,3.6
+9,BEGINNER,4,Amy Kerman,1103,59,0:49:47,Sundance,2026-07-01,2.5
+10,PRO,1,Aj Conover,2,160,1:01:39,Sundance,2026-07-15,10.2
+10,PRO,2,Jack Romasanta,45,146,1:03:35,Sundance,2026-07-15,9.9
+10,PRO,3,James Parkinson,30,132,1:05:27,Sundance,2026-07-15,9.6
+10,PRO,4,Landon Jenson,53,118,1:07:22,Sundance,2026-07-15,9.3
+10,PRO,5,Ridger Gasser,39,108,1:09:47,Sundance,2026-07-15,9.0
+10,PRO,6,Charlie Severson,5,98,1:11:15,Sundance,2026-07-15,8.8
+10,PRO,7,Josh Blake,47,88,1:11:57,Sundance,2026-07-15,8.7
+10,PRO,8,Easton Gray,48,78,1:11:57,Sundance,2026-07-15,8.7
+10,PRO,9,Alex Charles,324,72,1:14:09,Sundance,2026-07-15,8.5
+10,PRO,10,Geoffrey Montague,54,66,1:24:54,Sundance,2026-07-15,7.4
+10,SEMI-PRO,1,Jonah van Orman,146,160,0:59:37,Sundance,2026-07-15,9.5
+10,SEMI-PRO,2,Quinn Parks,136,146,0:59:58,Sundance,2026-07-15,9.5
+10,SEMI-PRO,3,Val Gibson,100,132,1:00:31,Sundance,2026-07-15,9.4
+10,SEMI-PRO,4,Mark Tuttle,6,118,1:02:43,Sundance,2026-07-15,9.0
+10,SEMI-PRO,5,Tavin Bussio,101,108,1:03:09,Sundance,2026-07-15,9.0
+10,SEMI-PRO,6,Locke Erickson,135,98,1:03:49,Sundance,2026-07-15,8.9
+10,SEMI-PRO,7,Dayvin Johnson,112,88,1:06:35,Sundance,2026-07-15,8.5
+10,SEMI-PRO,8,Brecken Larrabee,147,78,1:06:57,Sundance,2026-07-15,8.5
+10,SEMI-PRO,9,Joe Reese,122,72,1:12:43,Sundance,2026-07-15,7.8
+10,SEMI-PRO,10,Thomas Hansen,132,66,1:13:03,Sundance,2026-07-15,7.8
+10,SEMI-PRO,11,Lewis Stewart,115,60,1:13:49,Sundance,2026-07-15,7.7
+10,SEMI-PRO,DNF,Matt Frisby,102,2,,Sundance,2026-07-15,
+10,EXPERT A,1,Max Glade,412,160,0:50:01,Sundance,2026-07-15,9.5
+10,EXPERT A,2,Grey Gardner,265,146,0:50:36,Sundance,2026-07-15,9.4
+10,EXPERT A,3,Brody Cragg,267,132,0:52:15,Sundance,2026-07-15,9.1
+10,EXPERT A,4,Christian van Orman,266,118,0:53:22,Sundance,2026-07-15,8.9
+10,EXPERT A,5,Grayson Adams,227,108,0:54:11,Sundance,2026-07-15,8.8
+10,EXPERT A,6,Mitch Wright,254,98,0:54:12,Sundance,2026-07-15,8.8
+10,EXPERT A,7,Joey Matarazzi,270,88,0:54:12,Sundance,2026-07-15,8.8
+10,EXPERT A,8,Jason Reynolds,329,78,0:54:26,Sundance,2026-07-15,8.7
+10,EXPERT A,9,Easton Bybee,229,72,0:54:57,Sundance,2026-07-15,8.6
+10,EXPERT A,10,Mike Broderick,247,66,0:55:02,Sundance,2026-07-15,8.6
+10,EXPERT A,11,Liam Thomas,225,60,0:55:44,Sundance,2026-07-15,8.5
+10,EXPERT A,12,Austin Miner,263,54,0:56:39,Sundance,2026-07-15,8.4
+10,EXPERT A,13,Todd Brown,259,48,0:57:06,Sundance,2026-07-15,8.3
+10,EXPERT A,14,Cody Shepherd,208,42,0:57:26,Sundance,2026-07-15,8.3
+10,EXPERT A,15,Josey Apostol,0000,36,0:57:51,Sundance,2026-07-15,8.2
+10,EXPERT A,16,Nick Birch,202,30,0:57:55,Sundance,2026-07-15,8.2
+10,EXPERT A,17,Jacob Barton,258,24,0:58:02,Sundance,2026-07-15,8.2
+10,EXPERT A,18,Dennis Allen,210,18,0:58:31,Sundance,2026-07-15,8.1
+10,EXPERT A,19,Ben Severson,207,14,1:01:03,Sundance,2026-07-15,7.8
+10,EXPERT A,20,Owen Hardcastle,268,10,1:01:07,Sundance,2026-07-15,7.8
+10,EXPERT A,21,Nathanicus Clarkmeister,200,6,1:04:43,Sundance,2026-07-15,7.3
+10,EXPERT A,22,Gavin Miner,271,4,1:04:49,Sundance,2026-07-15,7.3
+10,EXPERT A,DNF,Damin Luedke,269,2,,Sundance,2026-07-15,
+10,PRO WOMEN,1,Avery Larrabee,325,160,1:01:36,Sundance,2026-07-15,7.7
+10,PRO WOMEN,2,Kristi Mcilmoil,302,146,1:02:36,Sundance,2026-07-15,7.6
+10,PRO WOMEN,3,Hayden Brown,323,132,1:03:26,Sundance,2026-07-15,7.5
+10,PRO WOMEN,4,Samara Smith,318,118,1:03:27,Sundance,2026-07-15,7.5
+10,PRO WOMEN,5,Lily Mendenhall,326,108,1:12:09,Sundance,2026-07-15,6.6
+10,PRO WOMEN,6,Evelynn Rasmussen,328,98,1:12:20,Sundance,2026-07-15,6.6
+10,EXPERT B,1,John D Mcilmoil,1139,160,0:46:45,Sundance,2026-07-15,8.9
+10,EXPERT B,2,Jared Ririe,408,146,0:47:51,Sundance,2026-07-15,8.7
+10,EXPERT B,3,Ezra Montague,464,132,0:48:05,Sundance,2026-07-15,8.6
+10,EXPERT B,4,Conner Jones,452,118,0:48:13,Sundance,2026-07-15,8.6
+10,EXPERT B,5,Jerry Brown,400,108,0:49:25,Sundance,2026-07-15,8.4
+10,EXPERT B,6,Carson Smith,442,98,0:49:31,Sundance,2026-07-15,8.4
+10,EXPERT B,7,Eli Crandall,426,88,0:50:22,Sundance,2026-07-15,8.2
+10,EXPERT B,8,John W Mcilmoil,405,78,0:51:17,Sundance,2026-07-15,8.1
+10,EXPERT B,9,Jordan Thurston,410,72,0:51:22,Sundance,2026-07-15,8.1
+10,EXPERT B,10,Tyler Jones,463,66,0:53:03,Sundance,2026-07-15,7.8
+10,EXPERT B,11,Beckett Miller,457,60,0:53:06,Sundance,2026-07-15,7.8
+10,EXPERT B,12,Landon Larsen,403,54,0:53:21,Sundance,2026-07-15,7.8
+10,EXPERT B,13,Tyler Perry,406,48,0:54:27,Sundance,2026-07-15,7.6
+10,EXPERT B,14,Hunter Bennett,414,42,0:56:51,Sundance,2026-07-15,7.3
+10,EXPERT B,15,Jake Bybee,454,36,0:58:13,Sundance,2026-07-15,7.1
+10,EXPERT B,16,Alan Farnes,436,30,1:03:38,Sundance,2026-07-15,6.5
+10,EXPERT B,17,Peter Fitzgerald,415,24,1:06:04,Sundance,2026-07-15,6.3
+10,EXPERT C,1,Wyatt Dawson,526,160,0:49:09,Sundance,2026-07-15,8.4
+10,EXPERT C,2,Tommy Peterson,513,146,0:53:41,Sundance,2026-07-15,7.7
+10,EXPERT C,3,Parker Allen,506,132,0:54:58,Sundance,2026-07-15,7.5
+10,EXPERT C,4,Cory Larsen,534,118,0:56:00,Sundance,2026-07-15,7.4
+10,EXPERT C,5,Tyler Brinkerhoff,546,108,0:57:10,Sundance,2026-07-15,7.2
+10,EXPERT C,6,John Taylor,515,98,0:57:38,Sundance,2026-07-15,7.2
+10,EXPERT C,7,Cole Gonsalves,519,88,0:58:35,Sundance,2026-07-15,7.1
+10,EXPERT C,8,Kerry Smith,504,78,0:59:03,Sundance,2026-07-15,7.0
+10,EXPERT C,9,Matt Barton,539,72,0:59:23,Sundance,2026-07-15,7.0
+10,EXPERT C,10,Jayson Vincent,505,66,0:59:56,Sundance,2026-07-15,6.9
+10,EXPERT C,11,Matt Stewart,517,60,1:00:47,Sundance,2026-07-15,6.8
+10,EXPERT C,12,Rob Chaney,547,54,1:01:18,Sundance,2026-07-15,6.7
+10,EXPERT C,13,Kris Johnson,522,48,1:03:54,Sundance,2026-07-15,6.5
+10,EXPERT C,14,Cameron Hill,544,42,1:06:11,Sundance,2026-07-15,6.2
+10,EXPERT C,15,Ian Beaty,500,36,1:09:12,Sundance,2026-07-15,6.0
+10,EXPERT C,16,Mark Nelson,000,30,1:09:40,Sundance,2026-07-15,5.9
+10,EXPERT C,17,Calvin Cahoon,501,24,1:12:15,Sundance,2026-07-15,5.7
+10,EXPERT WOMEN,1,Caylie Peterson,605,160,0:46:20,Sundance,2026-07-15,6.9
+10,EXPERT WOMEN,2,Christina Perry,604,146,0:47:19,Sundance,2026-07-15,6.8
+10,EXPERT WOMEN,3,Ariann Apostol,600,132,0:49:24,Sundance,2026-07-15,6.5
+10,EXPERT WOMEN,4,Maya Hood,602,118,0:52:28,Sundance,2026-07-15,6.1
+10,EXPERT WOMEN,5,Emma Johnson,603,108,1:06:15,Sundance,2026-07-15,4.8
+10,SPORT A,1,Grant Gibson,719,160,0:39:41,Sundance,2026-07-15,8.1
+10,SPORT A,2,Trey Madsen,720,146,0:40:49,Sundance,2026-07-15,7.9
+10,SPORT A,3,Scott Muhlestein,701,132,0:41:23,Sundance,2026-07-15,7.8
+10,SPORT A,4,Ethan Miner,732,118,0:42:32,Sundance,2026-07-15,7.6
+10,SPORT A,5,Dennis Muhlestein,707,108,0:44:29,Sundance,2026-07-15,7.2
+10,SPORT A,6,Jensen Paterson,700,98,0:45:14,Sundance,2026-07-15,7.1
+10,SPORT A,7,Harvey Chaney,729,88,0:49:01,Sundance,2026-07-15,6.5
+10,SPORT A,8,Mattix Thurston,703,78,0:50:51,Sundance,2026-07-15,6.3
+10,SPORT A,9,Darian Bingham,704,72,0:51:28,Sundance,2026-07-15,6.2
+10,SPORT A,DNF,David Peterson,737,2,,Sundance,2026-07-15,
+10,SPORT B,1,Cole Sorenson,805,160,0:37:03,Sundance,2026-07-15,7.0
+10,SPORT B,2,Grant Crandall,815,146,0:37:27,Sundance,2026-07-15,6.9
+10,SPORT B,3,Rhett Miller,846,132,0:37:40,Sundance,2026-07-15,6.9
+10,SPORT B,4,Nathan Crandall,816,118,0:39:22,Sundance,2026-07-15,6.6
+10,SPORT B,5,Raymond Fitzgerald,809,108,0:43:45,Sundance,2026-07-15,5.9
+10,SPORT B,6,Kyrie Bingham,800,98,0:45:46,Sundance,2026-07-15,5.7
+10,SPORT B,7,Mike Rossberg,848,88,0:47:46,Sundance,2026-07-15,5.4
+10,SPORT B,8,Tyson Widdison,806,78,0:51:29,Sundance,2026-07-15,5.0
+10,SPORT B,9,Jared Payne,807,72,1:04:18,Sundance,2026-07-15,4.0
+10,SPORT WOMEN,1,Lucy Nelson,900,160,0:36:25,Sundance,2026-07-15,7.1
+10,SPORT WOMEN,2,Aurora Curtis,906,146,0:37:42,Sundance,2026-07-15,6.9
+10,SPORT WOMEN,3,Brooke Vincent,910,132,0:40:26,Sundance,2026-07-15,6.4
+10,SPORT WOMEN,4,Lindsay Curtis,907,118,0:45:33,Sundance,2026-07-15,5.7
+10,SPORT WOMEN,5,Hazel Adams,921,108,0:58:53,Sundance,2026-07-15,4.4
+10,SPORT WOMEN,6,Simone Smith,918,98,1:04:45,Sundance,2026-07-15,4.0
+10,SPORT WOMEN,DNF,Lindsay Chaney,923,2,,Sundance,2026-07-15,
+10,JUNIOR,1,Dunken Paterson,1003,160,0:52:07,Sundance,2026-07-15,5.0
+10,BEGINNER,1,Miles Thurston,1133,160,0:30:40,Sundance,2026-07-15,6.5
+10,BEGINNER,2,Crosby Tucker,1119,146,0:32:10,Sundance,2026-07-15,6.2
+10,BEGINNER,3,Bryce Miller,1134,132,0:45:01,Sundance,2026-07-15,4.4
+10,BEGINNER,4,Cooper Nelson,1121,118,0:49:29,Sundance,2026-07-15,4.0
+10,BEGINNER,DNF,Quinn Paterson,1123,2,,Sundance,2026-07-15,
+10,BEGINNER,DNF,Frances Chaney,1135,2,,Sundance,2026-07-15,
