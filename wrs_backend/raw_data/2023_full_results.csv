@@ -731,7 +731,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,EXPERT A,16,Kael Theobald,246,15,1:03:57,Sundance,2023-06-28,8.0
 6,EXPERT A,17,Thomas Dahl,257,12,1:06:38,Sundance,2023-06-28,7.6
 6,EXPERT A,18,Andrew Nelson,209,9,1:08:37,Sundance,2023-06-28,7.4
-6,EXPERT A,DNF,Racer Gibson,260,1,,Sundance,2023-06-28,
+6,EXPERT A,DNF,Racer,260,1,,Sundance,2023-06-28,
 6,PRO/EXPERT WOMEN,1,Rachel Miller,301,80,1:01:08,Sundance,2023-06-28,8.3
 6,PRO/EXPERT WOMEN,2,Anna Cox,319,73,1:05:08,Sundance,2023-06-28,7.8
 6,PRO/EXPERT WOMEN,3,Brynlee Bingham,302,66,1:08:27,Sundance,2023-06-28,7.4
@@ -867,7 +867,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 7,EXPERT A,11,Mark Nelson,0,30,1:06:33,Sundance,2023-07-05,7.7
 7,EXPERT A,12,Eric Lynsky,207,27,1:09:03,Sundance,2023-07-05,7.4
 7,EXPERT A,13,Thomas Dahl,257,24,1:21:28,Sundance,2023-07-05,6.2
-7,EXPERT A,DNF,Racer Gibson,260,1,,Sundance,2023-07-05,
+7,EXPERT A,DNF,Racer,260,1,,Sundance,2023-07-05,
 7,EXPERT A,DNF,Garrett Allred,264,1,,Sundance,2023-07-05,
 7,PRO/EXPERT WOMEN,1,Kc Holley,320,80,1:01:34,Sundance,2023-07-05,8.3
 7,PRO/EXPERT WOMEN,2,Elizabeth Vellinga,317,73,1:05:41,Sundance,2023-07-05,7.8

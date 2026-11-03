@@ -3,7 +3,7 @@ import os
 
 PATH = "raw_data/"
 COMPOSITE_FILE = 'all_years_raw.csv'
-TOP_100_FILE = 'top_100.csv'
+TOP_100_FILE = '../../wrs-data/top_100.csv'
 
 def generate_top_100(source_file, destination_file):
     df = pd.read_csv(source_file)
@@ -11,7 +11,7 @@ def generate_top_100(source_file, destination_file):
     result_df = df.groupby('racer_name').agg(
         race_count=('racer_name','count'),
         total_points=('points','sum')
-    ).sort_values(by='race_count',ascending=False).reset_index().head(100)
+    ).sort_values(by='race_count',ascending=False).reset_index().head(150)
 
     result_df.columns = ['racer_name','race_count','total_points']
     result_df['total_points'] = result_df['total_points'].astype(int)
