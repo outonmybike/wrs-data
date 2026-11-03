@@ -11,10 +11,10 @@ def generate_top_100(source_file, destination_file):
     result_df = df.groupby('racer_name').agg(
         race_count=('racer_name','count'),
         total_points=('points','sum')
-    ).sort_values(by='race_count',ascending=False).reset_index()
+    ).sort_values(by='race_count',ascending=False).reset_index().head(150)
 
     result_df.columns = ['racer_name','race_count','total_points']
-    result_df['total_points'] = result_df['total_points'].astype(int).head(150)
+    result_df['total_points'] = result_df['total_points'].astype(int)
 
     result_df.to_csv(destination_file, index=False)
 
