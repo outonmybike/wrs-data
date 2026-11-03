@@ -331,7 +331,7 @@
 
         <!-- ── TABLE WITH TOP 25 RACERS ─────────────────────────── -->
         <div class="info-banner">
-            **Results shown only include race data from 2023 to present. 2026 Results have now been added to table**
+            **Results shown now include results from 2005, 2023, 2024, 2025, 2026. More to come soon**
         </div>
 
         <div class="table-controls">
@@ -474,7 +474,7 @@
         };
 
         // ── Fetch & init ────────────────────────────────────────────
-        fetch('top_25.csv')
+        fetch('top_100.csv')
             .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); })
             .then(text => {
                 allRows = parseCSV(text);
