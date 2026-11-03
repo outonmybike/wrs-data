@@ -47,7 +47,7 @@
 45,9,PRO/SEMI-PRO/EXPERT A MEN,3,Chad Harris,551.0,92.0,0:43:07,Soldier Hollow,2008-07-02,
 46,4,PRO/SEMI-PRO/EXPERT A MEN,6,Jason Asay,517.0,58.0,1:11:16,Sundance,2008-05-28,
 47,7,PRO/SEMI-PRO/EXPERT A MEN,3,Jason Asay,517.0,92.0,1:00:43,Soldier Hollow,2008-06-18,
-48,15,PRO/SEMI-PRO/EXPERT A MEN,5,Dan Nelson,622.0,136.0,1:12:02,Sundance,2008-08-13,
+48,15,PRO/SEMI-PRO/EXPERT A MEN,5,Sendy Dan Nelson,622.0,136.0,1:12:02,Sundance,2008-08-13,
 49,7,PRO/SEMI-PRO/EXPERT A MEN,4,Bob Saffell,418.0,78.0,1:01:30,Soldier Hollow,2008-06-18,
 50,1,PRO/SEMI-PRO/EXPERT A MEN,1,Alex Grant,440.0,120.0,0:38:44,Soldier Hollow,2008-05-14,
 51,10,PRO/SEMI-PRO/EXPERT A MEN,3,Bryan Gillespie,584.0,92.0,1:11:33,Sundance,2008-07-09,
@@ -2103,14 +2103,14 @@
 2101,3,PRO,2,Nate Dutton,213,73.0,1:00:39,Eagle Mountain,2022-05-25,
 2102,6,PRO,7,Nate Dutton,213,44.0,1:04:11,Sundance,2022-06-29,
 2103,7,PRO,6,Nate Dutton,213,49.0,1:03:57,Sundance,2022-07-06,
-2104,1,PRO,15,Dan Nelson,160,18.0,0:52:38,Euclid,2022-04-27,
-2105,3,PRO,9,Dan Nelson,160,36.0,1:13:54,Eagle Mountain,2022-05-25,
-2106,5,PRO,DNF,Dan Nelson,160,1.0,,Sundance,2022-06-22,
-2107,6,PRO,19,Dan Nelson,160,7.0,1:12:43,Sundance,2022-06-29,
-2108,7,PRO,19,Dan Nelson,160,7.0,1:18:23,Sundance,2022-07-06,
-2109,8,PRO,12,Dan Nelson,160,27.0,,Sundance,2022-07-13,
-2110,10,PRO,10,Dan Nelson,160,66.0,1:09:41,Sundance,2022-07-27,
-2111,11,PRO,5,Dan Nelson,160,54.0,,Euclid,2022-08-03,
+2104,1,PRO,15,Sendy Dan Nelson,160,18.0,0:52:38,Euclid,2022-04-27,
+2105,3,PRO,9,Sendy Dan Nelson,160,36.0,1:13:54,Eagle Mountain,2022-05-25,
+2106,5,PRO,DNF,Sendy Dan Nelson,160,1.0,,Sundance,2022-06-22,
+2107,6,PRO,19,Sendy Dan Nelson,160,7.0,1:12:43,Sundance,2022-06-29,
+2108,7,PRO,19,Sendy Dan Nelson,160,7.0,1:18:23,Sundance,2022-07-06,
+2109,8,PRO,12,Sendy Dan Nelson,160,27.0,,Sundance,2022-07-13,
+2110,10,PRO,10,Sendy Dan Nelson,160,66.0,1:09:41,Sundance,2022-07-27,
+2111,11,PRO,5,Sendy Dan Nelson,160,54.0,,Euclid,2022-08-03,
 2112,7,PRO,1,John Wessling,411,80.0,0:59:59,Sundance,2022-07-06,
 2113,8,PRO,1,John Wessling,411,80.0,,Sundance,2022-07-13,
 2114,2,PRO,5,Dan Hoopes,201,54.0,1:18:41,Euclid,2022-05-11,
@@ -3755,7 +3755,7 @@
 3753,1,SEMI-PRO,1,Val Gibson,100,80.0,0:50:25,Eagle Mountain,2026-04-15,14.3
 3754,1,SEMI-PRO,2,Tyson Peterson,114,73.0,0:50:28,Eagle Mountain,2026-04-15,14.3
 3755,1,SEMI-PRO,3,Gerrit Garberich,109,66.0,0:50:32,Eagle Mountain,2026-04-15,14.2
-3756,1,SEMI-PRO,4,Dan Nelson,104,59.0,0:51:52,Eagle Mountain,2026-04-15,13.9
+3756,1,SEMI-PRO,4,Sendy Dan Nelson,104,59.0,0:51:52,Eagle Mountain,2026-04-15,13.9
 3757,1,SEMI-PRO,5,Mark Tuttle,6,54.0,0:52:05,Eagle Mountain,2026-04-15,13.8
 3758,1,SEMI-PRO,6,Matt Frisby,102,49.0,0:52:26,Eagle Mountain,2026-04-15,13.7
 3759,1,SEMI-PRO,7,Owen Peterson,113,44.0,0:52:35,Eagle Mountain,2026-04-15,13.7
@@ -4107,7 +4107,7 @@
 4105,3,SEMI-PRO,16,Dayvin Johnson,112,15.0,1:12:22,Sorensen,2026-05-13,10.1
 4106,3,SEMI-PRO,17,Thomas van de Kamp,130,12.0,1:13:25,Sorensen,2026-05-13,9.9
 4107,3,SEMI-PRO,18,Woody,0,9.0,1:13:52,Sorensen,2026-05-13,9.8
-4108,3,SEMI-PRO,DNF,Dan Nelson,104,2.0,,Sorensen,2026-05-13,
+4108,3,SEMI-PRO,DNF,Sendy Dan Nelson,104,2.0,,Sorensen,2026-05-13,
 4109,3,SEMI-PRO,DNF,Liam Buhl,124,2.0,,Sorensen,2026-05-13,
 4110,3,EXPERT A,1,Max Glade,412,80.0,0:50:37,Sorensen,2026-05-13,11.2
 4111,3,EXPERT A,2,Wade Quilter,239,73.0,0:50:58,Sorensen,2026-05-13,11.1
@@ -4267,7 +4267,7 @@
 4265,4,SEMI-PRO,8,Woody,0,39.0,1:05:24,Sundance,2026-07-08,10.4
 4266,4,SEMI-PRO,9,Brandon Smith,105,36.0,1:05:39,Sundance,2026-07-08,10.4
 4267,4,SEMI-PRO,10,Dayvin Johnson,112,33.0,1:08:24,Sundance,2026-07-08,10.0
-4268,4,SEMI-PRO,11,Dan Nelson,104,30.0,1:09:02,Sundance,2026-07-08,9.9
+4268,4,SEMI-PRO,11,Sendy Dan Nelson,104,30.0,1:09:02,Sundance,2026-07-08,9.9
 4269,4,SEMI-PRO,12,Garner Meads Iv,145,27.0,1:16:14,Sundance,2026-07-08,8.9
 4270,4,SEMI-PRO,13,Lewis Stewart,115,24.0,1:16:26,Sundance,2026-07-08,8.9
 4271,4,SEMI-PRO,DNF,Duncan Rich,134,2.0,,Sundance,2026-07-08,
@@ -4525,7 +4525,7 @@
 4523,6,PRO,11,Brandon Mcallister,35,30.0,1:17:10,Sundance,2026-06-03,10.1
 4524,6,SEMI-PRO,1,Eli Armstrong,116,80.0,1:02:05,Sundance,2026-06-03,11.0
 4525,6,SEMI-PRO,2,Val Gibson,100,73.0,1:02:22,Sundance,2026-06-03,10.9
-4526,6,SEMI-PRO,3,Dan Nelson,104,66.0,1:04:51,Sundance,2026-06-03,10.5
+4526,6,SEMI-PRO,3,Sendy Dan Nelson,104,66.0,1:04:51,Sundance,2026-06-03,10.5
 4527,6,SEMI-PRO,4,Brandon Smith,105,59.0,1:05:24,Sundance,2026-06-03,10.4
 4528,6,SEMI-PRO,5,Tavin Bussio,101,54.0,1:08:04,Sundance,2026-06-03,10.0
 4529,6,SEMI-PRO,6,Joe Reese,122,49.0,1:08:50,Sundance,2026-06-03,9.9
@@ -4657,7 +4657,7 @@
 4655,7,SEMI-PRO,1,Spencer Stevenson,129,80.0,0:58:06,Sundance,2026-06-10,11.7
 4656,7,SEMI-PRO,2,Braxton Mabey,137,73.0,1:00:08,Sundance,2026-06-10,11.3
 4657,7,SEMI-PRO,3,Tavin Bussio,101,66.0,1:02:29,Sundance,2026-06-10,10.9
-4658,7,SEMI-PRO,4,Dan Nelson,104,59.0,1:02:40,Sundance,2026-06-10,10.9
+4658,7,SEMI-PRO,4,Sendy Dan Nelson,104,59.0,1:02:40,Sundance,2026-06-10,10.9
 4659,7,SEMI-PRO,5,Dylan Romasanta,139,54.0,1:03:16,Sundance,2026-06-10,10.8
 4660,7,SEMI-PRO,6,Brandon Smith,105,49.0,1:03:50,Sundance,2026-06-10,10.7
 4661,7,SEMI-PRO,7,Dillon Bethers,123,44.0,1:04:34,Sundance,2026-06-10,10.6
@@ -4880,7 +4880,7 @@
 4878,9,PRO,DNF,Elliot Tippetts,46,2.0,,Sundance,2026-07-01,
 4879,9,SEMI-PRO,1,Val Gibson,100,80.0,1:02:13,Sundance,2026-07-01,11.0
 4880,9,SEMI-PRO,2,Kimball Gay,110,73.0,1:02:37,Sundance,2026-07-01,10.9
-4881,9,SEMI-PRO,3,Dan Nelson,104,66.0,1:03:03,Sundance,2026-07-01,10.8
+4881,9,SEMI-PRO,3,Sendy Dan Nelson,104,66.0,1:03:03,Sundance,2026-07-01,10.8
 4882,9,SEMI-PRO,4,Oliver Miller,138,59.0,1:03:24,Sundance,2026-07-01,10.7
 4883,9,SEMI-PRO,5,Mark Tuttle,6,54.0,1:04:04,Sundance,2026-07-01,10.6
 4884,9,SEMI-PRO,6,Locke Erickson,135,49.0,1:04:36,Sundance,2026-07-01,10.5
@@ -5198,11 +5198,11 @@
 5196,4,PRO,3,Brennon Peterson,361.0,66.0,0:51:34,Sundance,2018-05-23,
 5197,5,PRO,2,Brennon Peterson,361.0,73.0,0:50:12,Sundance,2018-05-30,
 5198,7,PRO,DNF,Brennon Peterson,361.0,1.0,,Sundance,2018-06-13,
-5199,3,PRO,8,Dan Nelson,534.0,39.0,1:20:07,Euclid,2018-05-16,
-5200,4,PRO,16,Dan Nelson,534.0,15.0,1:10:01,Sundance,2018-05-23,
-5201,5,PRO,13,Dan Nelson,534.0,24.0,0:59:01,Sundance,2018-05-30,
-5202,7,PRO,7,Dan Nelson,534.0,44.0,1:12:05,Sundance,2018-06-13,
-5203,13,PRO,11,Dan Nelson,534.0,60.0,1:17:42,Sundance,2018-07-25,
+5199,3,PRO,8,Sendy Dan Nelson,534.0,39.0,1:20:07,Euclid,2018-05-16,
+5200,4,PRO,16,Sendy Dan Nelson,534.0,15.0,1:10:01,Sundance,2018-05-23,
+5201,5,PRO,13,Sendy Dan Nelson,534.0,24.0,0:59:01,Sundance,2018-05-30,
+5202,7,PRO,7,Sendy Dan Nelson,534.0,44.0,1:12:05,Sundance,2018-06-13,
+5203,13,PRO,11,Sendy Dan Nelson,534.0,60.0,1:17:42,Sundance,2018-07-25,
 5204,5,PRO,7,Andrew Conover,459.0,44.0,0:52:56,Sundance,2018-05-30,
 5205,9,PRO,3,Andrew Conover,459.0,66.0,1:04:30,Sundance,2018-06-27,
 5206,10,PRO,4,Andrew Conover,459.0,59.0,1:27:08,Euclid,2018-07-07,
@@ -6612,7 +6612,7 @@
 6610,10,SPORT MEN,5,Caleb Morris,401,34.0,,Sundance,2007-07-25,
 6611,11,SPORT MEN,15,Caleb Morris,401,1.0,0:40:09,Soldier Hollow,2007-08-01,
 6612,13,SPORT MEN,14,Caleb Morris,401,4.0,0:56:14,Soldier Hollow,2007-08-15,
-6613,7,SPORT MEN,4,Dan Nelson,379,39.0,0:58:58,Sundance,2007-06-27,
+6613,7,SPORT MEN,4,Sendy Dan Nelson,379,39.0,0:58:58,Sundance,2007-06-27,
 6614,3,SPORT MEN,4,Dan Richardson,316,39.0,0:52:26,Sundance,2007-05-23,
 6615,2,SPORT MEN,4,Joshue Parris,286,39.0,0:47:21,Soldier Hollow,2007-05-16,
 6616,9,SPORT MEN,13,Charlie Forbes,393,4.0,1:01:07,Soldier Hollow,2007-07-18,
@@ -7159,9 +7159,9 @@
 7157,5,PRO,4,Ryan Blaney,225.0,39.0,1:07:17,Soldier Hollow,2013-05-29,
 7158,2,PRO,8,Shelby Burton,139.0,19.0,0:43:32,Sundance,2013-05-08,
 7159,8,PRO,8,Shelby Burton,139.0,19.0,1:12:27,Sundance,2013-06-19,
-7160,4,PRO,11,Dan Nelson,169.0,10.0,1:13:16,Sundance,2013-05-22,
-7161,6,PRO,9,Dan Nelson,169.0,16.0,1:14:55,Sundance,2013-06-05,
-7162,12,PRO,12,Dan Nelson,169.0,7.0,0:58:51,Sundance,2013-07-17,
+7160,4,PRO,11,Sendy Dan Nelson,169.0,10.0,1:13:16,Sundance,2013-05-22,
+7161,6,PRO,9,Sendy Dan Nelson,169.0,16.0,1:14:55,Sundance,2013-06-05,
+7162,12,PRO,12,Sendy Dan Nelson,169.0,7.0,0:58:51,Sundance,2013-07-17,
 7163,5,PRO,6,Paul Clark,215.0,29.0,1:07:51,Soldier Hollow,2013-05-29,
 7164,2,PRO,6,Zach Peterson,128.0,29.0,0:41:50,Sundance,2013-05-08,
 7165,4,PRO,7,Chris Holly,153.0,24.0,1:09:45,Sundance,2013-05-22,
@@ -10327,7 +10327,7 @@
 10325,1,PRO,10,Stewart Goodwin,3,33.0,0:53:25,Eagle Mountain,2023-04-12,11.6
 10326,1,PRO,11,Wilson Engler,12,30.0,0:53:58,Eagle Mountain,2023-04-12,11.5
 10327,1,SEMI-PRO,1,Lincoln Goodwin,107,80.0,0:52:01,Eagle Mountain,2023-04-12,11.9
-10328,1,SEMI-PRO,2,Dan Nelson,112,73.0,0:52:11,Eagle Mountain,2023-04-12,11.9
+10328,1,SEMI-PRO,2,Sendy Dan Nelson,112,73.0,0:52:11,Eagle Mountain,2023-04-12,11.9
 10329,1,SEMI-PRO,3,Richard Abbott,115,66.0,0:52:53,Eagle Mountain,2023-04-12,11.7
 10330,1,SEMI-PRO,4,Preston Edwards,119,59.0,0:53:17,Eagle Mountain,2023-04-12,11.7
 10331,1,SEMI-PRO,5,Matt Parker,102,54.0,0:53:49,Eagle Mountain,2023-04-12,11.5
@@ -10491,7 +10491,7 @@
 10489,2,SEMI-PRO,2,Matt Frisby,105,73.0,0:59:13,Euclid,2023-05-03,10.6
 10490,2,SEMI-PRO,3,Kyle Clarke,135,66.0,1:00:04,Euclid,2023-05-03,10.4
 10491,2,SEMI-PRO,4,Meghan Sheridan,131,59.0,1:00:16,Euclid,2023-05-03,10.4
-10492,2,SEMI-PRO,5,Dan Nelson,112,54.0,1:00:17,Euclid,2023-05-03,10.4
+10492,2,SEMI-PRO,5,Sendy Dan Nelson,112,54.0,1:00:17,Euclid,2023-05-03,10.4
 10493,2,SEMI-PRO,6,Ethan Smith,124,49.0,1:00:35,Euclid,2023-05-03,10.3
 10494,2,SEMI-PRO,7,Scott Abbott,116,44.0,1:00:35,Euclid,2023-05-03,10.3
 10495,2,SEMI-PRO,8,Nate Miller,101,39.0,1:00:46,Euclid,2023-05-03,10.3
@@ -10852,7 +10852,7 @@
 10850,5,SEMI-PRO,1,Richard Abbott,115,80.0,1:02:04,Sundance,2023-06-21,9.8
 10851,5,SEMI-PRO,2,Mike Broderick,140,73.0,1:02:47,Sundance,2023-06-21,9.6
 10852,5,SEMI-PRO,3,Lincoln Goodwin,107,66.0,1:03:56,Sundance,2023-06-21,9.5
-10853,5,SEMI-PRO,4,Dan Nelson,112,59.0,1:04:27,Sundance,2023-06-21,9.4
+10853,5,SEMI-PRO,4,Sendy Dan Nelson,112,59.0,1:04:27,Sundance,2023-06-21,9.4
 10854,5,SEMI-PRO,5,Luke Cahoon,104,54.0,1:04:45,Sundance,2023-06-21,9.4
 10855,5,SEMI-PRO,6,Scott Abbott,116,49.0,1:05:01,Sundance,2023-06-21,9.3
 10856,5,SEMI-PRO,7,Tripp Kay,109,44.0,1:05:29,Sundance,2023-06-21,9.2
@@ -11010,7 +11010,7 @@
 11008,6,SEMI-PRO,1,Scott Abbott,116,80.0,1:02:04,Sundance,2023-06-28,9.9
 11009,6,SEMI-PRO,2,Nathan Woolf,146,73.0,1:02:47,Sundance,2023-06-28,9.8
 11010,6,SEMI-PRO,3,Mike Broderick,140,66.0,1:02:57,Sundance,2023-06-28,9.8
-11011,6,SEMI-PRO,4,Dan Nelson,112,59.0,1:03:09,Sundance,2023-06-28,9.8
+11011,6,SEMI-PRO,4,Sendy Dan Nelson,112,59.0,1:03:09,Sundance,2023-06-28,9.8
 11012,6,SEMI-PRO,5,Brandon Smith,125,54.0,1:04:24,Sundance,2023-06-28,9.6
 11013,6,SEMI-PRO,6,Colton Theobald,117,49.0,1:05:14,Sundance,2023-06-28,9.5
 11014,6,SEMI-PRO,7,Matt Parker,102,44.0,1:05:42,Sundance,2023-06-28,9.4
@@ -11152,7 +11152,7 @@
 11150,7,PRO,12,Eric Ault,38,27.0,1:25:17,Sundance,2023-07-05,8.0
 11151,7,SEMI-PRO,1,Axel Uibel,149,80.0,1:01:57,Sundance,2023-07-05,10.0
 11152,7,SEMI-PRO,2,Richard Abbott,115,73.0,1:02:24,Sundance,2023-07-05,9.9
-11153,7,SEMI-PRO,3,Dan Nelson,112,66.0,1:02:43,Sundance,2023-07-05,9.8
+11153,7,SEMI-PRO,3,Sendy Dan Nelson,112,66.0,1:02:43,Sundance,2023-07-05,9.8
 11154,7,SEMI-PRO,4,Colton Theobald,117,59.0,1:03:39,Sundance,2023-07-05,9.7
 11155,7,SEMI-PRO,5,Luke Cahoon,104,54.0,1:05:07,Sundance,2023-07-05,9.5
 11156,7,SEMI-PRO,6,Ethan Nicholson,136,49.0,1:05:53,Sundance,2023-07-05,9.4
@@ -11269,7 +11269,7 @@
 11267,8,PRO,DNF,Wilson Engler,12,1.0,,Wolf Creek Ranch,2023-07-12,
 11268,8,SEMI-PRO,1,Brandon Smith,125,80.0,0:55:57,Wolf Creek Ranch,2023-07-12,11.5
 11269,8,SEMI-PRO,2,Scott Abbott,116,73.0,0:56:29,Wolf Creek Ranch,2023-07-12,11.4
-11270,8,SEMI-PRO,3,Dan Nelson,112,66.0,0:57:26,Wolf Creek Ranch,2023-07-12,11.2
+11270,8,SEMI-PRO,3,Sendy Dan Nelson,112,66.0,0:57:26,Wolf Creek Ranch,2023-07-12,11.2
 11271,8,SEMI-PRO,4,Matt Frisby,105,59.0,0:59:04,Wolf Creek Ranch,2023-07-12,10.9
 11272,8,SEMI-PRO,5,Luke Cahoon,104,54.0,0:59:14,Wolf Creek Ranch,2023-07-12,10.8
 11273,8,SEMI-PRO,6,Tripp Kay,109,49.0,0:59:15,Wolf Creek Ranch,2023-07-12,10.8
@@ -11379,7 +11379,7 @@
 11377,9,PRO,9,Brandon Firth,18,36.0,0:51:52,Sorensen,2023-07-19,10.9
 11378,9,PRO,10,Isaac Teerlink,33,33.0,0:53:38,Sorensen,2023-07-19,10.6
 11379,9,SEMI-PRO,1,Henry Stevens,151,80.0,0:49:55,Sorensen,2023-07-19,11.3
-11380,9,SEMI-PRO,2,Dan Nelson,112,73.0,0:50:19,Sorensen,2023-07-19,11.3
+11380,9,SEMI-PRO,2,Sendy Dan Nelson,112,73.0,0:50:19,Sorensen,2023-07-19,11.3
 11381,9,SEMI-PRO,3,Brandon Smith,125,66.0,0:50:57,Sorensen,2023-07-19,11.1
 11382,9,SEMI-PRO,4,Jayven Thomas,148,59.0,0:51:06,Sorensen,2023-07-19,11.1
 11383,9,SEMI-PRO,5,Tanner Gillespie,153,54.0,0:52:05,Sorensen,2023-07-19,10.9
@@ -11487,7 +11487,7 @@
 11485,10,PRO,DNF,Shane Charles,15,2.0,,Sundance,2023-07-26,
 11486,10,SEMI-PRO,1,Henry Stevens,151,160.0,0:52:41,Sundance,2023-07-26,10.2
 11487,10,SEMI-PRO,2,Jamyne Xoumphonphackdy,129,146.0,0:53:56,Sundance,2023-07-26,9.9
-11488,10,SEMI-PRO,3,Dan Nelson,112,132.0,0:54:34,Sundance,2023-07-26,9.8
+11488,10,SEMI-PRO,3,Sendy Dan Nelson,112,132.0,0:54:34,Sundance,2023-07-26,9.8
 11489,10,SEMI-PRO,4,Tanner Gillespie,153,118.0,0:55:15,Sundance,2023-07-26,9.7
 11490,10,SEMI-PRO,5,Brandon Smith,125,108.0,0:55:17,Sundance,2023-07-26,9.7
 11491,10,SEMI-PRO,6,Luke Cahoon,104,98.0,0:55:45,Sundance,2023-07-26,9.6
@@ -12548,18 +12548,18 @@
 12546,8,PRO,1,Canyon Emmott,688,80.0,1:01:27,Euclid,2019-06-12,
 12547,9,PRO,2,Canyon Emmott,688,73.0,0:54:06,Sundance,2019-06-19,
 12548,13,PRO,1,Canyon Emmott,688,80.0,0:56:36,Sundance,2019-07-17,
-12549,2,PRO,11,Dan Nelson,382,30.0,1:14:38,Soldier Hollow,2019-05-01,
-12550,3,PRO,11,Dan Nelson,382,30.0,1:13:47,Mt. Timpanogos Park,2019-05-08,
-12551,4,PRO,13,Dan Nelson,382,24.0,1:10:48,Euclid,2019-05-15,
-12552,6,PRO,11,Dan Nelson,382,30.0,0:59:48,Sorensen Trail,2019-05-29,
-12553,7,PRO,16,Dan Nelson,382,15.0,1:09:10,Sundance,2019-06-05,
-12554,8,PRO,13,Dan Nelson,382,24.0,1:10:17,Euclid,2019-06-12,
-12555,9,PRO,15,Dan Nelson,382,18.0,0:58:42,Sundance,2019-06-19,
-12556,10,PRO,12,Dan Nelson,382,27.0,1:13:51,Sorensen Trail,2019-06-29,
-12557,11,PRO,13,Dan Nelson,382,24.0,0:59:56,Sundance,2019-07-03,
-12558,12,PRO,DNF,Dan Nelson,382,1.0,,Soldier Hollow,2019-07-10,
-12559,13,PRO,13,Dan Nelson,382,24.0,1:05:13,Sundance,2019-07-17,
-12560,14,PRO,12,Dan Nelson,382,54.0,1:19:20,Euclid,2019-07-31,
+12549,2,PRO,11,Sendy Dan Nelson,382,30.0,1:14:38,Soldier Hollow,2019-05-01,
+12550,3,PRO,11,Sendy Dan Nelson,382,30.0,1:13:47,Mt. Timpanogos Park,2019-05-08,
+12551,4,PRO,13,Sendy Dan Nelson,382,24.0,1:10:48,Euclid,2019-05-15,
+12552,6,PRO,11,Sendy Dan Nelson,382,30.0,0:59:48,Sorensen Trail,2019-05-29,
+12553,7,PRO,16,Sendy Dan Nelson,382,15.0,1:09:10,Sundance,2019-06-05,
+12554,8,PRO,13,Sendy Dan Nelson,382,24.0,1:10:17,Euclid,2019-06-12,
+12555,9,PRO,15,Sendy Dan Nelson,382,18.0,0:58:42,Sundance,2019-06-19,
+12556,10,PRO,12,Sendy Dan Nelson,382,27.0,1:13:51,Sorensen Trail,2019-06-29,
+12557,11,PRO,13,Sendy Dan Nelson,382,24.0,0:59:56,Sundance,2019-07-03,
+12558,12,PRO,DNF,Sendy Dan Nelson,382,1.0,,Soldier Hollow,2019-07-10,
+12559,13,PRO,13,Sendy Dan Nelson,382,24.0,1:05:13,Sundance,2019-07-17,
+12560,14,PRO,12,Sendy Dan Nelson,382,54.0,1:19:20,Euclid,2019-07-31,
 12561,3,PRO,10,Steve Carwile,572,33.0,1:12:49,Mt. Timpanogos Park,2019-05-08,
 12562,7,PRO,7,Steve Carwile,572,44.0,0:59:18,Sundance,2019-06-05,
 12563,8,PRO,8,Steve Carwile,572,39.0,1:07:29,Euclid,2019-06-12,
@@ -13842,11 +13842,11 @@
 13840,7,EXPERT A,8,Ron Palmer Leger,431,19.0,1:18:55,Soldier Hollow,2012-06-13,
 13841,11,EXPERT A,13,Ron Palmer Leger,431,5.0,1:19:20,Heber Valley Trails,2012-07-11,
 13842,13,EXPERT A,7,Ron Palmer Leger,431,24.0,0:58:15,Soldier Hollow,2012-07-25,
-13843,6,EXPERT A,17,Dan Nelson,494,2.0,1:04:48,Sundance,2012-06-06,
-13844,8,EXPERT A,12,Dan Nelson,494,7.0,1:13:46,Sundance,2012-06-20,
-13845,12,EXPERT A,14,Dan Nelson,494,3.0,1:19:32,Sundance,2012-07-18,
-13846,14,EXPERT A,10,Dan Nelson,494,13.0,1:08:37,Sundance,2012-08-01,
-13847,15,EXPERT A,12,Dan Nelson,494,14.0,1:10:20,Sundance,2012-08-08,
+13843,6,EXPERT A,17,Sendy Dan Nelson,494,2.0,1:04:48,Sundance,2012-06-06,
+13844,8,EXPERT A,12,Sendy Dan Nelson,494,7.0,1:13:46,Sundance,2012-06-20,
+13845,12,EXPERT A,14,Sendy Dan Nelson,494,3.0,1:19:32,Sundance,2012-07-18,
+13846,14,EXPERT A,10,Sendy Dan Nelson,494,13.0,1:08:37,Sundance,2012-08-01,
+13847,15,EXPERT A,12,Sendy Dan Nelson,494,14.0,1:10:20,Sundance,2012-08-08,
 13848,5,EXPERT A,15,Darrell Roundy,470,2.0,0:57:50,Soldier Hollow,2012-05-30,
 13849,2,EXPERT A,22,Hunter Tolbert,361,2.0,1:06:42,Sundance,2012-05-09,
 13850,12,EXPERT A,6,Ty Hopkins,466,29.0,1:10:46,Sundance,2012-07-18,
@@ -14769,14 +14769,14 @@
 14767,5,PRO,3,Carter Anderson,162,66.0,1:01:59,Sundance,2020-07-01,
 14768,6,PRO,1,Carter Anderson,162,80.0,1:03:47,Wolf Creek Ranch,2020-07-08,
 14769,7,PRO,4,Carter Anderson,162,118.0,1:02:19,Sundance,2020-07-15,
-14770,1,PRO,8,Dan Nelson,7,39.0,1:17:37,Sundance,2020-06-03,
-14771,2,PRO,16,Dan Nelson,7,15.0,1:07:52,Euclid,2020-06-10,
-14772,3,PRO,6,Dan Nelson,7,49.0,1:12:50,Sundance,2020-06-17,
-14773,4,PRO,5,Dan Nelson,7,54.0,0:58:02,Wolf Creek Ranch,2020-06-24,
-14774,5,PRO,8,Dan Nelson,7,39.0,1:05:57,Sundance,2020-07-01,
-14775,6,PRO,6,Dan Nelson,7,49.0,1:08:37,Wolf Creek Ranch,2020-07-08,
-14776,7,PRO,11,Dan Nelson,7,60.0,1:05:36,Sundance,2020-07-15,
-14777,8,PRO,7,Dan Nelson,7,44.0,0:47:17,Euclid,2020-07-29,
+14770,1,PRO,8,Sendy Dan Nelson,7,39.0,1:17:37,Sundance,2020-06-03,
+14771,2,PRO,16,Sendy Dan Nelson,7,15.0,1:07:52,Euclid,2020-06-10,
+14772,3,PRO,6,Sendy Dan Nelson,7,49.0,1:12:50,Sundance,2020-06-17,
+14773,4,PRO,5,Sendy Dan Nelson,7,54.0,0:58:02,Wolf Creek Ranch,2020-06-24,
+14774,5,PRO,8,Sendy Dan Nelson,7,39.0,1:05:57,Sundance,2020-07-01,
+14775,6,PRO,6,Sendy Dan Nelson,7,49.0,1:08:37,Wolf Creek Ranch,2020-07-08,
+14776,7,PRO,11,Sendy Dan Nelson,7,60.0,1:05:36,Sundance,2020-07-15,
+14777,8,PRO,7,Sendy Dan Nelson,7,44.0,0:47:17,Euclid,2020-07-29,
 14778,2,PRO,5,Spencer Maughan,42,54.0,1:00:22,Euclid,2020-06-10,
 14779,3,PRO,3,Spencer Maughan,42,66.0,1:09:23,Sundance,2020-06-17,
 14780,5,PRO,7,Spencer Maughan,42,44.0,1:05:41,Sundance,2020-07-01,
@@ -15600,16 +15600,16 @@
 15598,8,BEGINNER,19,Ryan Bay,209,7.0,0:29:34,Euclid,2020-07-29,
 15599,8,BEGINNER,20,Cali Leininger,247,5.0,0:47:31,Euclid,2020-07-29,
 15600,8,BEGINNER,DNF,Ezra Montague,,1.0,,Euclid,2020-07-29,
-15601,1,PRO,1,Dan Nelson,29.0,60.0,,Euclid,2015-05-06,
-15602,2,PRO,7,Dan Nelson,29.0,24.0,1:12:30,Sundance,2015-05-13,
-15603,3,PRO,8,Dan Nelson,29.0,19.0,1:10:37,Sorensen Trail,2015-05-20,
-15604,5,PRO,6,Dan Nelson,29.0,29.0,1:17:43,Soldier Hollow,2015-06-03,
-15605,8,PRO,3,Dan Nelson,29.0,46.0,1:11:16,Sundance,2015-06-24,
-15606,9,PRO,2,Dan Nelson,29.0,53.0,1:13:36,Euclid,2015-07-01,
-15607,10,PRO,10,Dan Nelson,29.0,13.0,1:06:28,Sundance,2015-07-08,
-15608,11,PRO,2,Dan Nelson,29.0,53.0,1:05:41,Soldier Hollow,2015-07-15,
-15609,12,PRO,3,Dan Nelson,29.0,46.0,1:01:09,Sundance,2015-07-22,
-15610,13,PRO,4,Dan Nelson,29.0,78.0,1:02:51,Euclid,2015-07-29,
+15601,1,PRO,1,Sendy Dan Nelson,29.0,60.0,,Euclid,2015-05-06,
+15602,2,PRO,7,Sendy Dan Nelson,29.0,24.0,1:12:30,Sundance,2015-05-13,
+15603,3,PRO,8,Sendy Dan Nelson,29.0,19.0,1:10:37,Sorensen Trail,2015-05-20,
+15604,5,PRO,6,Sendy Dan Nelson,29.0,29.0,1:17:43,Soldier Hollow,2015-06-03,
+15605,8,PRO,3,Sendy Dan Nelson,29.0,46.0,1:11:16,Sundance,2015-06-24,
+15606,9,PRO,2,Sendy Dan Nelson,29.0,53.0,1:13:36,Euclid,2015-07-01,
+15607,10,PRO,10,Sendy Dan Nelson,29.0,13.0,1:06:28,Sundance,2015-07-08,
+15608,11,PRO,2,Sendy Dan Nelson,29.0,53.0,1:05:41,Soldier Hollow,2015-07-15,
+15609,12,PRO,3,Sendy Dan Nelson,29.0,46.0,1:01:09,Sundance,2015-07-22,
+15610,13,PRO,4,Sendy Dan Nelson,29.0,78.0,1:02:51,Euclid,2015-07-29,
 15611,1,PRO,1,Drew Palmer Leger,53.0,60.0,,Euclid,2015-05-06,
 15612,2,PRO,2,Drew Palmer Leger,53.0,53.0,1:08:54,Sundance,2015-05-13,
 15613,3,PRO,4,Drew Palmer Leger,53.0,39.0,1:05:21,Sorensen Trail,2015-05-20,
@@ -16556,13 +16556,13 @@
 16554,7,EXPERT A,6,Stewart Goodwin,57.0,29.0,1:07:45,Soldier Hollow,2011-06-15,
 16555,8,EXPERT A,13,Stewart Goodwin,57.0,4.0,1:19:47,Sundance,2011-06-22,
 16556,10,EXPERT A,DNF,Stewart Goodwin,57.0,1.0,,Sundance,2011-07-06,
-16557,1,EXPERT A,9,Dan Nelson,20.0,16.0,1:03:09,Soldier Hollow,2011-05-04,
-16558,2,EXPERT A,7,Dan Nelson,20.0,24.0,1:08:52,Soldier Hollow,2011-05-12,
-16559,4,EXPERT A,3,Dan Nelson,20.0,46.0,0:57:39,Sundance,2011-05-25,
-16560,5,EXPERT A,12,Dan Nelson,20.0,7.0,0:46:22,Soldier Hollow,2011-06-01,
-16561,6,EXPERT A,12,Dan Nelson,20.0,7.0,0:58:25,Sundance,2011-06-08,
-16562,7,EXPERT A,12,Dan Nelson,20.0,7.0,1:29:08,Soldier Hollow,2011-06-15,
-16563,8,EXPERT A,14,Dan Nelson,20.0,2.0,1:20:07,Sundance,2011-06-22,
+16557,1,EXPERT A,9,Sendy Dan Nelson,20.0,16.0,1:03:09,Soldier Hollow,2011-05-04,
+16558,2,EXPERT A,7,Sendy Dan Nelson,20.0,24.0,1:08:52,Soldier Hollow,2011-05-12,
+16559,4,EXPERT A,3,Sendy Dan Nelson,20.0,46.0,0:57:39,Sundance,2011-05-25,
+16560,5,EXPERT A,12,Sendy Dan Nelson,20.0,7.0,0:46:22,Soldier Hollow,2011-06-01,
+16561,6,EXPERT A,12,Sendy Dan Nelson,20.0,7.0,0:58:25,Sundance,2011-06-08,
+16562,7,EXPERT A,12,Sendy Dan Nelson,20.0,7.0,1:29:08,Soldier Hollow,2011-06-15,
+16563,8,EXPERT A,14,Sendy Dan Nelson,20.0,2.0,1:20:07,Sundance,2011-06-22,
 16564,4,EXPERT A,14,Jake Rogers,41.0,2.0,1:03:22,Sundance,2011-05-25,
 16565,6,EXPERT A,14,Jake Rogers,41.0,2.0,1:00:04,Sundance,2011-06-08,
 16566,7,EXPERT A,8,Jake Rogers,41.0,19.0,1:09:41,Soldier Hollow,2011-06-15,
@@ -17556,7 +17556,7 @@
 17554,1,SEMI-PRO,6,Nate Miller,109,49.0,0:51:47,Eagle Mountain,2024-04-17,14.3
 17555,1,SEMI-PRO,7,Brandon Smith,116,44.0,0:52:27,Eagle Mountain,2024-04-17,14.1
 17556,1,SEMI-PRO,8,Bryan Gillespie,119,39.0,0:53:13,Eagle Mountain,2024-04-17,13.9
-17557,1,SEMI-PRO,9,Dan Nelson,111,36.0,0:53:27,Eagle Mountain,2024-04-17,13.8
+17557,1,SEMI-PRO,9,Sendy Dan Nelson,111,36.0,0:53:27,Eagle Mountain,2024-04-17,13.8
 17558,1,SEMI-PRO,10,Eli Speck,123,33.0,0:53:42,Eagle Mountain,2024-04-17,13.8
 17559,1,SEMI-PRO,11,Pearson Wallace,121,30.0,0:54:16,Eagle Mountain,2024-04-17,13.6
 17560,1,SEMI-PRO,12,Matt Parker,556,27.0,0:54:21,Eagle Mountain,2024-04-17,13.6
@@ -17732,7 +17732,7 @@
 17730,2,SEMI-PRO,2,Scott Preston,112,73.0,0:56:04,Euclid,2024-04-24,11.3
 17731,2,SEMI-PRO,3,Val Gibson,101,66.0,0:57:15,Euclid,2024-04-24,11.1
 17732,2,SEMI-PRO,4,Nate Miller,109,59.0,0:57:30,Euclid,2024-04-24,11.1
-17733,2,SEMI-PRO,5,Dan Nelson,111,54.0,0:58:11,Euclid,2024-04-24,10.9
+17733,2,SEMI-PRO,5,Sendy Dan Nelson,111,54.0,0:58:11,Euclid,2024-04-24,10.9
 17734,2,SEMI-PRO,6,Wade Quilter,133,49.0,0:59:04,Euclid,2024-04-24,10.8
 17735,2,SEMI-PRO,7,Clayton Morrill,131,44.0,0:59:17,Euclid,2024-04-24,10.7
 17736,2,SEMI-PRO,8,Ezra Sumner,132,39.0,1:00:50,Euclid,2024-04-24,10.5
@@ -17889,7 +17889,7 @@
 17887,3,SEMI-PRO,3,Ezra Sumner,132,66.0,1:07:20,Sorensen,2024-05-16,10.8
 17888,3,SEMI-PRO,4,Johnny D Pedersen,135,59.0,1:07:28,Sorensen,2024-05-16,10.8
 17889,3,SEMI-PRO,5,Val Gibson,101,54.0,1:07:41,Sorensen,2024-05-16,10.8
-17890,3,SEMI-PRO,6,Dan Nelson,111,49.0,1:07:55,Sorensen,2024-05-16,10.7
+17890,3,SEMI-PRO,6,Sendy Dan Nelson,111,49.0,1:07:55,Sorensen,2024-05-16,10.7
 17891,3,SEMI-PRO,7,Brandon Smith,116,44.0,1:08:52,Sorensen,2024-05-16,10.6
 17892,3,SEMI-PRO,8,Tyler Ashworth,134,39.0,1:09:56,Sorensen,2024-05-16,10.4
 17893,3,SEMI-PRO,9,Landon Hammond,138,36.0,1:13:19,Sorensen,2024-05-16,9.9
@@ -18013,7 +18013,7 @@
 18011,4,SEMI-PRO,12,Nick Birch,108,27.0,1:10:04,Euclid,2024-05-23,9.4
 18012,4,SEMI-PRO,13,Luke Cahoon,113,24.0,1:10:12,Euclid,2024-05-23,9.3
 18013,4,SEMI-PRO,14,Brian Ressa,110,21.0,1:14:12,Euclid,2024-05-23,8.8
-18014,4,SEMI-PRO,15,Dan Nelson,111,18.0,1:24:38,Euclid,2024-05-23,7.7
+18014,4,SEMI-PRO,15,Sendy Dan Nelson,111,18.0,1:24:38,Euclid,2024-05-23,7.7
 18015,4,SEMI-PRO,DNF,Charlie Sims,139,1.0,,Euclid,2024-05-23,
 18016,4,SEMI-PRO,DNF,Matt Frisby,102,1.0,,Euclid,2024-05-23,
 18017,4,SEMI-PRO,DNF,Matt Parker,556,1.0,,Euclid,2024-05-23,
@@ -18113,7 +18113,7 @@
 18111,5,PRO,3,Andrew Conover,2,66.0,1:06:38,Sundance,2024-05-29,10.2
 18112,5,PRO,4,Spencer Maughan,42,59.0,1:11:07,Sundance,2024-05-29,9.6
 18113,5,PRO,5,Thomas Cahoon,15,54.0,1:22:12,Sundance,2024-05-29,8.3
-18114,5,SEMI-PRO,1,Dan Nelson,111,80.0,1:06:40,Sundance,2024-05-29,9.1
+18114,5,SEMI-PRO,1,Sendy Dan Nelson,111,80.0,1:06:40,Sundance,2024-05-29,9.1
 18115,5,SEMI-PRO,2,Chelsea Bolton,140,73.0,1:06:44,Sundance,2024-05-29,9.0
 18116,5,SEMI-PRO,3,Nate Miller,109,66.0,1:07:15,Sundance,2024-05-29,9.0
 18117,5,SEMI-PRO,4,Griffin Park,143,59.0,1:07:56,Sundance,2024-05-29,8.9
@@ -18513,7 +18513,7 @@
 18511,8,SEMI-PRO,2,Jude Marsden,153,73.0,1:02:47,Sundance,2024-07-03,10.9
 18512,8,SEMI-PRO,3,Jamison Burton,137,66.0,1:04:15,Sundance,2024-07-03,10.6
 18513,8,SEMI-PRO,4,Jayven Thomas,124,59.0,1:04:32,Sundance,2024-07-03,10.6
-18514,8,SEMI-PRO,5,Dan Nelson,111,54.0,1:04:45,Sundance,2024-07-03,10.5
+18514,8,SEMI-PRO,5,Sendy Dan Nelson,111,54.0,1:04:45,Sundance,2024-07-03,10.5
 18515,8,SEMI-PRO,6,Logan Diekmann,155,49.0,1:05:20,Sundance,2024-07-03,10.4
 18516,8,SEMI-PRO,7,Val Gibson,101,44.0,1:05:39,Sundance,2024-07-03,10.4
 18517,8,SEMI-PRO,8,Brandon Smith,154,39.0,1:05:48,Sundance,2024-07-03,10.4
@@ -18644,7 +18644,7 @@
 18642,9,PRO,11,Asa Christensen,41,30.0,1:14:52,Wolf Creek Ranch,2024-07-10,9.6
 18643,9,SEMI-PRO,1,Jacob Miller,159,80.0,0:56:29,Wolf Creek Ranch,2024-07-10,11.4
 18644,9,SEMI-PRO,2,Nate Miller,109,73.0,0:56:31,Wolf Creek Ranch,2024-07-10,11.4
-18645,9,SEMI-PRO,3,Dan Nelson,111,66.0,0:57:36,Wolf Creek Ranch,2024-07-10,11.2
+18645,9,SEMI-PRO,3,Sendy Dan Nelson,111,66.0,0:57:36,Wolf Creek Ranch,2024-07-10,11.2
 18646,9,SEMI-PRO,4,Matt Parker,556,59.0,0:59:51,Wolf Creek Ranch,2024-07-10,10.7
 18647,9,SEMI-PRO,5,Val Gibson,101,54.0,1:01:06,Wolf Creek Ranch,2024-07-10,10.5
 18648,9,SEMI-PRO,6,Woody,0,49.0,1:01:26,Wolf Creek Ranch,2024-07-10,10.5
@@ -18769,7 +18769,7 @@
 18767,10,SEMI-PRO,1,Jude Marsden,153,160.0,1:00:44,Sundance,2024-07-17,11.2
 18768,10,SEMI-PRO,2,Jacob Miller,159,146.0,1:01:33,Sundance,2024-07-17,11.1
 18769,10,SEMI-PRO,3,Wade Quilter,133,132.0,1:01:45,Sundance,2024-07-17,11.0
-18770,10,SEMI-PRO,4,Dan Nelson,111,118.0,1:01:47,Sundance,2024-07-17,11.0
+18770,10,SEMI-PRO,4,Sendy Dan Nelson,111,118.0,1:01:47,Sundance,2024-07-17,11.0
 18771,10,SEMI-PRO,5,Nate Miller,109,108.0,1:02:41,Sundance,2024-07-17,10.9
 18772,10,SEMI-PRO,6,Val Gibson,101,98.0,1:03:29,Sundance,2024-07-17,10.7
 18773,10,SEMI-PRO,7,Bryson Douglass,156,88.0,1:03:30,Sundance,2024-07-17,10.7
@@ -18914,7 +18914,7 @@
 18912,11,SEMI-PRO,4,Nate Miller,109,59.0,0:29:45,Euclid,2024-07-31,12.3
 18913,11,SEMI-PRO,5,Jacob Miller,159,54.0,0:29:45,Euclid,2024-07-31,12.2
 18914,11,SEMI-PRO,6,Jake Broussard,126,49.0,0:30:25,Euclid,2024-07-31,12.2
-18915,11,SEMI-PRO,7,Dan Nelson,111,44.0,0:30:32,Euclid,2024-07-31,12.3
+18915,11,SEMI-PRO,7,Sendy Dan Nelson,111,44.0,0:30:32,Euclid,2024-07-31,12.3
 18916,11,SEMI-PRO,8,Luke Cahoon,113,39.0,0:32:52,Euclid,2024-07-31,11.3
 18917,11,SEMI-PRO,9,Woody,0,36.0,0:33:11,Euclid,2024-07-31,11.5
 18918,11,SEMI-PRO,10,Val Gibson,101,33.0,0:21:37,Euclid,2024-07-31,11.7
@@ -19096,13 +19096,13 @@
 19094,7,PRO,DNF,Hunter Hill,380,1.0,,Sundance,2021-06-09,
 19095,8,PRO,4,Hunter Hill,380,59.0,1:15:25,Euclid,2021-06-16,
 19096,10,PRO,4,Hunter Hill,380,59.0,1:00:44,Wolf Creek Ranch,2021-06-30,
-19097,1,PRO,15,Dan Nelson,331,18.0,0:46:48,Euclid,2021-04-21,
-19098,2,PRO,7,Dan Nelson,331,44.0,1:03:09,Euclid,2021-04-28,
-19099,4,PRO,8,Dan Nelson,331,39.0,1:11:34,Sundance,2021-05-12,
-19100,6,PRO,19,Dan Nelson,331,7.0,1:25:32,Sundance,2021-05-26,
-19101,7,PRO,6,Dan Nelson,331,49.0,1:11:45,Sundance,2021-06-09,
-19102,9,PRO,17,Dan Nelson,331,12.0,1:13:06,Sundance,2021-06-23,
-19103,11,PRO,12,Dan Nelson,331,27.0,1:14:38,Sundance,2021-07-14,
+19097,1,PRO,15,Sendy Dan Nelson,331,18.0,0:46:48,Euclid,2021-04-21,
+19098,2,PRO,7,Sendy Dan Nelson,331,44.0,1:03:09,Euclid,2021-04-28,
+19099,4,PRO,8,Sendy Dan Nelson,331,39.0,1:11:34,Sundance,2021-05-12,
+19100,6,PRO,19,Sendy Dan Nelson,331,7.0,1:25:32,Sundance,2021-05-26,
+19101,7,PRO,6,Sendy Dan Nelson,331,49.0,1:11:45,Sundance,2021-06-09,
+19102,9,PRO,17,Sendy Dan Nelson,331,12.0,1:13:06,Sundance,2021-06-23,
+19103,11,PRO,12,Sendy Dan Nelson,331,27.0,1:14:38,Sundance,2021-07-14,
 19104,1,PRO,22,Nate Miller,325,2.0,0:48:15,Euclid,2021-04-21,
 19105,2,PRO,10,Nate Miller,325,33.0,1:05:14,Euclid,2021-04-28,
 19106,4,PRO,12,Nate Miller,325,27.0,1:14:52,Sundance,2021-05-12,
@@ -20556,15 +20556,15 @@
 20554,8,PRO,5,Adam Brown,401.0,34.0,0:57:56,Sorensen Trail,2014-06-18,
 20555,10,PRO,9,Adam Brown,401.0,16.0,1:21:08,Euclid,2014-07-02,
 20556,12,PRO,3,Adam Brown,401.0,46.0,,Soldier Hollow,2014-07-16,
-20557,1,PRO,9,Dan Nelson,469.0,16.0,1:06:57,Euclid,2014-04-30,
-20558,2,PRO,3,Dan Nelson,469.0,46.0,0:58:28,Sundance,2014-05-07,
-20559,3,PRO,8,Dan Nelson,469.0,19.0,,Sorensen Trail,2014-05-14,
-20560,6,PRO,10,Dan Nelson,469.0,13.0,1:15:03,Soldier Hollow,2014-06-04,
-20561,7,PRO,5,Dan Nelson,469.0,34.0,1:10:41,Sundance,2014-06-11,
-20562,8,PRO,10,Dan Nelson,469.0,13.0,0:58:32,Sorensen Trail,2014-06-18,
-20563,9,PRO,5,Dan Nelson,469.0,34.0,1:18:50,Sundance,2014-06-25,
-20564,10,PRO,5,Dan Nelson,469.0,34.0,1:15:10,Euclid,2014-07-02,
-20565,11,PRO,DNF,Dan Nelson,469.0,1.0,,Sundance,2014-07-09,
+20557,1,PRO,9,Sendy Dan Nelson,469.0,16.0,1:06:57,Euclid,2014-04-30,
+20558,2,PRO,3,Sendy Dan Nelson,469.0,46.0,0:58:28,Sundance,2014-05-07,
+20559,3,PRO,8,Sendy Dan Nelson,469.0,19.0,,Sorensen Trail,2014-05-14,
+20560,6,PRO,10,Sendy Dan Nelson,469.0,13.0,1:15:03,Soldier Hollow,2014-06-04,
+20561,7,PRO,5,Sendy Dan Nelson,469.0,34.0,1:10:41,Sundance,2014-06-11,
+20562,8,PRO,10,Sendy Dan Nelson,469.0,13.0,0:58:32,Sorensen Trail,2014-06-18,
+20563,9,PRO,5,Sendy Dan Nelson,469.0,34.0,1:18:50,Sundance,2014-06-25,
+20564,10,PRO,5,Sendy Dan Nelson,469.0,34.0,1:15:10,Euclid,2014-07-02,
+20565,11,PRO,DNF,Sendy Dan Nelson,469.0,1.0,,Sundance,2014-07-09,
 20566,1,PRO,6,Brock Cannon,485.0,29.0,1:05:15,Euclid,2014-04-30,
 20567,3,PRO,10,Brock Cannon,485.0,13.0,,Sorensen Trail,2014-05-14,
 20568,5,PRO,4,Brock Cannon,485.0,39.0,1:07:13,Sundance,2014-05-28,
@@ -21533,19 +21533,19 @@
 21531,13,EXPERT A,2,Josh Wolfe,909.0,53.0,0:57:03,Soldier Hollow,2010-07-28,
 21532,14,EXPERT A,2,Josh Wolfe,909.0,53.0,0:54:03,Sundance,2010-08-04,
 21533,15,EXPERT A,4,Josh Wolfe,909.0,39.0,0:59:52,Soldier Hollow,2010-08-11,
-21534,1,EXPERT A,8,Dan Nelson,997.0,19.0,1:01:02,Soldier Hollow,2010-05-05,
-21535,2,EXPERT A,4,Dan Nelson,997.0,39.0,1:14:35,Sundance,2010-05-12,
-21536,3,EXPERT A,2,Dan Nelson,997.0,53.0,0:38:06,Soldier Hollow,2010-05-19,
-21537,4,EXPERT A,4,Dan Nelson,997.0,39.0,1:09:22,Sundance,2010-05-26,
-21538,6,EXPERT A,6,Dan Nelson,997.0,29.0,0:56:42,Sundance,2010-06-09,
-21539,7,EXPERT A,3,Dan Nelson,997.0,92.0,0:59:52,Soldier Hollow,2010-06-16,
-21540,8,EXPERT A,4,Dan Nelson,997.0,39.0,0:56:30,Sundance,2010-06-23,
-21541,9,EXPERT A,4,Dan Nelson,997.0,39.0,0:57:24,Soldier Hollow,2010-06-30,
-21542,11,EXPERT A,4,Dan Nelson,997.0,39.0,0:39:18,Soldier Hollow,2010-07-14,
-21543,12,EXPERT A,4,Dan Nelson,997.0,39.0,1:01:09,Sundance,2010-07-21,
-21544,13,EXPERT A,3,Dan Nelson,997.0,46.0,0:57:14,Soldier Hollow,2010-07-28,
-21545,14,EXPERT A,3,Dan Nelson,997.0,46.0,0:54:27,Sundance,2010-08-04,
-21546,15,EXPERT A,8,Dan Nelson,997.0,19.0,1:03:54,Soldier Hollow,2010-08-11,
+21534,1,EXPERT A,8,Sendy Dan Nelson,997.0,19.0,1:01:02,Soldier Hollow,2010-05-05,
+21535,2,EXPERT A,4,Sendy Dan Nelson,997.0,39.0,1:14:35,Sundance,2010-05-12,
+21536,3,EXPERT A,2,Sendy Dan Nelson,997.0,53.0,0:38:06,Soldier Hollow,2010-05-19,
+21537,4,EXPERT A,4,Sendy Dan Nelson,997.0,39.0,1:09:22,Sundance,2010-05-26,
+21538,6,EXPERT A,6,Sendy Dan Nelson,997.0,29.0,0:56:42,Sundance,2010-06-09,
+21539,7,EXPERT A,3,Sendy Dan Nelson,997.0,92.0,0:59:52,Soldier Hollow,2010-06-16,
+21540,8,EXPERT A,4,Sendy Dan Nelson,997.0,39.0,0:56:30,Sundance,2010-06-23,
+21541,9,EXPERT A,4,Sendy Dan Nelson,997.0,39.0,0:57:24,Soldier Hollow,2010-06-30,
+21542,11,EXPERT A,4,Sendy Dan Nelson,997.0,39.0,0:39:18,Soldier Hollow,2010-07-14,
+21543,12,EXPERT A,4,Sendy Dan Nelson,997.0,39.0,1:01:09,Sundance,2010-07-21,
+21544,13,EXPERT A,3,Sendy Dan Nelson,997.0,46.0,0:57:14,Soldier Hollow,2010-07-28,
+21545,14,EXPERT A,3,Sendy Dan Nelson,997.0,46.0,0:54:27,Sundance,2010-08-04,
+21546,15,EXPERT A,8,Sendy Dan Nelson,997.0,19.0,1:03:54,Soldier Hollow,2010-08-11,
 21547,1,EXPERT A,15,Jon Russell,906.0,1.0,1:03:05,Soldier Hollow,2010-05-05,
 21548,3,EXPERT A,8,Jon Russell,906.0,19.0,0:40:58,Soldier Hollow,2010-05-19,
 21549,4,EXPERT A,14,Jon Russell,906.0,2.0,1:14:36,Sundance,2010-05-26,
@@ -22537,7 +22537,7 @@
 22535,1,SEMI-PRO,3,Val Gibson,100,66.0,0:49:44,Eagle Mountain,2025-04-16,14.5
 22536,1,SEMI-PRO,4,Cody Richards,112,59.0,0:50:12,Eagle Mountain,2025-04-16,14.3
 22537,1,SEMI-PRO,5,Brady Tucker,116,54.0,0:50:59,Eagle Mountain,2025-04-16,14.1
-22538,1,SEMI-PRO,6,Dan Nelson,102,49.0,0:51:22,Eagle Mountain,2025-04-16,14.0
+22538,1,SEMI-PRO,6,Sendy Dan Nelson,102,49.0,0:51:22,Eagle Mountain,2025-04-16,14.0
 22539,1,SEMI-PRO,7,Nate Miller,101,44.0,0:51:29,Eagle Mountain,2025-04-16,14.0
 22540,1,SEMI-PRO,8,Brandon Smith,113,39.0,0:51:32,Eagle Mountain,2025-04-16,14.0
 22541,1,SEMI-PRO,9,Tavin Bussio,104,36.0,0:52:26,Eagle Mountain,2025-04-16,13.7
@@ -22708,7 +22708,7 @@
 22706,2,PRO,DNF,Adam Stewart,25,1.0,,Euclid,2025-04-30,
 22707,2,SEMI-PRO,1,Val Gibson,100,80.0,0:56:20,Euclid,2025-04-30,11.3
 22708,2,SEMI-PRO,2,Nate Miller,101,73.0,0:56:51,Euclid,2025-04-30,11.2
-22709,2,SEMI-PRO,3,Dan Nelson,102,66.0,0:57:52,Euclid,2025-04-30,11.0
+22709,2,SEMI-PRO,3,Sendy Dan Nelson,102,66.0,0:57:52,Euclid,2025-04-30,11.0
 22710,2,SEMI-PRO,4,Gerrit Garberich,117,59.0,0:58:41,Euclid,2025-04-30,10.8
 22711,2,SEMI-PRO,5,Cody Richards,112,54.0,0:58:51,Euclid,2025-04-30,10.8
 22712,2,SEMI-PRO,6,Brandon Smith,113,49.0,0:59:48,Euclid,2025-04-30,10.6
@@ -22828,7 +22828,7 @@
 22826,3,PRO,DNF,Quinn Jacobsen,13,1.0,,Sorensen,2025-05-14,
 22827,3,SEMI-PRO,1,James Parkinson,110,80.0,1:04:16,Sorensen,2025-05-14,11.5
 22828,3,SEMI-PRO,2,Spencer Stevenson,122,73.0,1:05:18,Sorensen,2025-05-14,11.3
-22829,3,SEMI-PRO,3,Dan Nelson,102,66.0,1:05:50,Sorensen,2025-05-14,11.2
+22829,3,SEMI-PRO,3,Sendy Dan Nelson,102,66.0,1:05:50,Sorensen,2025-05-14,11.2
 22830,3,SEMI-PRO,4,Brady Tucker,116,59.0,1:06:28,Sorensen,2025-05-14,11.1
 22831,3,SEMI-PRO,5,Val Gibson,100,54.0,1:06:36,Sorensen,2025-05-14,11.1
 22832,3,SEMI-PRO,6,Brandon Smith,113,49.0,1:06:36,Sorensen,2025-05-14,11.1
@@ -22947,7 +22947,7 @@
 22945,4,PRO,DNF,Chris Holley,11,1.0,,Sundance,2025-05-21,
 22946,4,PRO,DNF,Scott Preston,16,1.0,,Sundance,2025-05-21,
 22947,4,SEMI-PRO,1,James Parkinson,110,80.0,1:00:13,Sundance,2025-05-21,11.3
-22948,4,SEMI-PRO,2,Dan Nelson,102,73.0,1:00:32,Sundance,2025-05-21,11.3
+22948,4,SEMI-PRO,2,Sendy Dan Nelson,102,73.0,1:00:32,Sundance,2025-05-21,11.3
 22949,4,SEMI-PRO,3,Aaron Temple,124,66.0,1:00:47,Sundance,2025-05-21,11.2
 22950,4,SEMI-PRO,4,Spencer Stevenson,122,59.0,1:01:14,Sundance,2025-05-21,11.1
 22951,4,SEMI-PRO,5,Val Gibson,100,54.0,1:01:42,Sundance,2025-05-21,11.0
@@ -23070,7 +23070,7 @@
 23068,5,SEMI-PRO,1,Val Gibson,100,80.0,1:02:03,Euclid,2025-05-28,10.6
 23069,5,SEMI-PRO,2,Nate Miller,101,73.0,1:03:04,Euclid,2025-05-28,10.4
 23070,5,SEMI-PRO,3,Matt Frisby,106,66.0,1:05:11,Euclid,2025-05-28,10.1
-23071,5,SEMI-PRO,4,Dan Nelson,102,59.0,1:05:56,Euclid,2025-05-28,10.0
+23071,5,SEMI-PRO,4,Sendy Dan Nelson,102,59.0,1:05:56,Euclid,2025-05-28,10.0
 23072,5,SEMI-PRO,5,Brandon Smith,125,54.0,1:06:39,Euclid,2025-05-28,9.9
 23073,5,SEMI-PRO,6,Brady Tucker,116,49.0,1:06:40,Euclid,2025-05-28,9.8
 23074,5,SEMI-PRO,7,Cody Richards,112,44.0,1:07:23,Euclid,2025-05-28,9.7
@@ -23199,7 +23199,7 @@
 23197,6,SEMI-PRO,2,Val Gibson,100,73.0,1:00:53,Sundance,2025-06-04,11.2
 23198,6,SEMI-PRO,3,Cole Beach,129,66.0,1:01:14,Sundance,2025-06-04,11.1
 23199,6,SEMI-PRO,4,Brandon Smith,125,59.0,1:01:37,Sundance,2025-06-04,11.1
-23200,6,SEMI-PRO,5,Dan Nelson,102,54.0,1:02:13,Sundance,2025-06-04,11.0
+23200,6,SEMI-PRO,5,Sendy Dan Nelson,102,54.0,1:02:13,Sundance,2025-06-04,11.0
 23201,6,SEMI-PRO,6,Matt Frisby,106,49.0,1:04:11,Sundance,2025-06-04,10.6
 23202,6,SEMI-PRO,7,Ridger Gasser,130,44.0,1:06:46,Sundance,2025-06-04,10.2
 23203,6,SEMI-PRO,8,Oliver Miller,123,39.0,1:08:19,Sundance,2025-06-04,10.0
@@ -23325,7 +23325,7 @@
 23323,7,PRO,DNF,Spencer Maughan,1,1.0,,Sundance,2025-06-11,
 23324,7,PRO,DNF,Quinn Jacobsen,13,1.0,,Sundance,2025-06-11,
 23325,7,SEMI-PRO,1,Cole Beach,129,80.0,1:00:08,Sundance,2025-06-11,11.3
-23326,7,SEMI-PRO,2,Dan Nelson,102,73.0,1:00:19,Sundance,2025-06-11,11.3
+23326,7,SEMI-PRO,2,Sendy Dan Nelson,102,73.0,1:00:19,Sundance,2025-06-11,11.3
 23327,7,SEMI-PRO,3,Val Gibson,100,66.0,1:01:23,Sundance,2025-06-11,11.1
 23328,7,SEMI-PRO,4,Brady Tucker,116,59.0,1:02:29,Sundance,2025-06-11,10.9
 23329,7,SEMI-PRO,5,Brandon Smith,125,54.0,1:03:15,Sundance,2025-06-11,10.8
@@ -23440,7 +23440,7 @@
 23438,8,PRO,6,Quinn Jacobsen,13,49.0,1:19:00,Wolf Creek Ranch,2025-06-18,9.1
 23439,8,PRO,DNF,Henry Stevens,19,1.0,,Wolf Creek Ranch,2025-06-18,
 23440,8,SEMI-PRO,1,Val Gibson,100,80.0,0:56:05,Wolf Creek Ranch,2025-06-18,11.5
-23441,8,SEMI-PRO,2,Dan Nelson,102,73.0,0:56:31,Wolf Creek Ranch,2025-06-18,11.4
+23441,8,SEMI-PRO,2,Sendy Dan Nelson,102,73.0,0:56:31,Wolf Creek Ranch,2025-06-18,11.4
 23442,8,SEMI-PRO,3,Nate Miller,101,66.0,0:58:59,Wolf Creek Ranch,2025-06-18,10.9
 23443,8,SEMI-PRO,4,Matt Frisby,106,59.0,0:59:24,Wolf Creek Ranch,2025-06-18,10.8
 23444,8,SEMI-PRO,5,Brandon Smith,125,54.0,0:59:38,Wolf Creek Ranch,2025-06-18,10.8
@@ -23550,7 +23550,7 @@
 23548,9,SEMI-PRO,1,Reed Evans,136,80.0,0:58:41,Sundance,2025-07-09,10.3
 23549,9,SEMI-PRO,2,Val Gibson,100,73.0,1:03:54,Sundance,2025-07-09,9.5
 23550,9,SEMI-PRO,3,Matt Frisby,106,66.0,1:05:47,Sundance,2025-07-09,9.2
-23551,9,SEMI-PRO,4,Dan Nelson,102,59.0,1:06:12,Sundance,2025-07-09,9.1
+23551,9,SEMI-PRO,4,Sendy Dan Nelson,102,59.0,1:06:12,Sundance,2025-07-09,9.1
 23552,9,SEMI-PRO,5,Tavin Bussio,132,54.0,1:08:28,Sundance,2025-07-09,8.8
 23553,9,SEMI-PRO,6,Wyatt Chambers,135,49.0,1:08:47,Sundance,2025-07-09,8.8
 23554,9,SEMI-PRO,7,Brady Tucker,116,44.0,1:10:30,Sundance,2025-07-09,8.6
@@ -23647,7 +23647,7 @@
 23645,10,SEMI-PRO,6,Pete Sabey,138,98.0,1:01:12,Euclid,2025-07-23,10.4
 23646,10,SEMI-PRO,7,Matt Frisby,106,88.0,1:02:44,Euclid,2025-07-23,10.1
 23647,10,SEMI-PRO,8,Woody,0,78.0,1:03:12,Euclid,2025-07-23,10.1
-23648,10,SEMI-PRO,9,Dan Nelson,102,72.0,1:04:32,Euclid,2025-07-23,9.9
+23648,10,SEMI-PRO,9,Sendy Dan Nelson,102,72.0,1:04:32,Euclid,2025-07-23,9.9
 23649,10,EXPERT A,1,Taylor Allred,202,160.0,0:49:06,Euclid,2025-07-23,10.5
 23650,10,EXPERT A,2,Charlie Severson,218,146.0,0:50:31,Euclid,2025-07-23,10.2
 23651,10,EXPERT A,3,Cade Matheson,214,132.0,0:50:54,Euclid,2025-07-23,10.1

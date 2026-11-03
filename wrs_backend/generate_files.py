@@ -6,6 +6,11 @@ COMPOSITE_FILE = 'all_years_raw.csv'
 TOP_100_FILE = '../../wrs-data/top_100.csv'
 QA_OUTPUT = 'all_riders_by_race_count.csv'
 
+
+def name_mods(df):
+    df = df.replace('Dan Nelson','Sendy Dan Nelson')
+    return df
+
 def generate_top_100(source_file, destination_file,qa_output):
     df = pd.read_csv(source_file)
 
@@ -27,8 +32,19 @@ def generate_master_file(path):
     for file in dir_list:
         df = pd.read_csv(path+file)
         base_df = pd.concat([base_df,df],ignore_index=True)
+
+    base_df = name_mods(base_df)
+    
     base_df.to_csv(COMPOSITE_FILE)
 
 if __name__ == "__main__":
     generate_master_file(PATH)
     generate_top_100(COMPOSITE_FILE, TOP_100_FILE, QA_OUTPUT)
+
+
+# Functions to add
+# Specific date range filter
+# Duel mode
+# rider profile page
+# location histograms
+
