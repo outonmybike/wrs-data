@@ -184,7 +184,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 2,SEMI-PRO,4,Mark Tuttle,6,59,1:01:11,Euclid,2026-04-29,10.4
 2,SEMI-PRO,5,James Lewis,119,54,1:01:56,Euclid,2026-04-29,10.3
 2,SEMI-PRO,6,Tavin Bussio,101,49,1:02:23,Euclid,2026-04-29,10.2
-2,SEMI-PRO,7,John Woodruff,0,44,1:03:10,Euclid,2026-04-29,10.1
+2,SEMI-PRO,7,Woody,0,44,1:03:10,Euclid,2026-04-29,10.1
 2,SEMI-PRO,8,Matt Frisby,102,39,1:03:50,Euclid,2026-04-29,10.0
 2,SEMI-PRO,9,Ethan Nicholson,120,36,1:04:26,Euclid,2026-04-29,9.9
 2,SEMI-PRO,10,Joe Reese,122,33,1:05:15,Euclid,2026-04-29,9.7
@@ -363,7 +363,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 3,SEMI-PRO,15,Cody Richards,127,18,1:10:50,Sorensen,2026-05-13,10.3
 3,SEMI-PRO,16,Dayvin Johnson,112,15,1:12:22,Sorensen,2026-05-13,10.1
 3,SEMI-PRO,17,Thomas van de Kamp,130,12,1:13:25,Sorensen,2026-05-13,9.9
-3,SEMI-PRO,18,John Woodruff,0,9,1:13:52,Sorensen,2026-05-13,9.8
+3,SEMI-PRO,18,Woody,0,9,1:13:52,Sorensen,2026-05-13,9.8
 3,SEMI-PRO,DNF,Dan Nelson,104,2,,Sorensen,2026-05-13,
 3,SEMI-PRO,DNF,Liam Buhl,124,2,,Sorensen,2026-05-13,
 3,EXPERT A,1,Max Glade,412,80,0:50:37,Sorensen,2026-05-13,11.2
