@@ -390,7 +390,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 3,SPORT B,2,David Rodriguez,722,73,0:32:00,Sorensen,2025-05-14,9.0
 3,SPORT B,3,Soelden Probert,717,66,0:34:16,Sorensen,2025-05-14,8.4
 3,SPORT B,4,Mattix Thurston,719,59,0:35:29,Sorensen,2025-05-14,8.1
-3,SPORT B,5,Christian van Orman,905,54,0:35:44,Sorensen,2025-05-14,8.0
+3,SPORT B,5,Christian Van Orman,905,54,0:35:44,Sorensen,2025-05-14,8.0
 3,SPORT B,6,Cole Sorenson,718,49,0:37:09,Sorensen,2025-05-14,7.7
 3,SPORT B,7,Jake Collett,723,44,0:38:09,Sorensen,2025-05-14,7.5
 3,SPORT B,8,Troy Johansson,710,39,0:39:09,Sorensen,2025-05-14,7.3
@@ -768,7 +768,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,SPORT B,5,Mattix Thurston,719,54,0:35:14,Sundance,2025-06-04,8.5
 6,SPORT B,6,Cole Sorenson,718,49,0:35:58,Sundance,2025-06-04,8.3
 6,SPORT B,7,Cameron Janssen,726,44,0:36:19,Sundance,2025-06-04,8.2
-6,SPORT B,8,Christian van Orman,905,39,0:37:36,Sundance,2025-06-04,7.9
+6,SPORT B,8,Christian Van Orman,905,39,0:37:36,Sundance,2025-06-04,7.9
 6,SPORT B,9,Beckett Miller,724,36,0:38:41,Sundance,2025-06-04,7.7
 6,SPORT B,10,Troy Johansson,710,33,0:42:39,Sundance,2025-06-04,7.0
 6,SPORT B,11,Tyson Widdison,720,30,0:44:34,Sundance,2025-06-04,6.7
@@ -885,7 +885,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 7,SPORT B,1,Jackson Bingham,721,80,0:31:36,Sundance,2025-06-11,9.5
 7,SPORT B,2,David Rodriguez,729,73,0:33:32,Sundance,2025-06-11,8.9
 7,SPORT B,3,Cole Sorenson,718,66,0:35:47,Sundance,2025-06-11,8.4
-7,SPORT B,4,Christian van Orman,905,59,0:36:14,Sundance,2025-06-11,8.2
+7,SPORT B,4,Christian Van Orman,905,59,0:36:14,Sundance,2025-06-11,8.2
 7,SPORT B,5,Mattix Thurston,719,54,0:37:14,Sundance,2025-06-11,8.0
 7,SPORT B,6,Chris Taylor,728,49,0:42:44,Sundance,2025-06-11,7.0
 7,SPORT B,7,Andrew Lumsden,712,44,0:44:19,Sundance,2025-06-11,6.7
@@ -1097,7 +1097,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 9,SPORT A,4,Jensen Paterson,610,59,0:41:11,Sundance,2025-07-09,7.0
 9,SPORT A,5,Becky Blaser,602,54,0:53:10,Sundance,2025-07-09,5.4
 9,SPORT B,1,David Rodriguez,729,80,0:35:50,Sundance,2025-07-09,8.1
-9,SPORT B,2,Christian van Orman,905,73,0:38:03,Sundance,2025-07-09,7.6
+9,SPORT B,2,Christian Van Orman,905,73,0:38:03,Sundance,2025-07-09,7.6
 9,SPORT B,3,Cole Sorenson,718,66,0:40:10,Sundance,2025-07-09,7.2
 9,SPORT B,4,Mattix Thurston,719,59,0:42:00,Sundance,2025-07-09,6.9
 9,SPORT B,5,Isaac Miller,714,54,0:42:10,Sundance,2025-07-09,6.8
