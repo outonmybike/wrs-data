@@ -4,7 +4,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 1,PRO,3,Andrew Conover,6,66,0:47:33,Eagle Mountain,2023-04-12,13.1
 1,PRO,4,Taylor Edwards,8,59,0:48:36,Eagle Mountain,2023-04-12,12.8
 1,PRO,5,Haydon Cooper,7,54,0:50:37,Eagle Mountain,2023-04-12,12.3
-1,PRO,6,Geoffrey Montague,1,49,0:51:23,Eagle Mountain,2023-04-12,12.1
+1,PRO,6,Geoff Montague,1,49,0:51:23,Eagle Mountain,2023-04-12,12.1
 1,PRO,7,Mark Tuttle,4,44,0:52:07,Eagle Mountain,2023-04-12,11.9
 1,PRO,8,Val Gibson,2,39,0:52:46,Eagle Mountain,2023-04-12,11.8
 1,PRO,9,Gavin Gunther,9,36,0:52:55,Eagle Mountain,2023-04-12,11.7
@@ -169,7 +169,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 2,PRO,12,Wilson Engler,12,27,1:08:14,Euclid,2023-05-03,10.4
 2,PRO,13,Brandon Firth,18,24,1:08:15,Euclid,2023-05-03,10.4
 2,PRO,14,Kade Johnson,16,21,1:08:39,Euclid,2023-05-03,10.3
-2,PRO,15,Geoffrey Montague,1,18,1:12:13,Euclid,2023-05-03,9.8
+2,PRO,15,Geoff Montague,1,18,1:12:13,Euclid,2023-05-03,9.8
 2,PRO,DNF,Shane Charles,15,1,,Euclid,2023-05-03,
 2,SEMI-PRO,1,Brandon Smith,125,80,0:57:53,Euclid,2023-05-03,10.8
 2,SEMI-PRO,2,Matt Frisby,105,73,0:59:13,Euclid,2023-05-03,10.6
@@ -316,7 +316,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 3,PRO,1,Carter Anderson,5,80,1:09:54,Euclid,2023-05-17,12.0
 3,PRO,2,Andrew Conover,6,73,1:12:31,Euclid,2023-05-17,11.5
 3,PRO,3,Val Gibson,2,66,1:15:30,Euclid,2023-05-17,11.1
-3,PRO,4,Geoffrey Montague,1,59,1:16:30,Euclid,2023-05-17,10.9
+3,PRO,4,Geoff Montague,1,59,1:16:30,Euclid,2023-05-17,10.9
 3,PRO,5,Cooper Peterson,23,54,1:18:41,Euclid,2023-05-17,10.6
 3,SEMI-PRO,1,Jason Lux,121,80,1:00:55,Euclid,2023-05-17,11.0
 3,SEMI-PRO,2,Lincoln Goodwin,107,73,1:01:15,Euclid,2023-05-17,10.9
@@ -689,7 +689,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,PRO,15,Val Gibson,2,18,1:11:25,Sundance,2023-06-28,9.5
 6,PRO,16,Gavin Gunther,35,15,1:11:48,Sundance,2023-06-28,9.5
 6,PRO,17,Brandon Firth,18,12,1:14:43,Sundance,2023-06-28,9.1
-6,PRO,18,Geoffrey Montague,1,9,1:30:02,Sundance,2023-06-28,7.5
+6,PRO,18,Geoff Montague,1,9,1:30:02,Sundance,2023-06-28,7.5
 6,PRO,DNF,Isaac Teerlink,33,1,,Sundance,2023-06-28,
 6,SEMI-PRO,1,Scott Abbott,116,80,1:02:04,Sundance,2023-06-28,9.9
 6,SEMI-PRO,2,Nathan Woolf,146,73,1:02:47,Sundance,2023-06-28,9.8
@@ -832,7 +832,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 7,PRO,8,Gavin Gunther,35,39,1:08:55,Sundance,2023-07-05,9.9
 7,PRO,9,Val Gibson,2,36,1:13:08,Sundance,2023-07-05,9.3
 7,PRO,10,Tyson Mortenson,37,33,1:13:29,Sundance,2023-07-05,9.3
-7,PRO,11,Geoffrey Montague,1,30,1:17:25,Sundance,2023-07-05,8.8
+7,PRO,11,Geoff Montague,1,30,1:17:25,Sundance,2023-07-05,8.8
 7,PRO,12,Eric Ault,38,27,1:25:17,Sundance,2023-07-05,8.0
 7,SEMI-PRO,1,Axel Uibel,149,80,1:01:57,Sundance,2023-07-05,10.0
 7,SEMI-PRO,2,Richard Abbott,115,73,1:02:24,Sundance,2023-07-05,9.9
@@ -869,7 +869,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 7,EXPERT A,13,Thomas Dahl,257,24,1:21:28,Sundance,2023-07-05,6.2
 7,EXPERT A,DNF,Racer,260,1,,Sundance,2023-07-05,
 7,EXPERT A,DNF,Garrett Allred,264,1,,Sundance,2023-07-05,
-7,PRO/EXPERT WOMEN,1,Kc Holley,320,80,1:01:34,Sundance,2023-07-05,8.3
+7,PRO/EXPERT WOMEN,1,KC Holley,320,80,1:01:34,Sundance,2023-07-05,8.3
 7,PRO/EXPERT WOMEN,2,Elizabeth Vellinga,317,73,1:05:41,Sundance,2023-07-05,7.8
 7,PRO/EXPERT WOMEN,3,Kadence Preston,305,66,1:08:38,Sundance,2023-07-05,7.4
 7,PRO/EXPERT WOMEN,4,Brynlee Bingham,302,59,1:08:38,Sundance,2023-07-05,7.4
@@ -984,7 +984,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 8,EXPERT A,14,Eric Lynsky,272,21,1:04:20,Wolf Creek Ranch,2023-07-12,9.1
 8,EXPERT A,DNF,Thomas Clarke,252,1,,Wolf Creek Ranch,2023-07-12,
 8,EXPERT A,DNF,Mark Nelson,0,1,,Wolf Creek Ranch,2023-07-12,
-8,PRO/EXPERT WOMEN,1,Kc Holley,320,80,0:58:22,Wolf Creek Ranch,2023-07-12,10.0
+8,PRO/EXPERT WOMEN,1,KC Holley,320,80,0:58:22,Wolf Creek Ranch,2023-07-12,10.0
 8,PRO/EXPERT WOMEN,2,Rachel Miller,301,73,1:00:16,Wolf Creek Ranch,2023-07-12,9.7
 8,PRO/EXPERT WOMEN,3,Brynlee Bingham,302,66,1:05:26,Wolf Creek Ranch,2023-07-12,8.9
 8,PRO/EXPERT WOMEN,4,Annie Low,321,59,1:06:42,Wolf Creek Ranch,2023-07-12,8.7
@@ -1058,7 +1058,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 9,PRO,4,Mark Tuttle,4,59,0:48:44,Sorensen,2023-07-19,11.6
 9,PRO,5,Daniel Bartholomew,45,54,0:49:06,Sorensen,2023-07-19,11.5
 9,PRO,6,Tanner Burr,44,49,0:49:27,Sorensen,2023-07-19,11.5
-9,PRO,7,Geoffrey Montague,1,44,0:50:37,Sorensen,2023-07-19,11.2
+9,PRO,7,Geoff Montague,1,44,0:50:37,Sorensen,2023-07-19,11.2
 9,PRO,8,Val Gibson,2,39,0:50:38,Sorensen,2023-07-19,11.2
 9,PRO,9,Brandon Firth,18,36,0:51:52,Sorensen,2023-07-19,10.9
 9,PRO,10,Isaac Teerlink,33,33,0:53:38,Sorensen,2023-07-19,10.6
@@ -1095,7 +1095,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 9,EXPERT A,DNF,Mark Nelson,0,1,0:55:49,Sorensen,2023-07-19,10.1
 9,EXPERT A,DNF,Cameron Gibby,218,1,,Sorensen,2023-07-19,
 9,PRO/EXPERT WOMEN,1,Remi Smith,312,80,0:55:55,Sorensen,2023-07-19,10.1
-9,PRO/EXPERT WOMEN,2,Kc Holley,320,73,0:59:59,Sorensen,2023-07-19,9.4
+9,PRO/EXPERT WOMEN,2,KC Holley,320,73,0:59:59,Sorensen,2023-07-19,9.4
 9,PRO/EXPERT WOMEN,3,Annie Low,321,66,1:02:58,Sorensen,2023-07-19,9.0
 9,PRO/EXPERT WOMEN,4,Kristi Mcilmoil,304,59,1:05:31,Sorensen,2023-07-19,8.6
 9,PRO/EXPERT WOMEN,5,Kadence Preston,305,54,1:11:44,Sorensen,2023-07-19,7.9

@@ -464,7 +464,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 4,EXPERT A,18,Carter Bingham,203,9,1:14:51,Sundance,2025-05-21,7.8
 4,PRO/EXPERT WOMEN,1,Alyssa Jringo,323,80,0:56:48,Sundance,2025-05-21,10.3
 4,PRO/EXPERT WOMEN,2,Kadence Preston,303,73,1:00:10,Sundance,2025-05-21,9.7
-4,PRO/EXPERT WOMEN,3,Kc Holley,320,66,1:00:28,Sundance,2025-05-21,9.6
+4,PRO/EXPERT WOMEN,3,KC Holley,320,66,1:00:28,Sundance,2025-05-21,9.6
 4,PRO/EXPERT WOMEN,4,Rachel Miller,301,59,1:02:52,Sundance,2025-05-21,9.3
 4,PRO/EXPERT WOMEN,5,Remi Smith,322,54,1:05:46,Sundance,2025-05-21,8.9
 4,PRO/EXPERT WOMEN,6,Kristi Mcilmoil,310,49,1:08:49,Sundance,2025-05-21,8.5
@@ -710,7 +710,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,EXPERT A,17,Ron Palmer-Leger,250,12,1:02:48,Sundance,2025-06-04,9.3
 6,PRO/EXPERT WOMEN,1,Emma Daly,327,80,0:56:46,Sundance,2025-06-04,10.3
 6,PRO/EXPERT WOMEN,2,Olivia Shuey,330,73,0:58:17,Sundance,2025-06-04,10.0
-6,PRO/EXPERT WOMEN,3,Kc Holley,320,66,0:58:37,Sundance,2025-06-04,9.9
+6,PRO/EXPERT WOMEN,3,KC Holley,320,66,0:58:37,Sundance,2025-06-04,9.9
 6,PRO/EXPERT WOMEN,4,Kadence Preston,303,59,1:00:02,Sundance,2025-06-04,9.7
 6,PRO/EXPERT WOMEN,5,Alta Miller,311,54,1:03:48,Sundance,2025-06-04,9.1
 6,PRO/EXPERT WOMEN,6,Emeree Gale,329,49,1:04:25,Sundance,2025-06-04,9.0
@@ -836,7 +836,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 7,EXPERT A,16,Ben Severson,232,15,1:00:28,Sundance,2025-06-11,9.6
 7,EXPERT A,17,Max Glade,209,12,1:05:23,Sundance,2025-06-11,8.9
 7,EXPERT A,18,Jackson Packard,254,9,1:08:35,Sundance,2025-06-11,8.5
-7,PRO/EXPERT WOMEN,1,Kc Holley,320,80,0:58:16,Sundance,2025-06-11,10.0
+7,PRO/EXPERT WOMEN,1,KC Holley,320,80,0:58:16,Sundance,2025-06-11,10.0
 7,PRO/EXPERT WOMEN,2,Olivia Shuey,330,73,1:00:25,Sundance,2025-06-11,9.7
 7,PRO/EXPERT WOMEN,3,Ingrid Smallman,337,66,1:03:21,Sundance,2025-06-11,9.2
 7,PRO/EXPERT WOMEN,4,Ella Collett,319,59,1:03:39,Sundance,2025-06-11,9.2
@@ -1060,7 +1060,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 9,EXPERT A,17,Josey Apostol,0000,12,1:05:19,Sundance,2025-07-09,7.4
 9,EXPERT A,18,Joshua Adams,259,9,1:06:42,Sundance,2025-07-09,7.3
 9,EXPERT A,DNF,Jordan Thurston,201,1,,Sundance,2025-07-09,
-9,PRO/EXPERT WOMEN,1,Kc Holley,320,80,0:56:30,Sundance,2025-07-09,8.6
+9,PRO/EXPERT WOMEN,1,KC Holley,320,80,0:56:30,Sundance,2025-07-09,8.6
 9,PRO/EXPERT WOMEN,2,Kadence Preston,303,73,0:56:53,Sundance,2025-07-09,8.5
 9,PRO/EXPERT WOMEN,3,Kristi Mcilmoil,310,66,1:00:06,Sundance,2025-07-09,8.1
 9,PRO/EXPERT WOMEN,4,Rachel Miller,301,59,1:01:25,Sundance,2025-07-09,7.9

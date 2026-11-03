@@ -550,7 +550,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 4,EXPERT A,19,Jacob Barton,258,7,1:04:41,Sundance,2026-07-08,9.0
 4,PRO WOMEN,1,Pepper Smith,314,80,0:54:54,Sundance,2026-07-08,10.6
 4,PRO WOMEN,2,Kadence Preston,300,73,0:57:29,Sundance,2026-07-08,10.1
-4,PRO WOMEN,3,Kc Holley,320,66,1:01:06,Sundance,2026-07-08,9.5
+4,PRO WOMEN,3,KC Holley,320,66,1:01:06,Sundance,2026-07-08,9.5
 4,PRO WOMEN,4,Kristi Mcilmoil,302,59,1:05:20,Sundance,2026-07-08,8.9
 4,EXPERT B,1,Henry Parcell,461,80,0:38:52,Sundance,2026-07-08,10.2
 4,EXPERT B,2,Jared Ririe,408,73,0:38:54,Sundance,2026-07-08,10.2
@@ -813,7 +813,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,EXPERT A,21,Bryce Primosch,252,3,1:04:44,Sundance,2026-06-03,9.0
 6,EXPERT A,DNF,Conner Jones,219,2,,Sundance,2026-06-03,
 6,PRO WOMEN,1,Pepper Smith,314,80,0:58:14,Sundance,2026-06-03,10.0
-6,PRO WOMEN,2,Kc Holley,320,73,0:59:59,Sundance,2026-06-03,9.7
+6,PRO WOMEN,2,KC Holley,320,73,0:59:59,Sundance,2026-06-03,9.7
 6,PRO WOMEN,3,Rachel Miller,301,66,1:03:22,Sundance,2026-06-03,9.2
 6,PRO WOMEN,4,Hayden Brown,305,59,1:05:43,Sundance,2026-06-03,8.9
 6,PRO WOMEN,5,Avery Charles,313,54,1:06:24,Sundance,2026-06-03,8.8
@@ -1266,7 +1266,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 10,PRO,7,Josh Blake,47,88,1:11:57,Sundance,2026-07-15,8.7
 10,PRO,8,Easton Gray,48,78,1:11:57,Sundance,2026-07-15,8.7
 10,PRO,9,Alex Charles,324,72,1:14:09,Sundance,2026-07-15,8.5
-10,PRO,10,Geoffrey Montague,54,66,1:24:54,Sundance,2026-07-15,7.4
+10,PRO,10,Geoff Montague,54,66,1:24:54,Sundance,2026-07-15,7.4
 10,SEMI-PRO,1,Jonah van Orman,146,160,0:59:37,Sundance,2026-07-15,9.5
 10,SEMI-PRO,2,Quinn Parks,136,146,0:59:58,Sundance,2026-07-15,9.5
 10,SEMI-PRO,3,Val Gibson,100,132,1:00:31,Sundance,2026-07-15,9.4

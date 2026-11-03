@@ -349,7 +349,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 3,PRO,8,Thomas Cahoon,15,39,1:14:58,Sorensen,2024-05-16,10.6
 3,PRO,9,Brandon Firth,25,36,1:15:10,Sorensen,2024-05-16,10.6
 3,PRO,10,Easton Gray,10,33,1:15:12,Sorensen,2024-05-16,10.5
-3,PRO,11,Geophri Montague,26,30,1:19:13,Sorensen,2024-05-16,10.0
+3,PRO,11,Geoff Montague,26,30,1:19:13,Sorensen,2024-05-16,10.0
 3,SEMI-PRO,1,Tanner Gillespie,120,80,1:04:57,Sorensen,2024-05-16,11.2
 3,SEMI-PRO,2,Wade Quilter,133,73,1:06:30,Sorensen,2024-05-16,10.9
 3,SEMI-PRO,3,Ezra Sumner,132,66,1:07:20,Sorensen,2024-05-16,10.8
@@ -709,7 +709,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,PRO,9,Thomas Cahoon,15,36,1:11:22,Sundance,2024-06-05,9.5
 6,PRO,10,Mark Tuttle,1,33,1:11:37,Sundance,2024-06-05,9.5
 6,PRO,11,Cameron Averett,3,30,1:11:51,Sundance,2024-06-05,9.5
-6,PRO,12,Geophri Montague,26,27,1:13:19,Sundance,2024-06-05,9.3
+6,PRO,12,Geoff Montague,26,27,1:13:19,Sundance,2024-06-05,9.3
 6,PRO,13,Easton Gray,10,24,1:13:53,Sundance,2024-06-05,9.2
 6,PRO,14,Brandon Firth,25,21,1:15:05,Sundance,2024-06-05,9.1
 6,PRO,DNF,Isaac Teerlink,33,1,,Sundance,2024-06-05,
@@ -749,7 +749,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 6,PRO/EXPERT WOMEN,1,Alexandra Charles,334,80,0:52:10,Sundance,2024-06-05,9.3
 6,PRO/EXPERT WOMEN,2,Rachel Miller,302,73,0:56:49,Sundance,2024-06-05,8.5
 6,PRO/EXPERT WOMEN,3,Hadley Peay,323,66,0:58:07,Sundance,2024-06-05,8.3
-6,PRO/EXPERT WOMEN,4,Kc Holley,335,59,0:58:38,Sundance,2024-06-05,8.3
+6,PRO/EXPERT WOMEN,4,KC Holley,335,59,0:58:38,Sundance,2024-06-05,8.3
 6,PRO/EXPERT WOMEN,5,Kristi Mcilmoil,304,54,1:03:46,Sundance,2024-06-05,7.6
 6,PRO/EXPERT WOMEN,6,Kadence Preston,303,49,1:05:06,Sundance,2024-06-05,7.4
 6,PRO/EXPERT WOMEN,7,Christina Perry,305,44,1:06:00,Sundance,2024-06-05,7.3
@@ -885,7 +885,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 7,PRO/EXPERT WOMEN,2,Nina Schamberger,324,73,0:54:11,Sundance,2024-06-12,9.0
 7,PRO/EXPERT WOMEN,3,Anna Keler,338,66,0:55:44,Sundance,2024-06-12,8.7
 7,PRO/EXPERT WOMEN,4,Rachel Miller,302,59,0:55:59,Sundance,2024-06-12,8.7
-7,PRO/EXPERT WOMEN,5,Kc Holley,335,54,0:56:12,Sundance,2024-06-12,8.6
+7,PRO/EXPERT WOMEN,5,KC Holley,335,54,0:56:12,Sundance,2024-06-12,8.6
 7,PRO/EXPERT WOMEN,6,Kadence Preston,303,49,1:00:50,Sundance,2024-06-12,8.0
 7,PRO/EXPERT WOMEN,7,Kristi Mcilmoil,304,44,1:01:21,Sundance,2024-06-12,7.9
 7,PRO/EXPERT WOMEN,8,Elizabeth Vellinga,339,39,1:03:37,Sundance,2024-06-12,7.6
@@ -1018,7 +1018,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 8,PRO/EXPERT WOMEN,1,Brynn Lloyd,342,80,1:00:09,Sundance,2024-07-03,9.7
 8,PRO/EXPERT WOMEN,2,Anna Keller,338,73,1:00:15,Sundance,2024-07-03,9.7
 8,PRO/EXPERT WOMEN,3,Rachel Miller,302,66,1:00:26,Sundance,2024-07-03,9.6
-8,PRO/EXPERT WOMEN,4,Kc Holley,335,59,1:02:45,Sundance,2024-07-03,9.3
+8,PRO/EXPERT WOMEN,4,KC Holley,335,59,1:02:45,Sundance,2024-07-03,9.3
 8,PRO/EXPERT WOMEN,5,Anna Cox,318,54,1:06:10,Sundance,2024-07-03,8.8
 8,PRO/EXPERT WOMEN,6,Kadence Preston,303,49,1:07:27,Sundance,2024-07-03,8.6
 8,PRO/EXPERT WOMEN,7,Lucy Hillstrom,341,44,1:08:53,Sundance,2024-07-03,8.5
@@ -1226,7 +1226,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 10,PRO,10,Gavin Gunther,39,66,1:13:57,Sundance,2024-07-17,10.5
 10,PRO,11,Brandon Firth,25,60,1:15:51,Sundance,2024-07-17,10.3
 10,PRO,12,Chase Bacon,38,54,1:17:30,Sundance,2024-07-17,10.1
-10,PRO,13,Geophri Montague,26,48,1:20:14,Sundance,2024-07-17,9.7
+10,PRO,13,Geoff Montague,26,48,1:20:14,Sundance,2024-07-17,9.7
 10,PRO,14,Scott Preston,35,42,1:20:32,Sundance,2024-07-17,9.7
 10,PRO,15,Easton Gray,10,36,1:21:27,Sundance,2024-07-17,9.6
 10,PRO,16,William Roylance,44,30,1:27:40,Sundance,2024-07-17,8.9
@@ -1275,7 +1275,7 @@ race_number,category,place,racer_name,plate_number,points,finish_time,race_locat
 10,EXPERT A,DNF,Xarek Lyman,283,2,,Sundance,2024-07-17,
 10,EXPERT A,DNF,Mark Nelson,0,2,,Sundance,2024-07-17,
 10,PRO/EXPERT WOMEN,1,Anna Keller,338,160,0:58:13,Sundance,2024-07-17,10.0
-10,PRO/EXPERT WOMEN,2,Kc Holley,335,146,0:59:02,Sundance,2024-07-17,9.9
+10,PRO/EXPERT WOMEN,2,KC Holley,335,146,0:59:02,Sundance,2024-07-17,9.9
 10,PRO/EXPERT WOMEN,3,Rachel Miller,302,132,1:01:33,Sundance,2024-07-17,9.5
 10,PRO/EXPERT WOMEN,4,Aunika Kemp,344,118,1:04:07,Sundance,2024-07-17,9.1
 10,PRO/EXPERT WOMEN,5,Kadence Preston,303,108,1:04:09,Sundance,2024-07-17,9.1
