@@ -362,15 +362,15 @@
         const COLS = [
             { key: '_rank',        label: 'Rank',         align: 'center', fmt: v => v },
             { key: 'racer_name',   label: 'Racer',        align: 'left',   fmt: v => v },
-            { key: 'race_count',   label: 'Races',        align: 'center', fmt: v => v },
-            { key: 'total_points', label: 'Total Points', align: 'right',  fmt: v => Number(v).toLocaleString() },
+            { key: 'race_count',   label: 'Races',        align: 'right', fmt: v => v },
+            { key: 'total_points', label: 'Total Points', align: 'center',  fmt: v => Number(v).toLocaleString() },
         ];
 
         // Columns that are sortable (exclude rank — rank reflects current sort order)
         const SORTABLE_COLS = [1, 2, 3];
 
         let allRows = [];   // array of objects keyed by CSV header
-        let sortColIdx = 1; // default: sort by race_count desc
+        let sortColIdx = 2; // default: sort by race_count desc
         let sortDir = -1;
 
         // ── Parse CSV ───────────────────────────────────────────────
