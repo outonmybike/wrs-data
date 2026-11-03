@@ -1,0 +1,1466 @@
+race_number,category,place,racer_name,plate_number,points,finish_time,race_location,race_date,average_speed
+1,PRO,1,Andrew Conover,2,80,0:53:35,Eagle Mountain,2024-04-17,15.7
+1,PRO,2,Tyson Mcclellan,12,73,0:53:41,Eagle Mountain,2024-04-17,15.7
+1,PRO,3,Scott Countryman,6,66,0:53:42,Eagle Mountain,2024-04-17,15.7
+1,PRO,4,Asher James,9,59,0:53:42,Eagle Mountain,2024-04-17,15.7
+1,PRO,5,Tanner Burr,7,54,0:56:48,Eagle Mountain,2024-04-17,14.8
+1,PRO,6,Daniel Bartholomew,8,49,0:56:56,Eagle Mountain,2024-04-17,14.8
+1,PRO,7,Spencer Maughan,42,44,0:57:04,Eagle Mountain,2024-04-17,14.8
+1,PRO,8,Scott Abbott,13,39,0:58:16,Eagle Mountain,2024-04-17,14.5
+1,PRO,9,Mark Tuttle,1,36,0:58:44,Eagle Mountain,2024-04-17,14.4
+1,PRO,10,Cameron Averett,3,33,0:59:08,Eagle Mountain,2024-04-17,14.3
+1,PRO,11,Cutler Reschke,4,30,0:59:54,Eagle Mountain,2024-04-17,14.1
+1,PRO,12,Logan Eccles,14,27,1:01:04,Eagle Mountain,2024-04-17,13.8
+1,PRO,13,Easton Gray,10,24,1:01:51,Eagle Mountain,2024-04-17,13.6
+1,PRO,DNF,Jeffrey Previte,5,2,,Eagle Mountain,2024-04-17,
+1,PRO,DNF,Adam Stewart,11,2,,Eagle Mountain,2024-04-17,
+1,SEMI-PRO,1,Tanner Gillespie,120,80,0:49:48,Eagle Mountain,2024-04-17,14.8
+1,SEMI-PRO,2,Henry Clark,117,73,0:50:35,Eagle Mountain,2024-04-17,14.6
+1,SEMI-PRO,3,Cole Johnson,122,66,0:50:43,Eagle Mountain,2024-04-17,14.6
+1,SEMI-PRO,4,Thomas Cahoon,105,59,0:51:25,Eagle Mountain,2024-04-17,14.4
+1,SEMI-PRO,5,Val Gibson,101,54,0:51:27,Eagle Mountain,2024-04-17,14.4
+1,SEMI-PRO,6,Nate Miller,109,49,0:51:47,Eagle Mountain,2024-04-17,14.3
+1,SEMI-PRO,7,Brandon Smith,116,44,0:52:27,Eagle Mountain,2024-04-17,14.1
+1,SEMI-PRO,8,Bryan Gillespie,119,39,0:53:13,Eagle Mountain,2024-04-17,13.9
+1,SEMI-PRO,9,Dan Nelson,111,36,0:53:27,Eagle Mountain,2024-04-17,13.8
+1,SEMI-PRO,10,Eli Speck,123,33,0:53:42,Eagle Mountain,2024-04-17,13.8
+1,SEMI-PRO,11,Pearson Wallace,121,30,0:54:16,Eagle Mountain,2024-04-17,13.6
+1,SEMI-PRO,12,Matt Parker,556,27,0:54:21,Eagle Mountain,2024-04-17,13.6
+1,SEMI-PRO,13,Ethan Smith,125,24,0:56:14,Eagle Mountain,2024-04-17,13.1
+1,SEMI-PRO,14,Matt Frisby,102,21,0:56:24,Eagle Mountain,2024-04-17,13.1
+1,SEMI-PRO,15,James Parkinson,114,18,0:56:26,Eagle Mountain,2024-04-17,13.1
+1,SEMI-PRO,16,Woody,0,15,0:57:28,Eagle Mountain,2024-04-17,12.9
+1,SEMI-PRO,17,Tripp Kay,104,12,0:58:27,Eagle Mountain,2024-04-17,12.6
+1,SEMI-PRO,18,Jayven Thomas,124,9,0:58:28,Eagle Mountain,2024-04-17,12.6
+1,SEMI-PRO,19,Brian Ressa,110,7,0:58:49,Eagle Mountain,2024-04-17,12.6
+1,SEMI-PRO,20,Cody Shepherd,107,5,0:59:26,Eagle Mountain,2024-04-17,12.4
+1,SEMI-PRO,21,Landon Hammond,103,3,1:02:33,Eagle Mountain,2024-04-17,11.8
+1,SEMI-PRO,22,Nick Birch,108,2,1:07:06,Eagle Mountain,2024-04-17,11.0
+1,SEMI-PRO,23,Quinn Jacobsen,106,2,1:08:35,Eagle Mountain,2024-04-17,10.8
+1,SEMI-PRO,DNF,Rhome Goodman,115,2,,Eagle Mountain,2024-04-17,
+1,EXPERT A,1,Mike Broderick,222,80,0:45:45,Eagle Mountain,2024-04-17,14.7
+1,EXPERT A,2,Isaac Boushka,227,73,0:45:55,Eagle Mountain,2024-04-17,14.6
+1,EXPERT A,3,Wade Quilter,234,66,0:46:52,Eagle Mountain,2024-04-17,14.3
+1,EXPERT A,4,Alex Larsen,212,59,0:47:45,Eagle Mountain,2024-04-17,14.1
+1,EXPERT A,5,Mike Ranzinger,226,54,0:47:45,Eagle Mountain,2024-04-17,14.1
+1,EXPERT A,6,Seth Bradley,224,49,0:48:51,Eagle Mountain,2024-04-17,13.7
+1,EXPERT A,7,Gregory Jacobs,230,44,0:50:07,Eagle Mountain,2024-04-17,13.4
+1,EXPERT A,8,Jacob Miller,209,39,0:50:11,Eagle Mountain,2024-04-17,13.4
+1,EXPERT A,9,Ezra Sumner,216,36,0:50:11,Eagle Mountain,2024-04-17,13.4
+1,EXPERT A,10,Brandon Hill,218,33,0:50:29,Eagle Mountain,2024-04-17,13.3
+1,EXPERT A,11,Cameron Gibby,211,30,0:50:58,Eagle Mountain,2024-04-17,13.2
+1,EXPERT A,12,Alex Mccombs,232,27,0:51:40,Eagle Mountain,2024-04-17,13.0
+1,EXPERT A,13,Preston Sagers,223,24,0:51:55,Eagle Mountain,2024-04-17,12.9
+1,EXPERT A,14,Kade Johnson,231,21,0:52:25,Eagle Mountain,2024-04-17,12.8
+1,EXPERT A,15,Harry Mccoard,208,18,0:52:39,Eagle Mountain,2024-04-17,12.7
+1,EXPERT A,16,Mike Madsen,202,15,0:53:14,Eagle Mountain,2024-04-17,12.6
+1,EXPERT A,17,Ian Wittleder,225,12,0:53:32,Eagle Mountain,2024-04-17,12.5
+1,EXPERT A,18,Brody Transtrum,228,9,0:53:44,Eagle Mountain,2024-04-17,12.5
+1,EXPERT A,19,Garrett Allred,210,7,0:55:46,Eagle Mountain,2024-04-17,12.0
+1,EXPERT A,20,Rhys Louis,229,5,0:57:25,Eagle Mountain,2024-04-17,11.7
+1,EXPERT A,21,Parker Goodwin,219,3,0:57:29,Eagle Mountain,2024-04-17,11.7
+1,EXPERT A,22,Bryson Douglass,217,2,0:59:20,Eagle Mountain,2024-04-17,11.3
+1,EXPERT A,23,Jansen Payne,201,2,1:00:56,Eagle Mountain,2024-04-17,11.0
+1,EXPERT A,24,Austin Richards,221,2,1:00:59,Eagle Mountain,2024-04-17,11.0
+1,EXPERT A,25,Cayden Blair,233,2,1:13:14,Eagle Mountain,2024-04-17,9.2
+1,EXPERT A,26,Haylee Petersen,220,2,1:16:43,Eagle Mountain,2024-04-17,8.7
+1,EXPERT A,DNF,Duke Meyer,215,2,,Eagle Mountain,2024-04-17,
+1,EXPERT A,DNF,Gabriel Rejholec,214,2,,Eagle Mountain,2024-04-17,
+1,PRO/EXPERT WOMEN,1,Chelsea Bolton,312,80,0:49:03,Eagle Mountain,2024-04-17,13.7
+1,PRO/EXPERT WOMEN,2,Halle Britton,311,73,0:51:40,Eagle Mountain,2024-04-17,13.0
+1,PRO/EXPERT WOMEN,3,Kaitlyn Brown,310,66,0:53:03,Eagle Mountain,2024-04-17,12.7
+1,PRO/EXPERT WOMEN,4,Olivia Shuey,306,59,0:53:09,Eagle Mountain,2024-04-17,12.6
+1,PRO/EXPERT WOMEN,5,Rachel Miller,302,54,0:53:52,Eagle Mountain,2024-04-17,12.5
+1,PRO/EXPERT WOMEN,6,Brynn Gauruder,314,49,0:57:20,Eagle Mountain,2024-04-17,11.7
+1,PRO/EXPERT WOMEN,7,Kristi Mcilmoil,304,44,0:58:24,Eagle Mountain,2024-04-17,11.5
+1,PRO/EXPERT WOMEN,8,Sydney Averett,309,39,0:59:15,Eagle Mountain,2024-04-17,11.3
+1,PRO/EXPERT WOMEN,9,Sara Dunston,315,36,1:01:35,Eagle Mountain,2024-04-17,10.9
+1,PRO/EXPERT WOMEN,10,Brynlee Bingham,301,33,1:04:40,Eagle Mountain,2024-04-17,10.4
+1,PRO/EXPERT WOMEN,11,Sophie Draper,307,30,1:04:40,Eagle Mountain,2024-04-17,10.4
+1,PRO/EXPERT WOMEN,12,Kylee Mendenhall,313,27,1:04:40,Eagle Mountain,2024-04-17,10.4
+1,PRO/EXPERT WOMEN,13,Christina Perry,305,24,1:04:51,Eagle Mountain,2024-04-17,10.3
+1,PRO/EXPERT WOMEN,14,Brylee Jorgensen,308,21,1:12:58,Eagle Mountain,2024-04-17,9.2
+1,EXPERT B,1,Toby Sibert,412,80,0:42:50,Eagle Mountain,2024-04-17,13.1
+1,EXPERT B,2,Nathanicus Mcclarkensburger,409,73,0:43:10,Eagle Mountain,2024-04-17,13.0
+1,EXPERT B,3,Jordan Thurston,403,66,0:43:14,Eagle Mountain,2024-04-17,13.0
+1,EXPERT B,4,Ryan Sagers,411,59,0:44:41,Eagle Mountain,2024-04-17,12.6
+1,EXPERT B,5,Lewis Stewart,414,54,0:44:45,Eagle Mountain,2024-04-17,12.6
+1,EXPERT B,6,John Mcilmoil,408,49,0:45:01,Eagle Mountain,2024-04-17,12.5
+1,EXPERT B,7,Jacob Jensen,417,44,0:45:07,Eagle Mountain,2024-04-17,12.5
+1,EXPERT B,8,Nick Sibert,413,39,0:45:24,Eagle Mountain,2024-04-17,12.4
+1,EXPERT B,9,Greg Francis,418,36,0:45:58,Eagle Mountain,2024-04-17,12.2
+1,EXPERT B,10,Max Glade,401,33,0:46:36,Eagle Mountain,2024-04-17,12.1
+1,EXPERT B,11,Cory Larsen,407,30,0:48:16,Eagle Mountain,2024-04-17,11.6
+1,EXPERT B,12,Tyler Sumner,410,27,0:49:28,Eagle Mountain,2024-04-17,11.4
+1,EXPERT B,13,Jared Burton,420,24,0:49:52,Eagle Mountain,2024-04-17,11.3
+1,EXPERT B,14,Ben Severson,416,21,0:50:01,Eagle Mountain,2024-04-17,11.2
+1,EXPERT B,15,Tyler Perry,406,18,0:50:24,Eagle Mountain,2024-04-17,11.1
+1,EXPERT B,16,Keith Payne,415,15,0:51:10,Eagle Mountain,2024-04-17,11.0
+1,EXPERT B,17,Gavin Elkins,421,12,0:52:32,Eagle Mountain,2024-04-17,10.7
+1,EXPERT B,18,Brixton Mortimer,404,9,0:53:40,Eagle Mountain,2024-04-17,10.5
+1,EXPERT B,19,Paul Hadlock,405,7,1:10:53,Eagle Mountain,2024-04-17,7.9
+1,EXPERT C,1,Luis Muzquiz,514,80,0:46:49,Eagle Mountain,2024-04-17,12.0
+1,EXPERT C,2,Darren Wiberg,502,73,0:47:03,Eagle Mountain,2024-04-17,11.9
+1,EXPERT C,3,Fred Wittleder,517,66,0:47:15,Eagle Mountain,2024-04-17,11.9
+1,EXPERT C,4,Steve Mayfield,513,59,0:47:23,Eagle Mountain,2024-04-17,11.9
+1,EXPERT C,5,Joe Britton,518,54,0:47:26,Eagle Mountain,2024-04-17,11.8
+1,EXPERT C,6,Jeff Clark,512,49,0:48:54,Eagle Mountain,2024-04-17,11.5
+1,EXPERT C,7,Jake Rogers,510,44,0:50:36,Eagle Mountain,2024-04-17,11.1
+1,EXPERT C,8,Cameron Hill,505,39,0:50:59,Eagle Mountain,2024-04-17,11.0
+1,EXPERT C,9,Calvin Cahoon,509,36,0:51:27,Eagle Mountain,2024-04-17,10.9
+1,EXPERT C,10,Austin Miner,520,33,0:51:44,Eagle Mountain,2024-04-17,10.9
+1,EXPERT C,11,Cole Gonsalves,515,30,0:52:42,Eagle Mountain,2024-04-17,10.7
+1,EXPERT C,12,Matt Stewart,519,27,0:53:03,Eagle Mountain,2024-04-17,10.6
+1,EXPERT C,13,Ian Beaty,503,24,0:53:05,Eagle Mountain,2024-04-17,10.6
+1,EXPERT C,14,Johnnie Gonsalves,516,21,0:53:23,Eagle Mountain,2024-04-17,10.5
+1,EXPERT C,15,Jerry Brown,511,18,0:54:56,Eagle Mountain,2024-04-17,10.2
+1,EXPERT C,16,Jayson Vincent,507,15,0:57:02,Eagle Mountain,2024-04-17,9.8
+1,EXPERT C,17,Kerry Smith,501,12,0:57:52,Eagle Mountain,2024-04-17,9.7
+1,EXPERT C,18,Craig Farnsworth,508,9,1:07:04,Eagle Mountain,2024-04-17,8.4
+1,SPORT A,1,Mitchell Praag,612,80,0:37:10,Eagle Mountain,2024-04-17,12.3
+1,SPORT A,2,Alta Miller,607,73,0:39:38,Eagle Mountain,2024-04-17,11.5
+1,SPORT A,3,Mark Crosby,602,66,0:39:53,Eagle Mountain,2024-04-17,11.5
+1,SPORT A,4,Tyler Cherrington,609,59,0:41:04,Eagle Mountain,2024-04-17,11.1
+1,SPORT A,5,Carter Bingham,608,54,0:41:26,Eagle Mountain,2024-04-17,11.0
+1,SPORT A,6,Jensen Paterson,606,49,0:42:58,Eagle Mountain,2024-04-17,10.6
+1,SPORT A,7,Daxton Mortimer,604,44,0:43:55,Eagle Mountain,2024-04-17,10.4
+1,SPORT A,8,Conner Jones,611,39,0:45:33,Eagle Mountain,2024-04-17,10.0
+1,SPORT A,9,Becky Blaser,603,36,0:47:02,Eagle Mountain,2024-04-17,9.7
+1,SPORT A,10,Tyson Widdison,601,33,0:49:06,Eagle Mountain,2024-04-17,9.3
+1,SPORT A,11,Ryan Cartwright,610,30,0:50:51,Eagle Mountain,2024-04-17,9.0
+1,SPORT A,12,Thomas Hansen,605,27,1:00:48,Eagle Mountain,2024-04-17,7.5
+1,SPORT B,1,Zac Rollins,708,80,0:34:51,Eagle Mountain,2024-04-17,11.2
+1,SPORT B,2,Brody Smith,709,73,0:35:04,Eagle Mountain,2024-04-17,11.1
+1,SPORT B,3,Kimball Gay,713,66,0:35:12,Eagle Mountain,2024-04-17,11.1
+1,SPORT B,4,Rich Rollins,712,59,0:35:50,Eagle Mountain,2024-04-17,10.9
+1,SPORT B,5,Bridger Wilson,717,54,0:38:05,Eagle Mountain,2024-04-17,10.2
+1,SPORT B,6,Jackson Bingham,704,49,0:41:32,Eagle Mountain,2024-04-17,9.4
+1,SPORT B,7,Clark Cartwright,711,44,0:41:44,Eagle Mountain,2024-04-17,9.3
+1,SPORT B,8,Benjamin Preece,716,39,0:42:05,Eagle Mountain,2024-04-17,9.3
+1,SPORT B,9,Zayden Mortimer,702,36,0:43:31,Eagle Mountain,2024-04-17,9.0
+1,SPORT B,10,Dylan Jerman,707,33,0:43:32,Eagle Mountain,2024-04-17,9.0
+1,SPORT B,11,Jonathan Villarino,703,30,0:43:52,Eagle Mountain,2024-04-17,8.9
+1,SPORT B,12,Richard Matheson,719,27,0:44:21,Eagle Mountain,2024-04-17,8.8
+1,SPORT B,13,Cannon Eccles,718,24,0:53:12,Eagle Mountain,2024-04-17,7.3
+1,SPORT B,14,Ben Cannon,714,21,1:08:38,Eagle Mountain,2024-04-17,5.7
+1,SPORT B,DNF,Matt Jacobsen,710,2,,Eagle Mountain,2024-04-17,
+1,SPORT B,DNF,Justin Curtis,715,2,,Eagle Mountain,2024-04-17,
+1,SPORT B,DNF,Matt Cahoon,701,2,,Eagle Mountain,2024-04-17,
+1,SPORT WOMEN,1,Emily Maughan,814,80,0:36:55,Eagle Mountain,2024-04-17,10.6
+1,SPORT WOMEN,2,Megan Bradley,815,73,0:36:55,Eagle Mountain,2024-04-17,10.6
+1,SPORT WOMEN,3,Hillary Brown,808,66,0:38:28,Eagle Mountain,2024-04-17,10.1
+1,SPORT WOMEN,4,Patty Rice,812,59,0:39:32,Eagle Mountain,2024-04-17,9.9
+1,SPORT WOMEN,5,Jenna Chipman,817,54,0:39:41,Eagle Mountain,2024-04-17,9.8
+1,SPORT WOMEN,6,Linda Matheson,801,49,0:42:57,Eagle Mountain,2024-04-17,9.1
+1,SPORT WOMEN,7,Makell Cahoon,809,44,0:46:25,Eagle Mountain,2024-04-17,8.4
+1,SPORT WOMEN,8,Haidyn Carter,818,39,0:46:57,Eagle Mountain,2024-04-17,8.3
+1,SPORT WOMEN,9,Jaycee Apostol,803,36,0:48:05,Eagle Mountain,2024-04-17,8.1
+1,SPORT WOMEN,10,Carol Tuttle,813,33,0:54:18,Eagle Mountain,2024-04-17,7.2
+1,SPORT WOMEN,DNF,Lily Cannon,816,2,,Eagle Mountain,2024-04-17,
+1,SPORT WOMEN,DNF,Cora Hansen,802,2,,Eagle Mountain,2024-04-17,
+1,JUNIOR,1,Owen Draper,907,80,0:27:01,Eagle Mountain,2024-04-17,10.4
+1,JUNIOR,2,Isaac Miller,903,73,0:28:08,Eagle Mountain,2024-04-17,10.0
+1,JUNIOR,3,Truman Miner,914,66,0:28:18,Eagle Mountain,2024-04-17,9.9
+1,JUNIOR,4,Ashton Johnson,908,59,0:28:46,Eagle Mountain,2024-04-17,9.8
+1,JUNIOR,5,Mayson Curtis,912,54,0:30:41,Eagle Mountain,2024-04-17,9.1
+1,JUNIOR,6,Breauna Hansen,911,49,0:31:41,Eagle Mountain,2024-04-17,8.9
+1,JUNIOR,7,Nate Jacobsen,905,44,0:31:53,Eagle Mountain,2024-04-17,8.8
+1,JUNIOR,8,Ryan Wittleder,909,39,0:31:53,Eagle Mountain,2024-04-17,8.8
+1,JUNIOR,9,Darian Dash Bingham,902,36,0:34:20,Eagle Mountain,2024-04-17,8.2
+1,JUNIOR,10,Lina Ellwood,913,33,0:35:25,Eagle Mountain,2024-04-17,7.9
+1,JUNIOR,11,Lucy Nelson,901,30,0:37:04,Eagle Mountain,2024-04-17,7.6
+1,JUNIOR,12,Kason Mendenhall,910,27,0:39:28,Eagle Mountain,2024-04-17,7.1
+1,JUNIOR,13,Daxton Rollins,904,24,0:41:20,Eagle Mountain,2024-04-17,6.8
+1,JUNIOR,14,Kyrie Bingham,906,21,0:46:05,Eagle Mountain,2024-04-17,6.1
+1,BEGINNER,1,Landon Nielson,1012,80,0:15:47,Eagle Mountain,2024-04-17,11.4
+1,BEGINNER,2,Ethan Miner,1010,73,0:16:40,Eagle Mountain,2024-04-17,10.8
+1,BEGINNER,3,Lincoln Smith,1011,66,0:18:17,Eagle Mountain,2024-04-17,9.8
+1,BEGINNER,4,Asher Jacobsen,1004,59,0:18:33,Eagle Mountain,2024-04-17,9.7
+1,BEGINNER,5,Cannon Cartwright,1005,54,0:18:51,Eagle Mountain,2024-04-17,9.5
+1,BEGINNER,6,Jay Jacobsen,1002,49,0:18:53,Eagle Mountain,2024-04-17,9.5
+1,BEGINNER,7,Dunken Paterson,1007,44,0:18:58,Eagle Mountain,2024-04-17,9.4
+1,BEGINNER,8,Asher Burton,1008,39,0:18:59,Eagle Mountain,2024-04-17,9.4
+1,BEGINNER,9,Kelton Matheson,1003,36,0:19:50,Eagle Mountain,2024-04-17,9.0
+1,BEGINNER,10,Ivy Cartwright,1006,33,0:22:05,Eagle Mountain,2024-04-17,8.1
+2,PRO,1,Preston Johnson,22,80,0:57:03,Euclid,2024-04-24,12.7
+2,PRO,2,Nathan Dutton,23,73,0:57:04,Euclid,2024-04-24,12.7
+2,PRO,3,Chris Holley,21,66,0:59:29,Euclid,2024-04-24,12.2
+2,PRO,4,Andrew Conover,2,59,1:00:11,Euclid,2024-04-24,12.0
+2,PRO,5,Spencer Maughan,42,54,1:02:48,Euclid,2024-04-24,11.5
+2,PRO,6,Henry Stevens,19,49,1:02:48,Euclid,2024-04-24,11.5
+2,PRO,7,Parker Caldwell,16,44,1:02:58,Euclid,2024-04-24,11.5
+2,PRO,8,Bruce Deppe,18,39,1:04:02,Euclid,2024-04-24,11.3
+2,PRO,9,Isaiah Ward,20,36,1:04:10,Euclid,2024-04-24,11.3
+2,PRO,10,Mark Tuttle,1,33,1:04:28,Euclid,2024-04-24,11.2
+2,PRO,11,Spencer Stevenson,17,30,1:07:39,Euclid,2024-04-24,10.7
+2,PRO,DNF,Thomas Cahoon,15,2,,Euclid,2024-04-24,
+2,SEMI-PRO,1,Tanner Gillespie,120,80,0:55:50,Euclid,2024-04-24,11.4
+2,SEMI-PRO,2,Scott Preston,112,73,0:56:04,Euclid,2024-04-24,11.3
+2,SEMI-PRO,3,Val Gibson,101,66,0:57:15,Euclid,2024-04-24,11.1
+2,SEMI-PRO,4,Nate Miller,109,59,0:57:30,Euclid,2024-04-24,11.1
+2,SEMI-PRO,5,Dan Nelson,111,54,0:58:11,Euclid,2024-04-24,10.9
+2,SEMI-PRO,6,Wade Quilter,133,49,0:59:04,Euclid,2024-04-24,10.8
+2,SEMI-PRO,7,Clayton Morrill,131,44,0:59:17,Euclid,2024-04-24,10.7
+2,SEMI-PRO,8,Ezra Sumner,132,39,1:00:50,Euclid,2024-04-24,10.5
+2,SEMI-PRO,9,Matt Frisby,102,36,1:01:37,Euclid,2024-04-24,10.3
+2,SEMI-PRO,10,Quinn Jacobsen,106,33,1:02:13,Euclid,2024-04-24,10.2
+2,SEMI-PRO,11,Matt Parker,556,30,1:03:04,Euclid,2024-04-24,10.1
+2,SEMI-PRO,12,Jake Broussard,126,27,1:03:14,Euclid,2024-04-24,10.1
+2,SEMI-PRO,13,Cody Shepherd,107,24,1:03:17,Euclid,2024-04-24,10.0
+2,SEMI-PRO,14,James Parkinson,114,21,1:03:17,Euclid,2024-04-24,10.0
+2,SEMI-PRO,15,Zachary Child,129,18,1:04:41,Euclid,2024-04-24,9.8
+2,SEMI-PRO,16,Woody,0,15,1:05:09,Euclid,2024-04-24,9.8
+2,SEMI-PRO,17,Brian Ressa,110,12,1:05:37,Euclid,2024-04-24,9.7
+2,SEMI-PRO,18,Brock Olson,128,9,1:06:14,Euclid,2024-04-24,9.6
+2,SEMI-PRO,19,Jayven Thomas,124,7,1:06:47,Euclid,2024-04-24,9.5
+2,SEMI-PRO,20,Tripp Kay,104,5,1:07:01,Euclid,2024-04-24,9.5
+2,SEMI-PRO,21,Liam Betts,118,3,1:07:01,Euclid,2024-04-24,9.5
+2,SEMI-PRO,22,Landon Hammond,103,2,1:08:22,Euclid,2024-04-24,9.3
+2,SEMI-PRO,23,Eric Ault,130,2,1:10:32,Euclid,2024-04-24,9.0
+2,SEMI-PRO,24,Nick Birch,108,2,1:14:20,Euclid,2024-04-24,8.5
+2,SEMI-PRO,25,Katie Costello,127,2,1:27:55,Euclid,2024-04-24,7.2
+2,SEMI-PRO,DNF,Brandon Smith,116,2,,Euclid,2024-04-24,
+2,EXPERT A,1,Jacob Miller,209,80,0:48:02,Euclid,2024-04-24,10.7
+2,EXPERT A,2,Stetson Provost,235,73,0:50:05,Euclid,2024-04-24,10.3
+2,EXPERT A,3,Brendan Johnson,213,66,0:50:32,Euclid,2024-04-24,10.2
+2,EXPERT A,4,Mike Ranzinger,226,59,0:50:37,Euclid,2024-04-24,10.1
+2,EXPERT A,5,Cole Beach,247,54,0:50:54,Euclid,2024-04-24,10.1
+2,EXPERT A,6,Jamison Burton,245,49,0:51:26,Euclid,2024-04-24,10.0
+2,EXPERT A,7,Jansen Payne,201,44,0:51:51,Euclid,2024-04-24,9.9
+2,EXPERT A,8,Gregory Jacobs,230,39,0:51:53,Euclid,2024-04-24,9.9
+2,EXPERT A,9,Evan Degray,246,36,0:51:54,Euclid,2024-04-24,9.9
+2,EXPERT A,10,Johnny Pedersen,241,33,0:52:23,Euclid,2024-04-24,9.8
+2,EXPERT A,11,Mike Madsen,202,30,0:53:00,Euclid,2024-04-24,9.7
+2,EXPERT A,12,Joe Reese,242,27,0:54:23,Euclid,2024-04-24,9.4
+2,EXPERT A,13,Alex Larsen,212,24,0:54:48,Euclid,2024-04-24,9.4
+2,EXPERT A,14,Harry Mccoard,208,21,0:54:53,Euclid,2024-04-24,9.3
+2,EXPERT A,15,Garrett Allred,210,18,0:55:53,Euclid,2024-04-24,9.2
+2,EXPERT A,16,Lucas Costello,236,15,0:56:01,Euclid,2024-04-24,9.2
+2,EXPERT A,17,Jeffrey Previte,238,12,0:56:21,Euclid,2024-04-24,9.1
+2,EXPERT A,18,Asher Ellis,243,9,0:59:40,Euclid,2024-04-24,8.6
+2,EXPERT A,19,Lewis Stewart,249,7,0:59:48,Euclid,2024-04-24,8.6
+2,EXPERT A,20,Jake Jorgenson,240,5,1:00:19,Euclid,2024-04-24,8.5
+2,EXPERT A,21,Andrew Averett,237,3,1:04:39,Euclid,2024-04-24,7.9
+2,EXPERT A,22,Nate Cox,248,2,1:07:05,Euclid,2024-04-24,7.6
+2,EXPERT A,23,Parker Goodwin,219,2,1:09:24,Euclid,2024-04-24,7.4
+2,EXPERT A,24,Bella Martin,239,2,1:30:01,Euclid,2024-04-24,5.7
+2,EXPERT A,DNF,Ryder Warnock,204,2,,Euclid,2024-04-24,
+2,EXPERT A,DNF,Shad Petersen,244,2,,Euclid,2024-04-24,
+2,PRO/EXPERT WOMEN,1,Rachel Miller,302,80,0:48:50,Euclid,2024-04-24,9.5
+2,PRO/EXPERT WOMEN,3,Anna Cox,318,66,0:51:07,Euclid,2024-04-24,9.1
+2,PRO/EXPERT WOMEN,4,Kadence Preston,303,59,0:55:36,Euclid,2024-04-24,8.4
+2,PRO/EXPERT WOMEN,5,Christina Perry,305,54,0:58:52,Euclid,2024-04-24,7.9
+2,PRO/EXPERT WOMEN,6,Sydney Averett,309,49,1:01:05,Euclid,2024-04-24,7.6
+2,PRO/EXPERT WOMEN,7,Sage Jorgenson,316,44,1:01:20,Euclid,2024-04-24,7.6
+2,PRO/EXPERT WOMEN,8,Kristi Mcilmoil,304,39,1:03:17,Euclid,2024-04-24,7.3
+2,PRO/EXPERT WOMEN,9,Brynlee Bingham,301,36,1:04:16,Euclid,2024-04-24,7.2
+2,PRO/EXPERT WOMEN,DNF,Haylee Petersen,317,2,,Euclid,2024-04-24,
+2,EXPERT B,1,Nathanicus Mcclarkensburger,409,80,0:46:41,Euclid,2024-04-24,10.0
+2,EXPERT B,2,Todd Brown,425,73,0:47:08,Euclid,2024-04-24,9.9
+2,EXPERT B,3,Mitch Wright,423,66,0:48:31,Euclid,2024-04-24,9.6
+2,EXPERT B,4,Jordan Thurston,403,59,0:49:39,Euclid,2024-04-24,9.4
+2,EXPERT B,5,Talan Reese,426,54,0:50:27,Euclid,2024-04-24,9.2
+2,EXPERT B,6,Max Glade,401,49,0:50:42,Euclid,2024-04-24,9.2
+2,EXPERT B,7,Cory Larsen,407,44,0:54:16,Euclid,2024-04-24,8.6
+2,EXPERT B,8,Ben Severson,416,39,0:54:18,Euclid,2024-04-24,8.6
+2,EXPERT B,9,Tyler Perry,406,36,0:55:54,Euclid,2024-04-24,8.3
+2,EXPERT B,10,Keith Payne,415,33,0:56:03,Euclid,2024-04-24,8.3
+2,EXPERT B,11,Brixton Mortimer,404,30,0:56:53,Euclid,2024-04-24,8.2
+2,EXPERT B,12,Emma Quilter,427,27,1:04:42,Euclid,2024-04-24,7.2
+2,EXPERT B,13,Cash Russell,422,24,1:14:43,Euclid,2024-04-24,6.2
+2,EXPERT B,DNF,Jeff Jarvie,424,2,,Euclid,2024-04-24,
+2,EXPERT C,1,Jake Rogers,510,80,0:52:39,Euclid,2024-04-24,8.8
+2,EXPERT C,2,Darren Wiberg,502,73,0:53:19,Euclid,2024-04-24,8.7
+2,EXPERT C,3,Dallan Robbins,506,66,0:54:12,Euclid,2024-04-24,8.6
+2,EXPERT C,4,Austin Miner,520,59,0:54:39,Euclid,2024-04-24,8.5
+2,EXPERT C,5,Jerry Brown,511,54,0:54:56,Euclid,2024-04-24,8.5
+2,EXPERT C,6,Brian Blumer,522,49,0:57:48,Euclid,2024-04-24,8.0
+2,EXPERT C,7,Ian Beaty,503,44,0:58:04,Euclid,2024-04-24,8.0
+2,EXPERT C,8,Cameron Hill,505,39,0:58:20,Euclid,2024-04-24,8.0
+2,EXPERT C,9,Cole Gonsalves,515,36,0:58:55,Euclid,2024-04-24,7.9
+2,EXPERT C,10,Matt Stewart,519,33,1:01:04,Euclid,2024-04-24,7.6
+2,EXPERT C,11,Johnnie Gonsalves,516,30,1:01:54,Euclid,2024-04-24,7.5
+2,EXPERT C,12,Calvin Cahoon,509,27,1:03:34,Euclid,2024-04-24,7.3
+2,EXPERT C,13,Jayson Vincent,507,24,1:04:25,Euclid,2024-04-24,7.2
+2,EXPERT C,DNF,Kerry Smith,501,2,,Euclid,2024-04-24,
+2,EXPERT C,DNF,Craig Farnsworth,508,2,,Euclid,2024-04-24,
+2,EXPERT C,DNF,Addisen Pedersen,521,2,,Euclid,2024-04-24,
+2,SPORT A,1,Mike Campbell,614,80,0:44:47,Euclid,2024-04-24,8.5
+2,SPORT A,2,Alta Miller,607,73,0:47:00,Euclid,2024-04-24,8.1
+2,SPORT A,3,David Williams,617,66,0:47:00,Euclid,2024-04-24,8.1
+2,SPORT A,4,Jensen Paterson,606,59,0:47:29,Euclid,2024-04-24,8.0
+2,SPORT A,5,John Taylor,616,54,0:48:39,Euclid,2024-04-24,7.8
+2,SPORT A,6,Daxton Mortimer,604,49,0:49:52,Euclid,2024-04-24,7.6
+2,SPORT A,7,Carter Bingham,618,44,0:51:22,Euclid,2024-04-24,7.4
+2,SPORT A,8,Tyson Widdison,601,39,1:06:36,Euclid,2024-04-24,5.7
+2,SPORT A,DNF,Blake Rollins,615,2,,Euclid,2024-04-24,
+2,SPORT B,1,Brody Smith,709,80,0:38:02,Euclid,2024-04-24,8.7
+2,SPORT B,2,Zac Rollins,708,73,0:39:30,Euclid,2024-04-24,8.4
+2,SPORT B,3,Kimball Gay,713,66,0:39:53,Euclid,2024-04-24,8.3
+2,SPORT B,4,Jeff Stroh,720,59,0:40:20,Euclid,2024-04-24,8.2
+2,SPORT B,5,Levi Blumer,722,54,0:40:50,Euclid,2024-04-24,8.1
+2,SPORT B,6,Chase O'Neil,705,49,0:41:56,Euclid,2024-04-24,7.9
+2,SPORT B,7,Jackson Bingham,704,44,0:44:42,Euclid,2024-04-24,7.4
+2,SPORT B,8,Todd Kingsolver,721,39,0:44:49,Euclid,2024-04-24,7.4
+2,SPORT B,9,Bridger Wilson,717,36,0:45:08,Euclid,2024-04-24,7.3
+2,SPORT B,10,Dylan Jerman,707,33,0:48:34,Euclid,2024-04-24,6.8
+2,SPORT B,11,Elias Kahler,724,30,0:49:25,Euclid,2024-04-24,6.7
+2,SPORT B,12,Matt Cahoon,701,27,0:54:01,Euclid,2024-04-24,6.1
+2,SPORT B,13,Jonathan Villarino,703,24,0:58:43,Euclid,2024-04-24,5.6
+2,SPORT B,14,Richard Matheson,719,21,1:00:59,Euclid,2024-04-24,5.4
+2,SPORT B,DNF,Rich Rollins,712,2,,Euclid,2024-04-24,
+2,SPORT B,DNF,Justin Curtis,715,2,,Euclid,2024-04-24,
+2,SPORT WOMEN,1,Hadley Peay,823,80,0:34:55,Euclid,2024-04-24,9.5
+2,SPORT WOMEN,2,Hayden Brown,821,73,0:37:35,Euclid,2024-04-24,8.8
+2,SPORT WOMEN,3,Zina Price,822,66,0:37:53,Euclid,2024-04-24,8.7
+2,SPORT WOMEN,4,Rachel Tucker,819,59,0:44:22,Euclid,2024-04-24,7.5
+2,SPORT WOMEN,5,Patty Rice,812,54,0:44:30,Euclid,2024-04-24,7.4
+2,SPORT WOMEN,6,Hillary Brown,808,49,0:45:50,Euclid,2024-04-24,7.2
+2,SPORT WOMEN,7,Linda Matheson,801,44,0:59:58,Euclid,2024-04-24,5.5
+2,SPORT WOMEN,DNF,Kristy Schellenberg,820,2,,Euclid,2024-04-24,
+2,JUNIOR,1,Isaac Miller,903,80,0:29:56,Euclid,2024-04-24,7.0
+2,JUNIOR,2,Darian Dash Bingham,902,73,0:32:16,Euclid,2024-04-24,6.5
+2,JUNIOR,3,Nate Jacobsen,905,66,0:34:21,Euclid,2024-04-24,6.1
+2,JUNIOR,4,Lucy Nelson,901,59,0:35:59,Euclid,2024-04-24,5.8
+2,JUNIOR,5,Mayson Curtis,912,54,0:41:37,Euclid,2024-04-24,5.0
+2,JUNIOR,DNF,Lyla Brown,915,2,,Euclid,2024-04-24,
+2,BEGINNER,1,Josie Thomas,1023,80,0:19:17,Euclid,2024-04-24,11.6
+2,BEGINNER,2,Hailey Cox,1024,73,0:19:18,Euclid,2024-04-24,11.6
+2,BEGINNER,3,Ethan Miner,1010,66,0:20:03,Euclid,2024-04-24,11.2
+2,BEGINNER,4,Kelton Matheson,1003,59,0:21:35,Euclid,2024-04-24,10.4
+2,BEGINNER,5,Dunken Paterson,1007,54,0:21:41,Euclid,2024-04-24,10.3
+2,BEGINNER,6,Nathan Kerman,1020,49,0:23:24,Euclid,2024-04-24,9.6
+2,BEGINNER,7,Archer Olson,1014,44,0:25:27,Euclid,2024-04-24,8.8
+2,BEGINNER,8,Dan Kerman,1019,39,0:27:20,Euclid,2024-04-24,8.2
+2,BEGINNER,9,Asher Burton,1008,36,0:30:30,Euclid,2024-04-24,7.3
+2,BEGINNER,10,Cody Blumer,1017,33,0:31:30,Euclid,2024-04-24,7.1
+2,BEGINNER,11,Enzo Gay,1016,30,0:34:08,Euclid,2024-04-24,6.5
+2,BEGINNER,12,Jay Jacobsen,1002,27,0:34:13,Euclid,2024-04-24,6.5
+2,BEGINNER,13,Roseli Gay,1015,24,0:34:15,Euclid,2024-04-24,6.5
+2,BEGINNER,14,Daniel Harris,1013,21,0:36:24,Euclid,2024-04-24,6.1
+2,BEGINNER,15,Amy Kerman,1018,18,0:38:24,Euclid,2024-04-24,5.8
+3,PRO,1,Carter Anderson,24,80,1:04:43,Sorensen,2024-05-16,12.3
+3,PRO,2,Tyson Mcclellan,12,73,1:05:48,Sorensen,2024-05-16,12.1
+3,PRO,3,Spencer Maughan,42,66,1:07:38,Sorensen,2024-05-16,11.7
+3,PRO,4,Tanner Burr,7,59,1:08:28,Sorensen,2024-05-16,11.6
+3,PRO,5,Mark Tuttle,1,54,1:09:38,Sorensen,2024-05-16,11.4
+3,PRO,6,Andrew Conover,2,49,1:09:46,Sorensen,2024-05-16,11.4
+3,PRO,7,Cameron Averett,3,44,1:14:09,Sorensen,2024-05-16,10.7
+3,PRO,8,Thomas Cahoon,15,39,1:14:58,Sorensen,2024-05-16,10.6
+3,PRO,9,Brandon Firth,25,36,1:15:10,Sorensen,2024-05-16,10.6
+3,PRO,10,Easton Gray,10,33,1:15:12,Sorensen,2024-05-16,10.5
+3,PRO,11,Geophri Montague,26,30,1:19:13,Sorensen,2024-05-16,10.0
+3,SEMI-PRO,1,Tanner Gillespie,120,80,1:04:57,Sorensen,2024-05-16,11.2
+3,SEMI-PRO,2,Wade Quilter,133,73,1:06:30,Sorensen,2024-05-16,10.9
+3,SEMI-PRO,3,Ezra Sumner,132,66,1:07:20,Sorensen,2024-05-16,10.8
+3,SEMI-PRO,4,Johnny D Pedersen,135,59,1:07:28,Sorensen,2024-05-16,10.8
+3,SEMI-PRO,5,Val Gibson,101,54,1:07:41,Sorensen,2024-05-16,10.8
+3,SEMI-PRO,6,Dan Nelson,111,49,1:07:55,Sorensen,2024-05-16,10.7
+3,SEMI-PRO,7,Brandon Smith,116,44,1:08:52,Sorensen,2024-05-16,10.6
+3,SEMI-PRO,8,Tyler Ashworth,134,39,1:09:56,Sorensen,2024-05-16,10.4
+3,SEMI-PRO,9,Landon Hammond,138,36,1:13:19,Sorensen,2024-05-16,9.9
+3,SEMI-PRO,10,Quinn Jacobsen,106,33,1:14:13,Sorensen,2024-05-16,9.8
+3,SEMI-PRO,11,Woody,0,30,1:15:07,Sorensen,2024-05-16,9.7
+3,SEMI-PRO,12,Matt Frisby,102,27,1:15:26,Sorensen,2024-05-16,9.6
+3,SEMI-PRO,13,Cody Shepherd,107,24,1:15:58,Sorensen,2024-05-16,9.6
+3,SEMI-PRO,14,Jake Broussard,126,21,1:16:24,Sorensen,2024-05-16,9.5
+3,SEMI-PRO,15,Nick Birch,108,18,1:19:50,Sorensen,2024-05-16,9.1
+3,SEMI-PRO,16,Tripp Kay,104,15,1:23:58,Sorensen,2024-05-16,8.7
+3,SEMI-PRO,17,Luke Cahoon,113,12,1:23:59,Sorensen,2024-05-16,8.7
+3,SEMI-PRO,18,Bryson Rowley,136,9,1:27:00,Sorensen,2024-05-16,8.4
+3,SEMI-PRO,19,Matt Parker,556,7,1:39:14,Sorensen,2024-05-16,7.3
+3,EXPERT A,1,Jacob Miller,209,80,0:53:42,Sorensen,2024-05-16,10.5
+3,EXPERT A,2,Alex Larsen,212,73,0:55:11,Sorensen,2024-05-16,10.3
+3,EXPERT A,3,Gregory Jacobs,230,66,0:55:26,Sorensen,2024-05-16,10.2
+3,EXPERT A,4,Joe Reese,242,59,0:56:32,Sorensen,2024-05-16,10.0
+3,EXPERT A,5,Mike Madsen,202,54,0:57:41,Sorensen,2024-05-16,9.8
+3,EXPERT A,6,Harry Mccoard,208,49,0:58:25,Sorensen,2024-05-16,9.7
+3,EXPERT A,7,Cameron Gibby,211,44,0:58:44,Sorensen,2024-05-16,9.6
+3,EXPERT A,8,Andrew Averett,237,39,0:59:08,Sorensen,2024-05-16,9.6
+3,EXPERT A,9,Lewis Stewart,249,36,0:59:33,Sorensen,2024-05-16,9.5
+3,EXPERT A,10,Heber Anderson,250,33,0:59:56,Sorensen,2024-05-16,9.4
+3,EXPERT A,11,Lucas Costello,236,30,1:00:28,Sorensen,2024-05-16,9.4
+3,EXPERT A,12,Kade Gray,252,27,1:01:56,Sorensen,2024-05-16,9.1
+3,EXPERT A,13,Eli Johns,207,24,1:03:18,Sorensen,2024-05-16,8.9
+3,EXPERT A,14,Jake Jorgenson,240,21,1:03:37,Sorensen,2024-05-16,8.9
+3,EXPERT A,15,Spencer Freeman,206,18,1:07:11,Sorensen,2024-05-16,8.4
+3,EXPERT A,16,Parker Goodwin,219,15,1:08:10,Sorensen,2024-05-16,8.3
+3,PRO/EXPERT WOMEN,1,Nina Schamberger,324,80,0:55:16,Sorensen,2024-05-16,10.2
+3,PRO/EXPERT WOMEN,2,Rachel Miller,302,73,0:57:46,Sorensen,2024-05-16,9.8
+3,PRO/EXPERT WOMEN,3,India Jackson,321,66,0:58:24,Sorensen,2024-05-16,9.7
+3,PRO/EXPERT WOMEN,4,Hadley Peay,323,59,1:00:12,Sorensen,2024-05-16,9.4
+3,PRO/EXPERT WOMEN,5,Kristi Mcilmoil,304,54,1:03:53,Sorensen,2024-05-16,8.9
+3,PRO/EXPERT WOMEN,6,Zina Price,325,49,1:05:31,Sorensen,2024-05-16,8.6
+3,PRO/EXPERT WOMEN,7,Kadence Preston,303,44,1:06:26,Sorensen,2024-05-16,8.5
+3,PRO/EXPERT WOMEN,8,Sydney Averett,309,39,1:09:05,Sorensen,2024-05-16,8.2
+3,PRO/EXPERT WOMEN,9,Sage Jorgenson,316,36,1:09:08,Sorensen,2024-05-16,8.2
+3,PRO/EXPERT WOMEN,10,Brynlee Bingham,301,33,1:09:46,Sorensen,2024-05-16,8.1
+3,PRO/EXPERT WOMEN,11,Christina Perry,305,30,1:10:27,Sorensen,2024-05-16,8.0
+3,EXPERT B,1,Eric Dupuis,429,80,0:50:24,Sorensen,2024-05-16,10.1
+3,EXPERT B,2,Jacob Jensen,417,73,0:52:13,Sorensen,2024-05-16,9.8
+3,EXPERT B,3,Blake Botten,428,66,0:55:05,Sorensen,2024-05-16,9.2
+3,EXPERT B,4,Paul Hadlock,405,59,0:55:44,Sorensen,2024-05-16,9.1
+3,EXPERT B,5,Talan Reese,426,54,0:55:56,Sorensen,2024-05-16,9.1
+3,EXPERT B,6,Nathanicus Mcclarkensburger,409,49,0:56:09,Sorensen,2024-05-16,9.1
+3,EXPERT B,7,Cory Larsen,407,44,0:56:29,Sorensen,2024-05-16,9.0
+3,EXPERT B,8,Tyler Perry,406,39,0:57:49,Sorensen,2024-05-16,8.8
+3,EXPERT B,9,Ben Severson,416,36,0:58:08,Sorensen,2024-05-16,8.8
+3,EXPERT B,10,Keith Payne,415,33,1:00:21,Sorensen,2024-05-16,8.4
+3,EXPERT B,11,Tyler Jukes,430,30,1:03:03,Sorensen,2024-05-16,8.1
+3,EXPERT B,12,Cash Russell,422,27,1:10:36,Sorensen,2024-05-16,7.2
+3,EXPERT B,DNF,Jordan Thurston,403,2,,Sorensen,2024-05-16,
+3,EXPERT C,1,Jerry Brown,511,80,0:56:01,Sorensen,2024-05-16,9.1
+3,EXPERT C,2,Jeff Clark,512,73,0:56:03,Sorensen,2024-05-16,9.1
+3,EXPERT C,3,Luis Muzquiz,514,66,0:56:05,Sorensen,2024-05-16,9.1
+3,EXPERT C,4,Cameron Hill,505,59,0:58:44,Sorensen,2024-05-16,8.7
+3,EXPERT C,5,Darren Wiberg,502,54,0:59:19,Sorensen,2024-05-16,8.6
+3,EXPERT C,6,Brian Blumer,522,49,0:59:21,Sorensen,2024-05-16,8.6
+3,EXPERT C,7,Fred Wittleder,517,44,1:00:09,Sorensen,2024-05-16,8.5
+3,EXPERT C,8,Cole Gonsalves,526,39,1:00:31,Sorensen,2024-05-16,8.4
+3,EXPERT C,9,Kerry Smith,501,36,1:01:20,Sorensen,2024-05-16,8.3
+3,EXPERT C,10,Johnnie Gonsalves,516,33,1:02:11,Sorensen,2024-05-16,8.2
+3,EXPERT C,11,Laura Jorgenson,523,30,1:03:33,Sorensen,2024-05-16,8.0
+3,EXPERT C,12,Calvin Cahoon,509,27,1:04:22,Sorensen,2024-05-16,7.9
+3,EXPERT C,13,Jayson Vincent,507,24,1:10:48,Sorensen,2024-05-16,7.2
+3,EXPERT C,14,Jared Payne,524,21,1:26:53,Sorensen,2024-05-16,5.8
+3,EXPERT C,DNF,Craig Farnsworth,508,2,,Sorensen,2024-05-16,
+3,SPORT A,1,Alta Miller,607,80,0:51:28,Sorensen,2024-05-16,8.6
+3,SPORT A,2,Jensen Paterson,606,73,0:52:51,Sorensen,2024-05-16,8.4
+3,SPORT A,3,Thomas Hansen,605,66,0:59:07,Sorensen,2024-05-16,7.5
+3,SPORT A,4,Jessica Averett,621,59,1:02:18,Sorensen,2024-05-16,7.1
+3,SPORT A,5,Tyson Widdison,601,54,1:07:57,Sorensen,2024-05-16,6.5
+3,SPORT A,6,Becky Blaser,603,49,1:09:24,Sorensen,2024-05-16,6.4
+3,SPORT A,7,Ryan Cartwright,610,44,1:19:17,Sorensen,2024-05-16,5.6
+3,SPORT A,DNF,Brody Smith,619,2,,Sorensen,2024-05-16,
+3,SPORT B,1,Griffen H,726,80,0:34:18,Sorensen,2024-05-16,8.2
+3,SPORT B,2,Chase O'Neil,705,73,0:34:21,Sorensen,2024-05-16,8.2
+3,SPORT B,3,Bridger Wilson,717,66,0:35:21,Sorensen,2024-05-16,8.0
+3,SPORT B,4,Jackson Bingham,704,59,0:35:24,Sorensen,2024-05-16,8.0
+3,SPORT B,5,Levi Blumer,722,54,0:35:25,Sorensen,2024-05-16,8.0
+3,SPORT B,6,Elias Kahler,724,49,0:37:03,Sorensen,2024-05-16,7.6
+3,SPORT B,7,Preston Willey,728,44,0:37:25,Sorensen,2024-05-16,7.6
+3,SPORT B,8,Dylan Jerman,707,39,0:41:48,Sorensen,2024-05-16,6.8
+3,SPORT B,9,Thomas Jensen,727,36,0:42:01,Sorensen,2024-05-16,6.7
+3,SPORT B,10,Richard Matheson,719,33,0:46:34,Sorensen,2024-05-16,6.1
+3,SPORT B,11,Matt Cahoon,701,30,0:49:50,Sorensen,2024-05-16,5.7
+3,SPORT WOMEN,1,Patty Rice,812,80,0:36:56,Sorensen,2024-05-16,7.6
+3,SPORT WOMEN,2,Hillary Brown,808,73,0:37:41,Sorensen,2024-05-16,7.5
+3,SPORT WOMEN,3,Kristi Phillips,824,66,0:37:42,Sorensen,2024-05-16,7.5
+3,SPORT WOMEN,4,Sydney Reese,826,59,0:43:11,Sorensen,2024-05-16,6.5
+3,SPORT WOMEN,5,Reese Phillips,825,54,0:44:52,Sorensen,2024-05-16,6.3
+3,SPORT WOMEN,6,Linda Matheson,801,49,0:45:33,Sorensen,2024-05-16,6.2
+3,SPORT WOMEN,7,Cora Hansen,802,44,0:53:07,Sorensen,2024-05-16,5.3
+3,JUNIOR,1,Isaac Miller,903,80,0:30:08,Sorensen,2024-05-16,7.5
+3,JUNIOR,2,Landon Averett,917,73,0:32:21,Sorensen,2024-05-16,7.0
+3,JUNIOR,3,Connor Averett,916,66,0:33:26,Sorensen,2024-05-16,6.8
+3,JUNIOR,4,Darian Dash Bingham,902,59,0:34:24,Sorensen,2024-05-16,6.6
+3,JUNIOR,5,Daxton Rollins,904,54,0:35:15,Sorensen,2024-05-16,6.4
+3,JUNIOR,6,Nate Jacobsen,905,49,0:39:04,Sorensen,2024-05-16,5.8
+3,JUNIOR,7,Kyrie Bingham,906,44,0:46:20,Sorensen,2024-05-16,4.9
+3,BEGINNER,1,Archer Olson,1014,80,0:20:50,Sorensen,2024-05-16,7.7
+3,BEGINNER,2,Cannon Cartwright,1005,73,0:24:35,Sorensen,2024-05-16,6.6
+3,BEGINNER,3,Dunken Paterson,1007,66,0:25:49,Sorensen,2024-05-16,6.2
+3,BEGINNER,4,Cody Blumer,1017,59,0:27:40,Sorensen,2024-05-16,5.8
+3,BEGINNER,5,Jay Jacobsen,1002,54,0:28:00,Sorensen,2024-05-16,5.8
+4,PRO,1,Spencer Maughan,42,80,1:14:59,Euclid,2024-05-23,11.0
+4,PRO,2,Tanner Gillespie,27,73,1:20:01,Euclid,2024-05-23,10.3
+4,PRO,3,Thomas Cahoon,15,66,1:22:02,Euclid,2024-05-23,10.0
+4,SEMI-PRO,1,Val Gibson,101,80,1:01:49,Euclid,2024-05-23,10.6
+4,SEMI-PRO,2,Nate Miller,109,73,1:02:14,Euclid,2024-05-23,10.6
+4,SEMI-PRO,3,Scott Preston,112,66,1:03:01,Euclid,2024-05-23,10.4
+4,SEMI-PRO,4,Clayton Morrill,131,59,1:03:19,Euclid,2024-05-23,10.4
+4,SEMI-PRO,5,Jamison Burton,137,54,1:03:44,Euclid,2024-05-23,10.3
+4,SEMI-PRO,6,Brandon Smith,116,49,1:03:48,Euclid,2024-05-23,10.3
+4,SEMI-PRO,7,Tyler Ashworth,134,44,1:05:06,Euclid,2024-05-23,10.1
+4,SEMI-PRO,8,Quinn Jacobsen,106,39,1:05:06,Euclid,2024-05-23,10.1
+4,SEMI-PRO,9,Woody,0,36,1:06:16,Euclid,2024-05-23,9.9
+4,SEMI-PRO,10,Cody Shepherd,107,33,1:06:43,Euclid,2024-05-23,9.8
+4,SEMI-PRO,11,Jake Broussard,126,30,1:07:17,Euclid,2024-05-23,9.8
+4,SEMI-PRO,12,Nick Birch,108,27,1:10:04,Euclid,2024-05-23,9.4
+4,SEMI-PRO,13,Luke Cahoon,113,24,1:10:12,Euclid,2024-05-23,9.3
+4,SEMI-PRO,14,Brian Ressa,110,21,1:14:12,Euclid,2024-05-23,8.8
+4,SEMI-PRO,15,Dan Nelson,111,18,1:24:38,Euclid,2024-05-23,7.7
+4,SEMI-PRO,DNF,Charlie Sims,139,1,,Euclid,2024-05-23,
+4,SEMI-PRO,DNF,Matt Frisby,102,1,,Euclid,2024-05-23,
+4,SEMI-PRO,DNF,Matt Parker,556,1,,Euclid,2024-05-23,
+4,EXPERT A,1,Jacob Miller,209,80,1:04:52,Euclid,2024-05-23,10.1
+4,EXPERT A,2,Gregory Jacobs,230,73,1:04:59,Euclid,2024-05-23,10.1
+4,EXPERT A,3,Jansen Payne,201,66,1:05:01,Euclid,2024-05-23,10.1
+4,EXPERT A,4,Mike Madsen,202,59,1:08:01,Euclid,2024-05-23,9.7
+4,EXPERT A,5,Harry Mccoard,208,54,1:09:02,Euclid,2024-05-23,9.5
+4,EXPERT A,6,Alex Larsen,212,49,1:10:06,Euclid,2024-05-23,9.4
+4,EXPERT A,7,Garrett Allred,256,44,1:10:34,Euclid,2024-05-23,9.3
+4,EXPERT A,8,Tripp Kay,255,39,1:10:55,Euclid,2024-05-23,9.3
+4,EXPERT A,9,Lewis Stewart,249,36,1:12:15,Euclid,2024-05-23,9.1
+4,EXPERT A,10,Blake Hadlock,254,33,1:20:57,Euclid,2024-05-23,8.1
+4,EXPERT A,11,Spencer Freeman,206,30,1:22:01,Euclid,2024-05-23,8.0
+4,EXPERT A,DNF,Rhys Louis,229,1,,Euclid,2024-05-23,
+4,EXPERT A,DNF,Parker Goodwin,253,1,,Euclid,2024-05-23,
+4,EXPERT A,DNF,Cameron Gibby,211,1,,Euclid,2024-05-23,
+4,PRO/EXPERT WOMEN,1,Rachel Miller,302,80,0:54:56,Euclid,2024-05-23,9.0
+4,PRO/EXPERT WOMEN,2,Anna Cox,318,73,0:55:24,Euclid,2024-05-23,8.9
+4,PRO/EXPERT WOMEN,3,Hadley Peay,323,66,0:57:08,Euclid,2024-05-23,8.6
+4,PRO/EXPERT WOMEN,4,Kadence Preston,303,59,1:00:40,Euclid,2024-05-23,8.1
+4,PRO/EXPERT WOMEN,5,Brooke Lyman,327,54,1:01:30,Euclid,2024-05-23,8.0
+4,PRO/EXPERT WOMEN,6,Brynlee Bingham,301,49,1:01:35,Euclid,2024-05-23,8.0
+4,PRO/EXPERT WOMEN,7,Christina Perry,305,44,1:02:19,Euclid,2024-05-23,7.9
+4,PRO/EXPERT WOMEN,8,Kylee Mendenhall,313,39,1:02:28,Euclid,2024-05-23,7.9
+4,PRO/EXPERT WOMEN,9,Kristi Mcilmoil,304,36,1:03:58,Euclid,2024-05-23,7.7
+4,PRO/EXPERT WOMEN,10,Grace Powell,329,33,1:05:21,Euclid,2024-05-23,7.5
+4,PRO/EXPERT WOMEN,11,Lucy Powell,328,30,1:05:28,Euclid,2024-05-23,7.5
+4,PRO/EXPERT WOMEN,12,Maya Cox,326,27,1:08:57,Euclid,2024-05-23,7.1
+4,PRO/EXPERT WOMEN,13,Katie Costello,330,24,1:15:44,Euclid,2024-05-23,6.5
+4,EXPERT B,1,Matthew Muhlestein,432,80,0:50:34,Euclid,2024-05-23,9.7
+4,EXPERT B,2,Jordan Thurston,403,73,0:52:44,Euclid,2024-05-23,9.3
+4,EXPERT B,3,Eric Myers,433,66,0:55:32,Euclid,2024-05-23,8.9
+4,EXPERT B,4,Cory Larsen,407,59,0:56:28,Euclid,2024-05-23,8.7
+4,EXPERT B,5,Paul Hadlock,405,54,0:57:37,Euclid,2024-05-23,8.5
+4,EXPERT B,6,Nathanicus Mcclarkensburger,409,49,0:58:14,Euclid,2024-05-23,8.4
+4,EXPERT B,7,Ben Severson,416,44,0:58:33,Euclid,2024-05-23,8.4
+4,EXPERT B,8,Tyler Perry,406,39,0:58:40,Euclid,2024-05-23,8.4
+4,EXPERT B,9,Dennis Muhlestein,431,36,0:59:43,Euclid,2024-05-23,8.2
+4,EXPERT B,10,Keith Payne,415,33,0:59:54,Euclid,2024-05-23,8.2
+4,EXPERT C,1,Dallan Robbins,506,80,0:55:00,Euclid,2024-05-23,8.9
+4,EXPERT C,2,Jerry Brown,511,73,0:56:33,Euclid,2024-05-23,8.7
+4,EXPERT C,3,Jeff Clark,512,66,0:58:42,Euclid,2024-05-23,8.4
+4,EXPERT C,4,Matt Stewart,519,59,1:01:52,Euclid,2024-05-23,7.9
+4,EXPERT C,5,Kerry Smith,501,54,1:02:20,Euclid,2024-05-23,7.9
+4,EXPERT C,6,Calvin Cahoon,509,49,1:03:09,Euclid,2024-05-23,7.8
+4,EXPERT C,7,Cole Gonsalves,526,44,1:03:26,Euclid,2024-05-23,7.8
+4,EXPERT C,8,Johnnie Gonsalves,516,39,1:04:51,Euclid,2024-05-23,7.6
+4,EXPERT C,9,Josh Hogge,525,36,1:05:54,Euclid,2024-05-23,7.5
+4,EXPERT C,10,Jayson Vincent,507,33,1:05:57,Euclid,2024-05-23,7.5
+4,EXPERT C,11,Mike Rossberg,528,30,1:11:18,Euclid,2024-05-23,6.9
+4,EXPERT C,12,Matthias Hulme,527,27,1:11:44,Euclid,2024-05-23,6.9
+4,EXPERT C,13,Jared Payne,524,24,1:22:45,Euclid,2024-05-23,5.9
+4,EXPERT C,DNF,Craig Farnsworth,508,1,,Euclid,2024-05-23,
+4,SPORT A,1,Hendrick Wussow,622,80,0:37:15,Euclid,2024-05-23,8.8
+4,SPORT A,2,Brody Smith,619,73,0:39:46,Euclid,2024-05-23,8.2
+4,SPORT A,3,Alta Miller,607,66,0:40:36,Euclid,2024-05-23,8.1
+4,SPORT A,4,Jensen Paterson,606,59,0:41:38,Euclid,2024-05-23,7.9
+4,SPORT A,5,Conner Jones,611,54,0:43:01,Euclid,2024-05-23,7.6
+4,SPORT A,6,Thomas Hansen,605,49,0:45:38,Euclid,2024-05-23,7.2
+4,SPORT A,7,David Williams,623,44,0:49:29,Euclid,2024-05-23,6.6
+4,SPORT A,8,Tyson Widdison,601,39,0:50:59,Euclid,2024-05-23,6.4
+4,SPORT A,9,Becky Blaser,603,36,0:54:05,Euclid,2024-05-23,6.1
+4,SPORT B,1,Archer Olson,730,80,0:44:58,Euclid,2024-05-23,7.3
+4,SPORT B,2,Steve Powell,732,73,0:46:53,Euclid,2024-05-23,7.0
+4,SPORT B,3,Jackson Bingham,704,66,0:48:30,Euclid,2024-05-23,6.8
+4,SPORT B,4,Dylan Jerman,707,59,0:50:37,Euclid,2024-05-23,6.5
+4,SPORT B,5,Matt Cahoon,701,54,0:55:40,Euclid,2024-05-23,5.9
+4,SPORT B,6,Richard Matheson,719,49,0:55:51,Euclid,2024-05-23,5.9
+4,SPORT B,DNF,Scott Jones,729,1,,Euclid,2024-05-23,
+4,SPORT WOMEN,1,Phoebe Myers,827,80,0:44:50,Euclid,2024-05-23,7.3
+4,SPORT WOMEN,2,Hillary Brown,808,73,0:45:56,Euclid,2024-05-23,7.1
+4,SPORT WOMEN,3,Patty Rice,812,66,0:49:03,Euclid,2024-05-23,6.7
+4,SPORT WOMEN,4,Curly Myers,828,59,0:50:09,Euclid,2024-05-23,6.5
+4,SPORT WOMEN,5,Linda Matheson,801,54,0:53:54,Euclid,2024-05-23,6.1
+4,SPORT WOMEN,DNF,Amy Williams,829,1,,Euclid,2024-05-23,
+4,JUNIOR,1,Kai Erickson,918,80,0:41:09,Euclid,2024-05-23,8.0
+4,JUNIOR,2,Darian Dash Bingham,902,73,0:46:59,Euclid,2024-05-23,7.0
+4,JUNIOR,3,Isaac Miller,903,66,0:47:40,Euclid,2024-05-23,6.9
+4,JUNIOR,4,Nate Jacobsen,905,59,0:51:06,Euclid,2024-05-23,6.4
+4,JUNIOR,5,Kason Mendenhall,910,54,0:52:38,Euclid,2024-05-23,6.2
+4,JUNIOR,6,K. Love Myers,919,49,0:54:56,Euclid,2024-05-23,6.0
+4,JUNIOR,7,Kyrie Bingham,906,44,1:16:08,Euclid,2024-05-23,4.3
+4,JUNIOR,DNF,Daxton Rollins,904,1,,Euclid,2024-05-23,
+4,JUNIOR,DNF,Natalie Southard,920,1,,Euclid,2024-05-23,
+4,BEGINNER,1,Jackson Strauss,1029,80,0:24:03,Euclid,2024-05-23,6.8
+4,BEGINNER,2,Nate Myers,1026,73,0:29:24,Euclid,2024-05-23,5.6
+4,BEGINNER,3,Dunken Paterson,1007,66,0:30:06,Euclid,2024-05-23,5.4
+4,BEGINNER,4,Will Myers,1027,59,0:31:55,Euclid,2024-05-23,5.1
+4,BEGINNER,5,Jessy Williams,1031,54,0:33:15,Euclid,2024-05-23,4.9
+4,BEGINNER,6,Jay Jacobsen,1002,49,0:38:06,Euclid,2024-05-23,4.3
+4,BEGINNER,7,Xander Preston,1032,44,0:41:10,Euclid,2024-05-23,4.0
+4,BEGINNER,8,Keira Williams,1030,39,0:48:24,Euclid,2024-05-23,3.4
+4,BEGINNER,9,Taylee Rollins,1028,36,0:54:20,Euclid,2024-05-23,3.0
+5,PRO,1,Cameron Larson,28,80,1:06:17,Sundance,2024-05-29,10.3
+5,PRO,2,Chris Holley,21,73,1:06:38,Sundance,2024-05-29,10.2
+5,PRO,3,Andrew Conover,2,66,1:06:38,Sundance,2024-05-29,10.2
+5,PRO,4,Spencer Maughan,42,59,1:11:07,Sundance,2024-05-29,9.6
+5,PRO,5,Thomas Cahoon,15,54,1:22:12,Sundance,2024-05-29,8.3
+5,SEMI-PRO,1,Dan Nelson,111,80,1:06:40,Sundance,2024-05-29,9.1
+5,SEMI-PRO,2,Chelsea Bolton,140,73,1:06:44,Sundance,2024-05-29,9.0
+5,SEMI-PRO,3,Nate Miller,109,66,1:07:15,Sundance,2024-05-29,9.0
+5,SEMI-PRO,4,Griffin Park,143,59,1:07:56,Sundance,2024-05-29,8.9
+5,SEMI-PRO,5,Jaxon Hadlock,141,54,1:08:24,Sundance,2024-05-29,8.8
+5,SEMI-PRO,6,Val Gibson,101,49,1:08:56,Sundance,2024-05-29,8.8
+5,SEMI-PRO,7,Brandon Smith,116,44,1:09:49,Sundance,2024-05-29,8.6
+5,SEMI-PRO,8,Matt Frisby,102,39,1:13:13,Sundance,2024-05-29,8.2
+5,SEMI-PRO,9,Luke Cahoon,113,36,1:13:59,Sundance,2024-05-29,8.2
+5,SEMI-PRO,10,Brock Olson,128,33,1:14:26,Sundance,2024-05-29,8.1
+5,SEMI-PRO,11,James Lewis,142,30,1:14:35,Sundance,2024-05-29,8.1
+5,SEMI-PRO,12,Brian Ressa,110,27,1:14:52,Sundance,2024-05-29,8.1
+5,SEMI-PRO,13,Cody Shepherd,107,24,1:15:41,Sundance,2024-05-29,8.0
+5,SEMI-PRO,14,Nick Birch,108,21,1:16:35,Sundance,2024-05-29,7.9
+5,SEMI-PRO,15,Quinn Jacobsen,106,18,1:20:18,Sundance,2024-05-29,7.5
+5,SEMI-PRO,DNF,Johnny Pedersen,145,1,,Sundance,2024-05-29,
+5,SEMI-PRO,DNF,Josey Apostol,0,1,,Sundance,2024-05-29,
+5,SEMI-PRO,DNF,Ezra Sumner,132,1,,Sundance,2024-05-29,
+5,EXPERT A,1,Gregory Jacobs,230,80,0:56:44,Sundance,2024-05-29,8.5
+5,EXPERT A,2,Seth Bradley,224,73,0:56:45,Sundance,2024-05-29,8.5
+5,EXPERT A,3,Cameron Gibby,211,66,0:57:25,Sundance,2024-05-29,8.4
+5,EXPERT A,4,Jansen Payne,201,59,0:57:37,Sundance,2024-05-29,8.4
+5,EXPERT A,5,Mike Ranzinger,226,54,0:58:00,Sundance,2024-05-29,8.4
+5,EXPERT A,6,Alex Larsen,212,49,0:59:03,Sundance,2024-05-29,8.2
+5,EXPERT A,7,Tripp Kay,255,44,0:59:55,Sundance,2024-05-29,8.1
+5,EXPERT A,8,Brandon Hill,218,39,1:00:11,Sundance,2024-05-29,8.1
+5,EXPERT A,9,Harry Mccoard,208,36,1:00:27,Sundance,2024-05-29,8.0
+5,EXPERT A,10,Jeffrey Previte,238,33,1:01:24,Sundance,2024-05-29,7.9
+5,EXPERT A,11,Joe Reese,242,30,1:01:55,Sundance,2024-05-29,7.8
+5,EXPERT A,12,Lewis Stewart,249,27,1:02:14,Sundance,2024-05-29,7.8
+5,EXPERT A,13,Ryder Warnock,204,24,1:02:58,Sundance,2024-05-29,7.7
+5,EXPERT A,14,Blake Hadlock,254,21,1:08:42,Sundance,2024-05-29,7.1
+5,EXPERT A,15,Eli Johns,207,18,1:09:45,Sundance,2024-05-29,6.9
+5,PRO/EXPERT WOMEN,1,Ava Larson,331,80,0:54:34,Sundance,2024-05-29,8.9
+5,PRO/EXPERT WOMEN,2,Nina Schamberger,324,73,1:00:10,Sundance,2024-05-29,8.1
+5,PRO/EXPERT WOMEN,3,Rachel Miller,302,66,1:01:27,Sundance,2024-05-29,7.9
+5,PRO/EXPERT WOMEN,4,Hadley Peay,323,59,1:01:30,Sundance,2024-05-29,7.9
+5,PRO/EXPERT WOMEN,5,Kristi Mcilmoil,304,54,1:08:05,Sundance,2024-05-29,7.1
+5,PRO/EXPERT WOMEN,6,Jeanette Pierce,332,49,1:10:05,Sundance,2024-05-29,6.9
+5,PRO/EXPERT WOMEN,7,Christina Perry,305,44,1:10:17,Sundance,2024-05-29,6.9
+5,PRO/EXPERT WOMEN,8,Brynlee Bingham,301,39,1:11:47,Sundance,2024-05-29,6.7
+5,PRO/EXPERT WOMEN,9,Grace Taylor,333,36,1:13:03,Sundance,2024-05-29,6.6
+5,PRO/EXPERT WOMEN,10,Zina Price,325,33,1:14:23,Sundance,2024-05-29,6.5
+5,EXPERT B,1,Carson Seegmiller,436,80,0:48:12,Sundance,2024-05-29,8.4
+5,EXPERT B,2,Jacob Jensen,417,73,0:49:55,Sundance,2024-05-29,8.2
+5,EXPERT B,3,Nathanicus,409,66,0:50:03,Sundance,2024-05-29,8.1
+5,EXPERT B,4,Matthew Muhlestein,432,59,0:50:37,Sundance,2024-05-29,8.0
+5,EXPERT B,5,Seth Sunderlage,437,54,0:50:43,Sundance,2024-05-29,8.0
+5,EXPERT B,6,Eric Dupuis,429,49,0:51:04,Sundance,2024-05-29,8.0
+5,EXPERT B,7,Jordan Thurston,403,44,0:54:26,Sundance,2024-05-29,7.5
+5,EXPERT B,8,Crozier Kimball,434,39,0:54:46,Sundance,2024-05-29,7.4
+5,EXPERT B,9,Talan Reese,426,36,0:55:43,Sundance,2024-05-29,7.3
+5,EXPERT B,10,Carey Pierce,435,33,0:55:53,Sundance,2024-05-29,7.3
+5,EXPERT B,11,Ben Severson,416,30,0:56:46,Sundance,2024-05-29,7.2
+5,EXPERT B,12,Cory Larsen,407,27,0:57:02,Sundance,2024-05-29,7.1
+5,EXPERT B,13,Dennis Muhlestein,431,24,0:57:19,Sundance,2024-05-29,7.1
+5,EXPERT B,14,John Mcilmoil,408,21,0:57:39,Sundance,2024-05-29,7.1
+5,EXPERT B,15,Paul Hadlock,405,18,0:58:57,Sundance,2024-05-29,6.9
+5,EXPERT B,16,Keith Payne,415,15,0:59:02,Sundance,2024-05-29,6.9
+5,EXPERT B,17,Tyler Jukes,430,12,1:00:34,Sundance,2024-05-29,6.7
+5,EXPERT B,18,Tyler Perry,406,9,1:00:40,Sundance,2024-05-29,6.7
+5,EXPERT C,1,Austin Miner,520,80,0:56:35,Sundance,2024-05-29,7.2
+5,EXPERT C,2,Jerry Brown,511,73,0:57:28,Sundance,2024-05-29,7.1
+5,EXPERT C,3,Shane Jenson,530,66,0:57:29,Sundance,2024-05-29,7.1
+5,EXPERT C,4,Dallan Robbins,506,59,0:57:54,Sundance,2024-05-29,7.0
+5,EXPERT C,5,Jeff Clark,512,54,0:58:36,Sundance,2024-05-29,6.9
+5,EXPERT C,6,Brian Blumer,522,49,0:58:37,Sundance,2024-05-29,6.9
+5,EXPERT C,7,Jacob Rogers,510,44,1:00:54,Sundance,2024-05-29,6.7
+5,EXPERT C,8,Johnnie Gonsalves,516,39,1:01:28,Sundance,2024-05-29,6.6
+5,EXPERT C,9,Kerry Smith,501,36,1:01:55,Sundance,2024-05-29,6.6
+5,EXPERT C,10,Matt Stewart,519,33,1:04:03,Sundance,2024-05-29,6.3
+5,EXPERT C,11,Calvin Cahoon,509,30,1:04:40,Sundance,2024-05-29,6.3
+5,EXPERT C,12,Cameron Hill,505,27,1:05:49,Sundance,2024-05-29,6.2
+5,EXPERT C,13,Matthias Hulme,527,24,1:06:25,Sundance,2024-05-29,6.1
+5,EXPERT C,14,Jayson Vincent,507,21,1:07:57,Sundance,2024-05-29,6.0
+5,EXPERT C,15,Mike Rossberg,528,18,1:10:19,Sundance,2024-05-29,5.8
+5,EXPERT C,16,Jared Payne,524,15,1:25:06,Sundance,2024-05-29,4.8
+5,SPORT A,1,Hendrick Wussow,622,80,0:41:57,Sundance,2024-05-29,8.0
+5,SPORT A,2,Jensen Paterson,606,73,0:48:31,Sundance,2024-05-29,6.9
+5,SPORT A,3,Alta Miller,607,66,0:48:56,Sundance,2024-05-29,6.9
+5,SPORT A,4,Brody Smith,619,59,0:49:07,Sundance,2024-05-29,6.9
+5,SPORT A,5,Grant Lewis,620,54,0:50:14,Sundance,2024-05-29,6.7
+5,SPORT A,6,John Taylor,616,49,0:56:54,Sundance,2024-05-29,5.9
+5,SPORT A,7,Thomas Hansen,605,44,0:57:53,Sundance,2024-05-29,5.8
+5,SPORT A,8,Carter Bingham,618,39,0:59:05,Sundance,2024-05-29,5.7
+5,SPORT A,9,Blake Rollins,615,36,1:01:13,Sundance,2024-05-29,5.5
+5,SPORT A,10,Tyson Widdison,601,33,1:04:49,Sundance,2024-05-29,5.2
+5,SPORT B,1,Benjamin Preece,716,80,0:40:47,Sundance,2024-05-29,7.1
+5,SPORT B,2,Zac Rollins,708,73,0:43:25,Sundance,2024-05-29,6.6
+5,SPORT B,3,Archer Olson,730,66,0:44:20,Sundance,2024-05-29,6.5
+5,SPORT B,4,Bridger Wilson,717,59,0:45:54,Sundance,2024-05-29,6.3
+5,SPORT B,5,Kimball Gay,713,54,0:47:05,Sundance,2024-05-29,6.1
+5,SPORT B,6,Rich Rollins,712,49,0:47:13,Sundance,2024-05-29,6.1
+5,SPORT B,7,Levi Blumer,722,44,0:48:18,Sundance,2024-05-29,6.0
+5,SPORT B,8,Jackson Bingham,704,39,0:51:27,Sundance,2024-05-29,5.6
+5,SPORT B,9,Thomas Jensen,727,36,0:53:33,Sundance,2024-05-29,5.4
+5,SPORT B,10,Dylan Jerman,707,33,0:54:47,Sundance,2024-05-29,5.3
+5,SPORT B,DNF,Matt Cahoon,701,1,,Sundance,2024-05-29,
+5,SPORT WOMEN,1,Megan Bradley,815,80,0:45:17,Sundance,2024-05-29,6.4
+5,SPORT WOMEN,2,Georgia Bradley,830,73,0:46:42,Sundance,2024-05-29,6.2
+5,SPORT WOMEN,3,Patty Rice,812,66,0:48:58,Sundance,2024-05-29,5.9
+5,SPORT WOMEN,4,Hillary Brown,808,59,0:50:41,Sundance,2024-05-29,5.7
+5,SPORT WOMEN,5,Jenna Chipman,817,54,0:57:21,Sundance,2024-05-29,5.0
+5,SPORT WOMEN,6,Ariann Apostol,804,49,1:00:04,Sundance,2024-05-29,4.8
+5,JUNIOR,1,Truman Miner,914,80,0:37:19,Sundance,2024-05-29,5.6
+5,JUNIOR,2,Isaac Miller,903,73,0:37:34,Sundance,2024-05-29,5.6
+5,JUNIOR,3,Darian Dash Bingham,902,66,0:39:14,Sundance,2024-05-29,5.4
+5,JUNIOR,4,Nate Jacobsen,905,59,0:40:50,Sundance,2024-05-29,5.2
+5,JUNIOR,5,Lucy Nelson,922,54,0:44:14,Sundance,2024-05-29,4.8
+5,JUNIOR,6,Eden Hadlock,921,49,0:53:56,Sundance,2024-05-29,3.9
+5,JUNIOR,7,Kyrie Bingham,906,44,0:54:00,Sundance,2024-05-29,3.9
+5,BEGINNER,1,Maya Holley,1033,80,0:31:55,Sundance,2024-05-29,5.3
+5,BEGINNER,2,Edmond Reese,1035,73,0:32:16,Sundance,2024-05-29,5.2
+5,BEGINNER,3,Dunken Paterson,1007,66,0:33:15,Sundance,2024-05-29,5.1
+5,BEGINNER,4,Cody Blumer,1017,59,0:33:24,Sundance,2024-05-29,5.1
+5,BEGINNER,5,Jay Jacobsen,1002,54,0:35:46,Sundance,2024-05-29,4.7
+5,BEGINNER,6,Nathan Kerman,1034,49,0:39:13,Sundance,2024-05-29,4.3
+5,BEGINNER,7,Amy Kerman,1018,44,0:42:04,Sundance,2024-05-29,4.0
+5,BEGINNER,8,Dan Kerman,1019,39,0:49:55,Sundance,2024-05-29,3.4
+6,PRO,1,John Wessling,31,80,1:01:29,Sundance,2024-06-05,11.1
+6,PRO,2,Andrew Conover,2,73,1:02:16,Sundance,2024-06-05,11.0
+6,PRO,3,Tyson Mcclellan,12,66,1:02:59,Sundance,2024-06-05,10.8
+6,PRO,4,Chris Holley,21,59,1:03:47,Sundance,2024-06-05,10.7
+6,PRO,5,Shane Charles,30,54,1:06:51,Sundance,2024-06-05,10.2
+6,PRO,6,Spencer Maughan,42,49,1:06:58,Sundance,2024-06-05,10.2
+6,PRO,7,Tanner Gillespie,27,44,1:08:45,Sundance,2024-06-05,9.9
+6,PRO,8,Tanner Burr,7,39,1:10:03,Sundance,2024-06-05,9.7
+6,PRO,9,Thomas Cahoon,15,36,1:11:22,Sundance,2024-06-05,9.5
+6,PRO,10,Mark Tuttle,1,33,1:11:37,Sundance,2024-06-05,9.5
+6,PRO,11,Cameron Averett,3,30,1:11:51,Sundance,2024-06-05,9.5
+6,PRO,12,Geophri Montague,26,27,1:13:19,Sundance,2024-06-05,9.3
+6,PRO,13,Easton Gray,10,24,1:13:53,Sundance,2024-06-05,9.2
+6,PRO,14,Brandon Firth,25,21,1:15:05,Sundance,2024-06-05,9.1
+6,PRO,DNF,Isaac Teerlink,33,1,,Sundance,2024-06-05,
+6,SEMI-PRO,1,Scott Preston,112,80,1:01:25,Sundance,2024-06-05,9.8
+6,SEMI-PRO,2,Asher Pope,148,73,1:02:16,Sundance,2024-06-05,9.7
+6,SEMI-PRO,3,Val Gibson,101,66,1:04:01,Sundance,2024-06-05,9.4
+6,SEMI-PRO,4,Brandon Smith,116,59,1:05:34,Sundance,2024-06-05,9.2
+6,SEMI-PRO,5,Pearson Wallace,149,54,1:06:25,Sundance,2024-06-05,9.1
+6,SEMI-PRO,6,Matt Parker,556,49,1:07:56,Sundance,2024-06-05,8.9
+6,SEMI-PRO,7,Max Gough,147,44,1:08:29,Sundance,2024-06-05,8.8
+6,SEMI-PRO,8,Luke Cahoon,113,39,1:10:51,Sundance,2024-06-05,8.5
+6,SEMI-PRO,9,Nick Birch,108,36,1:11:12,Sundance,2024-06-05,8.5
+6,SEMI-PRO,10,Brian Ressa,110,33,1:11:40,Sundance,2024-06-05,8.4
+6,SEMI-PRO,11,Cody Shepherd,107,30,1:12:54,Sundance,2024-06-05,8.3
+6,SEMI-PRO,12,Josey Apostol,0,27,1:18:43,Sundance,2024-06-05,7.7
+6,SEMI-PRO,DNF,Quinn Jacobsen,106,1,,Sundance,2024-06-05,
+6,SEMI-PRO,DNF,Bryson Rowley,136,1,,Sundance,2024-06-05,
+6,SEMI-PRO,DNF,Joshua Blake,146,1,,Sundance,2024-06-05,
+6,EXPERT A,1,Michael Broderick,222,80,0:51:02,Sundance,2024-06-05,9.5
+6,EXPERT A,2,Jacob Miller,209,73,0:51:02,Sundance,2024-06-05,9.5
+6,EXPERT A,3,Cannon Christiansen,258,66,0:53:05,Sundance,2024-06-05,9.1
+6,EXPERT A,4,Cameron Gibby,211,59,0:54:14,Sundance,2024-06-05,8.9
+6,EXPERT A,5,Mike Madsen,202,54,0:54:48,Sundance,2024-06-05,8.8
+6,EXPERT A,6,Wyatt Chambers,257,49,0:54:57,Sundance,2024-06-05,8.8
+6,EXPERT A,7,Alex Larsen,212,44,0:55:48,Sundance,2024-06-05,8.7
+6,EXPERT A,8,Kade Gray,252,39,0:57:02,Sundance,2024-06-05,8.5
+6,EXPERT A,9,Ashton Webster,262,36,0:57:41,Sundance,2024-06-05,8.4
+6,EXPERT A,10,Tripp Kay,255,33,0:58:25,Sundance,2024-06-05,8.3
+6,EXPERT A,11,Brandon Hill,218,30,0:59:12,Sundance,2024-06-05,8.2
+6,EXPERT A,12,Heber Anderson,250,27,0:59:43,Sundance,2024-06-05,8.1
+6,EXPERT A,13,Jared Gonzalez-Perez,259,24,1:00:04,Sundance,2024-06-05,8.1
+6,EXPERT A,14,Lewis Stewart,249,21,1:00:24,Sundance,2024-06-05,8.0
+6,EXPERT A,15,Andrew Averett,237,18,1:01:22,Sundance,2024-06-05,7.9
+6,EXPERT A,16,Brody Transtrum,261,15,1:02:12,Sundance,2024-06-05,7.8
+6,EXPERT A,17,Jason Keller,260,12,1:02:53,Sundance,2024-06-05,7.7
+6,EXPERT A,18,Bridger Wixom,263,9,1:03:35,Sundance,2024-06-05,7.6
+6,PRO/EXPERT WOMEN,1,Alexandra Charles,334,80,0:52:10,Sundance,2024-06-05,9.3
+6,PRO/EXPERT WOMEN,2,Rachel Miller,302,73,0:56:49,Sundance,2024-06-05,8.5
+6,PRO/EXPERT WOMEN,3,Hadley Peay,323,66,0:58:07,Sundance,2024-06-05,8.3
+6,PRO/EXPERT WOMEN,4,Kc Holley,335,59,0:58:38,Sundance,2024-06-05,8.3
+6,PRO/EXPERT WOMEN,5,Kristi Mcilmoil,304,54,1:03:46,Sundance,2024-06-05,7.6
+6,PRO/EXPERT WOMEN,6,Kadence Preston,303,49,1:05:06,Sundance,2024-06-05,7.4
+6,PRO/EXPERT WOMEN,7,Christina Perry,305,44,1:06:00,Sundance,2024-06-05,7.3
+6,PRO/EXPERT WOMEN,8,Brynlee Bingham,301,39,1:07:07,Sundance,2024-06-05,7.2
+6,PRO/EXPERT WOMEN,9,Sydney Averett,309,36,1:08:01,Sundance,2024-06-05,7.1
+6,PRO/EXPERT WOMEN,DNF,Brylee Jorgensen,308,1,,Sundance,2024-06-05,
+6,EXPERT B,1,Hendrick Wussow,440,80,0:44:53,Sundance,2024-06-05,9.1
+6,EXPERT B,2,Nathanicus Mcclarkensburger,409,73,0:45:04,Sundance,2024-06-05,9.0
+6,EXPERT B,3,Matthew Muhlestein,432,66,0:45:39,Sundance,2024-06-05,8.9
+6,EXPERT B,4,Crozier Kimball,434,59,0:48:42,Sundance,2024-06-05,8.4
+6,EXPERT B,5,Max Glade,401,54,0:49:23,Sundance,2024-06-05,8.2
+6,EXPERT B,6,Jordan Thurston,403,49,0:49:46,Sundance,2024-06-05,8.2
+6,EXPERT B,7,Talan Reese,426,44,0:52:47,Sundance,2024-06-05,7.7
+6,EXPERT B,8,Ben Severson,416,39,0:53:42,Sundance,2024-06-05,7.6
+6,EXPERT B,9,Dennis Muhlestein,431,36,0:53:54,Sundance,2024-06-05,7.6
+6,EXPERT B,10,Tyler Perry,406,33,0:54:36,Sundance,2024-06-05,7.5
+6,EXPERT B,11,Nicholas Sibert,413,30,0:54:40,Sundance,2024-06-05,7.4
+6,EXPERT B,12,Cory Larsen,407,27,0:55:08,Sundance,2024-06-05,7.4
+6,EXPERT B,13,Keith Payne,415,24,0:56:00,Sundance,2024-06-05,7.3
+6,EXPERT B,14,Tyler Jukes,430,21,0:57:06,Sundance,2024-06-05,7.1
+6,EXPERT B,15,Parker Goodwin,438,18,0:58:34,Sundance,2024-06-05,6.9
+6,EXPERT B,16,Hayden Wixom,439,15,1:07:28,Sundance,2024-06-05,6.0
+6,EXPERT B,DNF,Paul Hadlock,405,1,,Sundance,2024-06-05,
+6,EXPERT C,1,Jerry Brown,511,80,0:50:55,Sundance,2024-06-05,8.0
+6,EXPERT C,2,Shane Jenson,530,73,0:51:08,Sundance,2024-06-05,8.0
+6,EXPERT C,3,Brian Blumer,522,66,0:53:39,Sundance,2024-06-05,7.6
+6,EXPERT C,4,Jeff Clark,512,59,0:54:21,Sundance,2024-06-05,7.5
+6,EXPERT C,5,Cole Gonsalves,526,54,0:56:01,Sundance,2024-06-05,7.3
+6,EXPERT C,6,Johnnie Gonsalves,516,49,0:56:47,Sundance,2024-06-05,7.2
+6,EXPERT C,7,Kerry Smith,501,44,0:56:57,Sundance,2024-06-05,7.1
+6,EXPERT C,8,Matt Stewart,519,39,0:59:06,Sundance,2024-06-05,6.9
+6,EXPERT C,9,Matthias Hulme,527,36,0:59:54,Sundance,2024-06-05,6.8
+6,EXPERT C,10,Ian Beaty,503,33,1:00:51,Sundance,2024-06-05,6.7
+6,EXPERT C,11,Jayson Vincent,507,30,1:02:36,Sundance,2024-06-05,6.5
+6,EXPERT C,12,Mike Rossberg,528,27,1:04:10,Sundance,2024-06-05,6.3
+6,EXPERT C,13,Jared Payne,524,24,1:22:28,Sundance,2024-06-05,4.9
+6,EXPERT C,14,Albert Mitchell,529,21,1:31:38,Sundance,2024-06-05,4.4
+6,SPORT A,1,John Taylor,616,80,0:50:50,Sundance,2024-06-05,6.6
+6,SPORT A,2,Dennis Jones,624,73,0:53:02,Sundance,2024-06-05,6.4
+6,SPORT A,3,Brian Stastny,625,66,0:55:54,Sundance,2024-06-05,6.0
+6,SPORT A,4,Bridger Wilson,626,59,0:56:24,Sundance,2024-06-05,6.0
+6,SPORT A,5,Todd Kingsolver,627,54,0:56:42,Sundance,2024-06-05,5.9
+6,SPORT A,6,Tyson Widdison,601,49,0:57:39,Sundance,2024-06-05,5.8
+6,SPORT A,7,Jensen Paterson,606,44,0:58:46,Sundance,2024-06-05,5.7
+6,SPORT A,8,Jessica Averett,621,39,1:01:00,Sundance,2024-06-05,5.5
+6,SPORT A,9,Becky Blaser,603,36,1:04:34,Sundance,2024-06-05,5.2
+6,SPORT A,DNF,Conner Jones,611,1,,Sundance,2024-06-05,
+6,SPORT B,1,Archer Olson,730,80,0:41:01,Sundance,2024-06-05,7.0
+6,SPORT B,2,Levi Blumer,722,73,0:41:31,Sundance,2024-06-05,6.9
+6,SPORT B,3,Jackson Bingham,704,66,0:46:32,Sundance,2024-06-05,6.2
+6,SPORT B,4,Cameron Cramer,733,59,0:50:36,Sundance,2024-06-05,5.7
+6,SPORT B,5,Clark Cartwright,711,54,0:53:06,Sundance,2024-06-05,5.4
+6,SPORT B,6,Richard Matheson,719,49,1:05:09,Sundance,2024-06-05,4.4
+6,SPORT B,DNF,Matt Cahoon,701,1,,Sundance,2024-06-05,
+6,SPORT B,DNF,Jaden Webster,734,1,,Sundance,2024-06-05,
+6,SPORT WOMEN,1,Elizabeth Vellinga,831,80,0:38:44,Sundance,2024-06-05,7.4
+6,SPORT WOMEN,2,Hillary Brown,808,73,0:50:47,Sundance,2024-06-05,5.7
+6,SPORT WOMEN,3,Patty Rice,812,66,0:54:21,Sundance,2024-06-05,5.3
+6,SPORT WOMEN,4,Linda Matheson,801,59,1:04:09,Sundance,2024-06-05,4.5
+6,JUNIOR,1,Darian Dash Bingham,902,80,0:38:02,Sundance,2024-06-05,5.5
+6,JUNIOR,2,Ruben Jimenez,924,73,0:39:28,Sundance,2024-06-05,5.3
+6,JUNIOR,3,Lucy Nelson,922,66,0:39:29,Sundance,2024-06-05,5.3
+6,JUNIOR,4,Connor Averett,916,59,0:41:14,Sundance,2024-06-05,5.1
+6,JUNIOR,5,Nate Jacobsen,905,54,0:43:02,Sundance,2024-06-05,4.9
+6,JUNIOR,6,Kyrie Bingham,906,49,0:47:32,Sundance,2024-06-05,4.4
+6,JUNIOR,7,Eden Hadlock,921,44,0:54:18,Sundance,2024-06-05,3.9
+6,JUNIOR,8,Ian Jimenez,923,39,1:05:35,Sundance,2024-06-05,3.2
+6,BEGINNER,1,Maya Holley,1033,80,0:27:45,Sundance,2024-06-05,6.1
+6,BEGINNER,2,Cody Blumer,1017,73,0:28:00,Sundance,2024-06-05,6.1
+6,BEGINNER,3,Dunken Paterson,1007,66,0:31:01,Sundance,2024-06-05,5.5
+6,BEGINNER,4,Jay Jacobsen,1002,59,0:34:41,Sundance,2024-06-05,4.9
+6,BEGINNER,5,Sefa Ka'ili,1039,54,0:46:02,Sundance,2024-06-05,3.7
+6,BEGINNER,6,Ryder Cramer,1038,49,0:46:04,Sundance,2024-06-05,3.7
+6,BEGINNER,7,Kyle Cramer,1036,44,0:52:09,Sundance,2024-06-05,3.2
+6,BEGINNER,DNF,Cannon Cartwright,1005,1,,Sundance,2024-06-05,
+6,BEGINNER,DNF,Roxie Cramer,1037,1,,Sundance,2024-06-05,
+7,PRO,1,Carter Anderson,24,80,1:04:04,Sundance,2024-06-12,10.6
+7,PRO,2,Spencer Maughan,42,73,1:05:02,Sundance,2024-06-12,10.5
+7,PRO,3,Jack Stevenson,33,66,1:06:11,Sundance,2024-06-12,10.3
+7,PRO,4,Daniel Bartholomew,8,59,1:07:15,Sundance,2024-06-12,10.1
+7,PRO,5,Scott Preston,35,54,1:07:39,Sundance,2024-06-12,10.1
+7,PRO,6,Mark Tuttle,1,49,1:07:49,Sundance,2024-06-12,10.1
+7,PRO,7,Tanner Gillespie,27,44,1:09:11,Sundance,2024-06-12,9.9
+7,PRO,8,Cameron Averett,3,39,1:09:39,Sundance,2024-06-12,9.8
+7,PRO,9,Brandon Firth,25,36,1:11:25,Sundance,2024-06-12,9.5
+7,PRO,10,Easton Gray,10,33,1:15:20,Sundance,2024-06-12,9.0
+7,PRO,11,Nathan Woolf,34,30,1:16:19,Sundance,2024-06-12,8.9
+7,PRO,DNF,Easton Lunsford,32,1,,Sundance,2024-06-12,
+7,SEMI-PRO,1,Clayton Morrill,131,80,1:01:14,Sundance,2024-06-12,9.9
+7,SEMI-PRO,2,Jude Marsden,153,73,1:01:39,Sundance,2024-06-12,9.8
+7,SEMI-PRO,3,Nate Miller,109,66,1:02:02,Sundance,2024-06-12,9.7
+7,SEMI-PRO,4,Pearson Wallace,149,59,1:02:39,Sundance,2024-06-12,9.6
+7,SEMI-PRO,5,Cole Johnson,122,54,1:02:54,Sundance,2024-06-12,9.6
+7,SEMI-PRO,6,Jaxon Hadlock,141,49,1:04:29,Sundance,2024-06-12,9.4
+7,SEMI-PRO,7,Val Gibson,101,44,1:05:08,Sundance,2024-06-12,9.3
+7,SEMI-PRO,8,Max Gough,147,39,1:05:28,Sundance,2024-06-12,9.2
+7,SEMI-PRO,9,Matt Parker,556,36,1:05:42,Sundance,2024-06-12,9.2
+7,SEMI-PRO,10,Joshua Blake,146,33,1:06:14,Sundance,2024-06-12,9.1
+7,SEMI-PRO,11,Mike Broderick,150,30,1:06:18,Sundance,2024-06-12,9.1
+7,SEMI-PRO,12,Quinn Jacobsen,106,27,1:07:45,Sundance,2024-06-12,8.9
+7,SEMI-PRO,13,Luke Cahoon,113,24,1:08:13,Sundance,2024-06-12,8.9
+7,SEMI-PRO,14,Brandon Smith,154,21,1:09:25,Sundance,2024-06-12,8.7
+7,SEMI-PRO,15,Matt Frisby,102,18,1:09:49,Sundance,2024-06-12,8.6
+7,SEMI-PRO,16,Nick Birch,108,15,1:12:42,Sundance,2024-06-12,8.3
+7,SEMI-PRO,17,Brian Ressa,110,12,1:13:12,Sundance,2024-06-12,8.2
+7,SEMI-PRO,18,Woody,0,9,1:15:09,Sundance,2024-06-12,8.0
+7,SEMI-PRO,19,Josey Apostol,0,7,1:17:45,Sundance,2024-06-12,7.8
+7,SEMI-PRO,DNF,Hallie Lunsford,151,1,,Sundance,2024-06-12,
+7,SEMI-PRO,DNF,Weston Lunsford,152,1,,Sundance,2024-06-12,
+7,SEMI-PRO,DNF,Ezra Sumner,132,1,,Sundance,2024-06-12,
+7,EXPERT A,1,Jacob Miller,209,80,0:49:26,Sundance,2024-06-12,9.8
+7,EXPERT A,2,Cannon Christiansen,258,73,0:51:53,Sundance,2024-06-12,9.4
+7,EXPERT A,3,Seth Sunderlage,267,66,0:52:10,Sundance,2024-06-12,9.3
+7,EXPERT A,4,Cameron Gibby,211,59,0:52:29,Sundance,2024-06-12,9.2
+7,EXPERT A,5,Todd Stevenson,266,54,0:52:59,Sundance,2024-06-12,9.2
+7,EXPERT A,6,Mike Madsen,202,49,0:53:41,Sundance,2024-06-12,9.0
+7,EXPERT A,7,Ashton Webster,262,44,0:54:05,Sundance,2024-06-12,9.0
+7,EXPERT A,8,Wyatt Chambers,257,39,0:54:22,Sundance,2024-06-12,8.9
+7,EXPERT A,9,Alex Larsen,212,36,0:54:50,Sundance,2024-06-12,8.8
+7,EXPERT A,10,Harry Mccoard,208,33,0:55:45,Sundance,2024-06-12,8.7
+7,EXPERT A,11,Brandon Hill,218,30,0:55:52,Sundance,2024-06-12,8.7
+7,EXPERT A,12,Tripp Kay,255,27,0:56:03,Sundance,2024-06-12,8.7
+7,EXPERT A,13,Heber Anderson,250,24,0:56:42,Sundance,2024-06-12,8.6
+7,EXPERT A,14,Kade Gray,252,21,0:58:44,Sundance,2024-06-12,8.3
+7,EXPERT A,15,Greg Francis,269,18,0:59:13,Sundance,2024-06-12,8.2
+7,EXPERT A,16,Lewis Stewart,249,15,1:00:19,Sundance,2024-06-12,8.0
+7,EXPERT A,17,Andrew Averett,237,12,1:01:32,Sundance,2024-06-12,7.9
+7,EXPERT A,18,Rylan Sutton,268,9,1:02:10,Sundance,2024-06-12,7.8
+7,EXPERT A,19,Nathan Jimenez,265,7,1:02:11,Sundance,2024-06-12,7.8
+7,EXPERT A,DNF,Ryder Warnock,204,1,,Sundance,2024-06-12,
+7,EXPERT A,DNF,Bridger Wixom,263,1,,Sundance,2024-06-12,
+7,PRO/EXPERT WOMEN,1,Sammie Bradley,336,80,0:53:17,Sundance,2024-06-12,9.1
+7,PRO/EXPERT WOMEN,2,Nina Schamberger,324,73,0:54:11,Sundance,2024-06-12,9.0
+7,PRO/EXPERT WOMEN,3,Anna Keler,338,66,0:55:44,Sundance,2024-06-12,8.7
+7,PRO/EXPERT WOMEN,4,Rachel Miller,302,59,0:55:59,Sundance,2024-06-12,8.7
+7,PRO/EXPERT WOMEN,5,Kc Holley,335,54,0:56:12,Sundance,2024-06-12,8.6
+7,PRO/EXPERT WOMEN,6,Kadence Preston,303,49,1:00:50,Sundance,2024-06-12,8.0
+7,PRO/EXPERT WOMEN,7,Kristi Mcilmoil,304,44,1:01:21,Sundance,2024-06-12,7.9
+7,PRO/EXPERT WOMEN,8,Elizabeth Vellinga,339,39,1:03:37,Sundance,2024-06-12,7.6
+7,PRO/EXPERT WOMEN,9,Christina Perry,305,36,1:06:05,Sundance,2024-06-12,7.3
+7,PRO/EXPERT WOMEN,10,Brynlee Bingham,301,33,1:11:10,Sundance,2024-06-12,6.8
+7,PRO/EXPERT WOMEN,11,Sarah Crump,337,30,1:12:29,Sundance,2024-06-12,6.7
+7,PRO/EXPERT WOMEN,12,Kylee Mendenhall,313,27,1:12:46,Sundance,2024-06-12,6.7
+7,PRO/EXPERT WOMEN,DNF,Brylee Jorgensen,308,1,,Sundance,2024-06-12,
+7,EXPERT B,1,Matthew Muhlestein,432,80,0:44:37,Sundance,2024-06-12,9.1
+7,EXPERT B,2,Nathanicus Mcclarkensburger,409,73,0:47:08,Sundance,2024-06-12,8.6
+7,EXPERT B,3,Max Glade,401,66,0:47:10,Sundance,2024-06-12,8.6
+7,EXPERT B,4,Jordan Thurston,403,59,0:47:15,Sundance,2024-06-12,8.6
+7,EXPERT B,5,John Mcilmoil,408,54,0:47:37,Sundance,2024-06-12,8.6
+7,EXPERT B,6,Eric Dupuis,429,49,0:49:15,Sundance,2024-06-12,8.3
+7,EXPERT B,7,Ben Severson,416,44,0:49:46,Sundance,2024-06-12,8.2
+7,EXPERT B,8,Nick Sibert,413,39,0:50:13,Sundance,2024-06-12,8.1
+7,EXPERT B,9,Cory Larsen,407,36,0:51:11,Sundance,2024-06-12,8.0
+7,EXPERT B,10,Paul Hadlock,405,33,0:52:12,Sundance,2024-06-12,7.8
+7,EXPERT B,11,Tyler Jukes,430,30,0:52:56,Sundance,2024-06-12,7.7
+7,EXPERT B,12,Dennis Muhlestein,431,27,0:54:10,Sundance,2024-06-12,7.5
+7,EXPERT B,13,Charlie Severson,441,24,0:55:09,Sundance,2024-06-12,7.4
+7,EXPERT B,14,Keith Payne,415,21,0:56:39,Sundance,2024-06-12,7.2
+7,EXPERT B,15,Hayden Wixom,439,18,1:02:02,Sundance,2024-06-12,6.6
+7,EXPERT B,DNF,Parker Goodwin,438,1,,Sundance,2024-06-12,
+7,EXPERT C,1,Shane Jenson,530,80,0:49:35,Sundance,2024-06-12,8.2
+7,EXPERT C,2,Dallan Robbins,506,73,0:51:58,Sundance,2024-06-12,7.8
+7,EXPERT C,3,Jerry Brown,511,66,0:52:56,Sundance,2024-06-12,7.7
+7,EXPERT C,4,Jacob Rogers,510,59,0:54:07,Sundance,2024-06-12,7.5
+7,EXPERT C,5,Cole Gonsalves,526,54,0:54:28,Sundance,2024-06-12,7.5
+7,EXPERT C,6,Jeff Clark,512,49,0:54:52,Sundance,2024-06-12,7.4
+7,EXPERT C,7,Johnnie Gonsalves,516,44,0:55:05,Sundance,2024-06-12,7.4
+7,EXPERT C,8,Ian Beaty,503,39,0:55:09,Sundance,2024-06-12,7.4
+7,EXPERT C,9,Kerry Smith,501,36,0:56:30,Sundance,2024-06-12,7.2
+7,EXPERT C,10,Matthias Hulme,527,33,0:58:52,Sundance,2024-06-12,6.9
+7,EXPERT C,11,Matt Stewart,519,30,1:00:06,Sundance,2024-06-12,6.8
+7,EXPERT C,12,Jayson Vincent,507,27,1:01:09,Sundance,2024-06-12,6.7
+7,EXPERT C,13,Tyler Webster,531,24,1:03:04,Sundance,2024-06-12,6.4
+7,EXPERT C,14,Mike Rossberg,528,21,1:03:43,Sundance,2024-06-12,6.4
+7,EXPERT C,15,Albert Mitchell,529,18,1:05:45,Sundance,2024-06-12,6.2
+7,EXPERT C,16,Jared Payne,524,15,1:17:10,Sundance,2024-06-12,5.3
+7,SPORT A,1,Dennis Jones,624,80,0:41:19,Sundance,2024-06-12,8.2
+7,SPORT A,2,Alta Miller,628,73,0:45:40,Sundance,2024-06-12,7.4
+7,SPORT A,3,Jensen Paterson,606,66,0:45:47,Sundance,2024-06-12,7.4
+7,SPORT A,4,Brody Smith,619,59,0:47:11,Sundance,2024-06-12,7.1
+7,SPORT A,5,Bridger Wilson,626,54,0:47:30,Sundance,2024-06-12,7.1
+7,SPORT A,6,John Taylor,616,49,0:48:08,Sundance,2024-06-12,7.0
+7,SPORT A,7,Conner Jones,611,44,0:48:34,Sundance,2024-06-12,6.9
+7,SPORT A,8,Thomas Hansen,605,39,0:55:01,Sundance,2024-06-12,6.1
+7,SPORT A,9,Tyson Widdison,601,36,1:00:24,Sundance,2024-06-12,5.6
+7,SPORT A,10,Becky Blaser,603,33,1:04:09,Sundance,2024-06-12,5.2
+7,SPORT B,1,Jaden Webster,734,80,0:35:32,Sundance,2024-06-12,8.1
+7,SPORT B,2,Archer Olson,730,73,0:40:37,Sundance,2024-06-12,7.1
+7,SPORT B,3,Grey Gardner,736,66,0:40:56,Sundance,2024-06-12,7.0
+7,SPORT B,4,Jackson Bingham,704,59,0:45:36,Sundance,2024-06-12,6.3
+7,SPORT B,5,Benson Powell,731,54,0:45:38,Sundance,2024-06-12,6.3
+7,SPORT B,6,Steven Powell,732,49,0:45:40,Sundance,2024-06-12,6.3
+7,SPORT B,7,Darian Dash Bingham,735,44,0:46:26,Sundance,2024-06-12,6.2
+7,SPORT B,8,Dylan Jerman,707,39,0:48:23,Sundance,2024-06-12,6.0
+7,SPORT B,9,Ed Schmitt,737,36,0:57:14,Sundance,2024-06-12,5.0
+7,SPORT B,10,Richard Matheson,719,33,1:00:04,Sundance,2024-06-12,4.8
+7,SPORT B,11,Pascal Schmitt,738,30,1:16:22,Sundance,2024-06-12,3.8
+7,SPORT B,DNF,Matt Cahoon,701,1,,Sundance,2024-06-12,
+7,SPORT WOMEN,1,Hillary Brown,808,80,0:45:32,Sundance,2024-06-12,6.3
+7,SPORT WOMEN,2,Leah Sorenson,832,73,0:47:22,Sundance,2024-06-12,6.1
+7,SPORT WOMEN,3,Ariann Apostol,804,66,0:53:23,Sundance,2024-06-12,5.4
+7,SPORT WOMEN,4,Linda Matheson,801,59,0:58:59,Sundance,2024-06-12,4.9
+7,SPORT WOMEN,DNF,Emma Johnson,810,1,,Sundance,2024-06-12,
+7,JUNIOR,1,Kason Mendenhall,910,80,0:32:39,Sundance,2024-06-12,6.5
+7,JUNIOR,2,Isaac Miller,903,73,0:37:02,Sundance,2024-06-12,5.7
+7,JUNIOR,3,Landon Averett,917,66,0:37:21,Sundance,2024-06-12,5.6
+7,JUNIOR,4,Nate Jacobsen,905,59,0:39:07,Sundance,2024-06-12,5.4
+7,JUNIOR,5,Ruben Jimenez,924,54,0:42:42,Sundance,2024-06-12,4.9
+7,JUNIOR,6,Kyrie Bingham,906,49,0:48:13,Sundance,2024-06-12,4.4
+7,JUNIOR,7,Eden Hadlock,921,44,0:56:59,Sundance,2024-06-12,3.7
+7,JUNIOR,8,Ian Jimenez,923,39,1:02:43,Sundance,2024-06-12,3.3
+7,BEGINNER,1,Maya Holley,1033,80,0:26:44,Sundance,2024-06-12,6.3
+7,BEGINNER,2,Dunken Paterson,1007,73,0:28:56,Sundance,2024-06-12,5.9
+7,BEGINNER,3,Jay Jacobsen,1002,66,0:35:26,Sundance,2024-06-12,4.8
+8,PRO,1,Andrew Conover,2,80,1:06:05,Sundance,2024-07-03,11.8
+8,PRO,2,Chris Holley,21,73,1:06:27,Sundance,2024-07-03,11.7
+8,PRO,3,Spencer Maughan,42,66,1:09:24,Sundance,2024-07-03,11.2
+8,PRO,4,Scott Preston,35,59,1:09:36,Sundance,2024-07-03,11.2
+8,PRO,5,Mark Tuttle,1,54,1:10:14,Sundance,2024-07-03,11.1
+8,PRO,6,Tanner Gillespie,27,49,1:11:04,Sundance,2024-07-03,11.0
+8,PRO,7,Isaiah Ward,20,44,1:11:55,Sundance,2024-07-03,10.8
+8,PRO,8,Jack Stevenson,40,39,1:12:15,Sundance,2024-07-03,10.8
+8,PRO,9,Thomas Cahoon,15,36,1:14:07,Sundance,2024-07-03,10.5
+8,PRO,10,Brandon Firth,25,33,1:16:23,Sundance,2024-07-03,10.2
+8,PRO,11,Gavin Gunther,39,30,1:17:38,Sundance,2024-07-03,10.0
+8,SEMI-PRO,1,Nate Miller,109,80,1:02:35,Sundance,2024-07-03,10.9
+8,SEMI-PRO,2,Jude Marsden,153,73,1:02:47,Sundance,2024-07-03,10.9
+8,SEMI-PRO,3,Jamison Burton,137,66,1:04:15,Sundance,2024-07-03,10.6
+8,SEMI-PRO,4,Jayven Thomas,124,59,1:04:32,Sundance,2024-07-03,10.6
+8,SEMI-PRO,5,Dan Nelson,111,54,1:04:45,Sundance,2024-07-03,10.5
+8,SEMI-PRO,6,Logan Diekmann,155,49,1:05:20,Sundance,2024-07-03,10.4
+8,SEMI-PRO,7,Val Gibson,101,44,1:05:39,Sundance,2024-07-03,10.4
+8,SEMI-PRO,8,Brandon Smith,154,39,1:05:48,Sundance,2024-07-03,10.4
+8,SEMI-PRO,9,Johnny D Pedersen,145,36,1:05:59,Sundance,2024-07-03,10.3
+8,SEMI-PRO,10,Matt Parker,556,33,1:06:07,Sundance,2024-07-03,10.3
+8,SEMI-PRO,11,Woody,0,30,1:07:44,Sundance,2024-07-03,10.1
+8,SEMI-PRO,12,Bryan Gillespie,119,27,1:09:47,Sundance,2024-07-03,9.8
+8,SEMI-PRO,13,Cody Shepherd,107,24,1:09:49,Sundance,2024-07-03,9.8
+8,SEMI-PRO,14,Eli Speck,123,21,1:10:52,Sundance,2024-07-03,9.6
+8,SEMI-PRO,15,Bryson Douglass,156,18,1:12:29,Sundance,2024-07-03,9.4
+8,SEMI-PRO,16,Seth Norton,160,15,1:13:17,Sundance,2024-07-03,9.3
+8,SEMI-PRO,17,Nick Birch,108,12,1:13:37,Sundance,2024-07-03,9.2
+8,SEMI-PRO,18,Luke Cahoon,113,9,1:14:11,Sundance,2024-07-03,9.2
+8,SEMI-PRO,19,Josey Apostol,0,7,1:14:55,Sundance,2024-07-03,9.1
+8,SEMI-PRO,20,Brian Ressa,110,5,1:15:59,Sundance,2024-07-03,9.0
+8,SEMI-PRO,DNF,Matt Frisby,102,1,,Sundance,2024-07-03,
+8,SEMI-PRO,DNF,Quinn Jacobsen,106,1,,Sundance,2024-07-03,
+8,SEMI-PRO,DNF,Jacob Miller,159,1,,Sundance,2024-07-03,
+8,EXPERT A,1,Bolt Miller,272,80,0:55:57,Sundance,2024-07-03,10.4
+8,EXPERT A,2,Reed Evans,273,73,0:56:00,Sundance,2024-07-03,10.4
+8,EXPERT A,3,Alex Larsen,212,66,0:56:43,Sundance,2024-07-03,10.3
+8,EXPERT A,4,Jason Keller,260,59,0:57:03,Sundance,2024-07-03,10.2
+8,EXPERT A,5,Todd Stevenson,266,54,0:57:23,Sundance,2024-07-03,10.2
+8,EXPERT A,6,Kade Gray,252,49,0:58:22,Sundance,2024-07-03,10.0
+8,EXPERT A,7,Tripp Kay,255,44,0:58:58,Sundance,2024-07-03,9.9
+8,EXPERT A,8,Oliver Miller,271,39,0:59:08,Sundance,2024-07-03,9.9
+8,EXPERT A,9,Ashton Webster,262,36,1:00:00,Sundance,2024-07-03,9.7
+8,EXPERT A,10,Brandon Hill,218,33,1:00:45,Sundance,2024-07-03,9.6
+8,EXPERT A,11,Jansen Payne,201,30,1:03:51,Sundance,2024-07-03,9.1
+8,EXPERT A,12,Jaron Sutton,275,27,1:04:02,Sundance,2024-07-03,9.1
+8,EXPERT A,13,Ridger Gasser,270,24,1:05:56,Sundance,2024-07-03,8.8
+8,EXPERT A,14,Spencer Freeman,206,21,1:07:14,Sundance,2024-07-03,8.7
+8,EXPERT A,15,Rylan Sutton,268,18,1:13:36,Sundance,2024-07-03,7.9
+8,EXPERT A,16,Josie Larson,274,15,1:28:25,Sundance,2024-07-03,6.6
+8,EXPERT A,DNF,Mark Nelson,0,1,,Sundance,2024-07-03,
+8,PRO/EXPERT WOMEN,1,Brynn Lloyd,342,80,1:00:09,Sundance,2024-07-03,9.7
+8,PRO/EXPERT WOMEN,2,Anna Keller,338,73,1:00:15,Sundance,2024-07-03,9.7
+8,PRO/EXPERT WOMEN,3,Rachel Miller,302,66,1:00:26,Sundance,2024-07-03,9.6
+8,PRO/EXPERT WOMEN,4,Kc Holley,335,59,1:02:45,Sundance,2024-07-03,9.3
+8,PRO/EXPERT WOMEN,5,Anna Cox,318,54,1:06:10,Sundance,2024-07-03,8.8
+8,PRO/EXPERT WOMEN,6,Kadence Preston,303,49,1:07:27,Sundance,2024-07-03,8.6
+8,PRO/EXPERT WOMEN,7,Lucy Hillstrom,341,44,1:08:53,Sundance,2024-07-03,8.5
+8,PRO/EXPERT WOMEN,8,Jeanette Pierce,332,39,1:10:01,Sundance,2024-07-03,8.3
+8,PRO/EXPERT WOMEN,9,Christina Perry,305,36,1:11:06,Sundance,2024-07-03,8.2
+8,PRO/EXPERT WOMEN,10,Maya Cox,326,33,1:11:27,Sundance,2024-07-03,8.2
+8,PRO/EXPERT WOMEN,11,Brynlee Bingham,301,30,1:12:57,Sundance,2024-07-03,8.0
+8,PRO/EXPERT WOMEN,12,Eliza Haight,340,27,1:15:04,Sundance,2024-07-03,7.8
+8,EXPERT B,1,Jordan Thurston,403,80,0:40:58,Sundance,2024-07-03,9.7
+8,EXPERT B,2,Matthew Muhlestein,432,73,0:41:11,Sundance,2024-07-03,9.6
+8,EXPERT B,3,Nathanicus Mcclarkensburger,409,66,0:41:23,Sundance,2024-07-03,9.6
+8,EXPERT B,4,Eric Dupuis,429,59,0:43:03,Sundance,2024-07-03,9.2
+8,EXPERT B,5,Loren Krieger,445,54,0:43:04,Sundance,2024-07-03,9.2
+8,EXPERT B,6,Nick Sibert,413,49,0:44:31,Sundance,2024-07-03,8.9
+8,EXPERT B,7,Carey Pierce,435,44,0:45:38,Sundance,2024-07-03,8.7
+8,EXPERT B,8,Dennis Muhlestein,431,39,0:45:45,Sundance,2024-07-03,8.7
+8,EXPERT B,9,Cory Larsen,407,36,0:45:46,Sundance,2024-07-03,8.7
+8,EXPERT B,10,Tyler Perry,406,33,0:46:01,Sundance,2024-07-03,8.6
+8,EXPERT B,11,Warner Wilson,446,30,0:46:08,Sundance,2024-07-03,8.6
+8,EXPERT B,12,Benson Cruze,443,27,0:47:02,Sundance,2024-07-03,8.4
+8,EXPERT B,13,Tyler Jukes,430,24,0:48:48,Sundance,2024-07-03,8.1
+8,EXPERT B,14,Keith Payne,415,21,0:49:15,Sundance,2024-07-03,8.0
+8,EXPERT B,15,Parker Goodwin,438,18,0:51:54,Sundance,2024-07-03,7.6
+8,EXPERT B,16,Hayden Wixom,439,15,0:54:45,Sundance,2024-07-03,7.2
+8,EXPERT B,17,Philip Gunther,444,12,1:04:40,Sundance,2024-07-03,6.1
+8,EXPERT C,1,Ian Nickel,534,80,0:40:40,Sundance,2024-07-03,9.8
+8,EXPERT C,2,Shane Jenson,530,73,0:43:34,Sundance,2024-07-03,9.1
+8,EXPERT C,3,Jaden Webster,533,66,0:45:11,Sundance,2024-07-03,8.8
+8,EXPERT C,4,Jerry Brown,511,59,0:45:20,Sundance,2024-07-03,8.7
+8,EXPERT C,5,Cole Gonsalves,526,54,0:48:19,Sundance,2024-07-03,8.2
+8,EXPERT C,6,Ian Beaty,503,49,0:48:26,Sundance,2024-07-03,8.2
+8,EXPERT C,7,Matthias Hulme,527,44,0:48:36,Sundance,2024-07-03,8.2
+8,EXPERT C,8,Jayson Vincent,507,39,0:49:17,Sundance,2024-07-03,8.0
+8,EXPERT C,9,Tyler Webster,531,36,0:49:22,Sundance,2024-07-03,8.0
+8,EXPERT C,10,Johnnie Gonsalves,516,33,0:49:45,Sundance,2024-07-03,8.0
+8,EXPERT C,11,Kerry Smith,501,30,0:50:09,Sundance,2024-07-03,7.9
+8,EXPERT C,12,Calvin Cahoon,509,27,0:51:16,Sundance,2024-07-03,7.7
+8,EXPERT C,13,Albert Mitchell,529,24,0:57:22,Sundance,2024-07-03,6.9
+8,EXPERT C,DNF,Dallan Robbins,506,1,,Sundance,2024-07-03,
+8,EXPERT C,DNF,Jared Payne,524,1,,Sundance,2024-07-03,
+8,SPORT A,1,Conner Jones,611,80,0:48:51,Sundance,2024-07-03,8.1
+8,SPORT A,2,Jensen Paterson,606,73,0:49:18,Sundance,2024-07-03,8.0
+8,SPORT A,3,Brody Smith,619,66,0:50:30,Sundance,2024-07-03,7.9
+8,SPORT A,4,Carter Bingham,618,59,0:52:08,Sundance,2024-07-03,7.6
+8,SPORT A,5,Bryan Christensen,629,54,0:53:17,Sundance,2024-07-03,7.4
+8,SPORT A,6,Brian Stastny,625,49,0:55:00,Sundance,2024-07-03,7.2
+8,SPORT A,7,Tyson Widdison,601,44,1:03:31,Sundance,2024-07-03,6.2
+8,SPORT B,1,Chase O'Neil,705,80,0:35:31,Sundance,2024-07-03,8.4
+8,SPORT B,2,Solomon Perkins,741,73,0:35:35,Sundance,2024-07-03,8.4
+8,SPORT B,3,Cannon Eccles,718,66,0:35:37,Sundance,2024-07-03,8.4
+8,SPORT B,4,Archer Olson,730,59,0:37:22,Sundance,2024-07-03,8.0
+8,SPORT B,5,Jackson Bingham,704,54,0:39:31,Sundance,2024-07-03,7.6
+8,SPORT B,6,Pason Sutton,742,49,0:41:59,Sundance,2024-07-03,7.1
+8,SPORT B,7,Darian Dash Bingham,735,44,0:42:02,Sundance,2024-07-03,7.1
+8,SPORT B,8,Dylan Jerman,707,39,0:44:55,Sundance,2024-07-03,6.6
+8,SPORT B,9,Matt Cahoon,701,36,0:49:31,Sundance,2024-07-03,6.0
+8,SPORT B,10,Scott Jones,729,33,0:59:29,Sundance,2024-07-03,5.0
+8,SPORT WOMEN,1,Leah Sorenson,832,80,0:40:16,Sundance,2024-07-03,7.4
+8,SPORT WOMEN,2,Hillary Brown,808,73,0:44:30,Sundance,2024-07-03,6.7
+8,SPORT WOMEN,3,Brylee Jorgensen,833,66,0:47:44,Sundance,2024-07-03,6.2
+8,SPORT WOMEN,4,Linda Matheson,801,59,0:51:03,Sundance,2024-07-03,5.8
+8,SPORT WOMEN,5,Patty Rice,836,54,0:53:36,Sundance,2024-07-03,5.6
+8,SPORT WOMEN,6,Makell Cahoon,809,49,0:57:02,Sundance,2024-07-03,5.2
+8,JUNIOR,1,Owen Draper,907,80,0:37:12,Sundance,2024-07-03,8.0
+8,JUNIOR,2,Avery Burton,926,73,0:40:44,Sundance,2024-07-03,7.3
+8,JUNIOR,3,Nate Jacobsen,905,66,0:44:44,Sundance,2024-07-03,6.7
+8,JUNIOR,4,Lucy Nelson,922,59,0:47:55,Sundance,2024-07-03,6.2
+8,JUNIOR,5,Isaac Miller,903,54,0:52:14,Sundance,2024-07-03,5.7
+8,JUNIOR,6,Jenna Sorenson,925,49,1:03:12,Sundance,2024-07-03,4.7
+8,JUNIOR,7,Kyrie Bingham,906,44,1:10:53,Sundance,2024-07-03,4.2
+8,BEGINNER,1,Beckett Miller,1040,80,0:33:07,Sundance,2024-07-03,6.3
+8,BEGINNER,2,Asher Burton,1008,73,0:34:23,Sundance,2024-07-03,6.1
+8,BEGINNER,3,Rhett Miller,1041,66,0:36:00,Sundance,2024-07-03,5.8
+8,BEGINNER,4,Maya Holley,1033,59,0:36:38,Sundance,2024-07-03,5.7
+8,BEGINNER,5,Josie Thomas,1023,54,0:37:48,Sundance,2024-07-03,5.6
+8,BEGINNER,6,Dunken Paterson,1007,49,0:39:45,Sundance,2024-07-03,5.3
+8,BEGINNER,7,Jay Jacobsen,1002,44,0:50:39,Sundance,2024-07-03,4.1
+8,BEGINNER,DNF,Sefa Ka'ili,1039,1,,Sundance,2024-07-03,
+9,PRO,1,Carter Anderson,24,80,0:58:45,Wolf Creek Ranch,2024-07-10,12.2
+9,PRO,2,Andrew Conover,2,73,1:00:47,Wolf Creek Ranch,2024-07-10,11.8
+9,PRO,3,Spencer Maughan,42,66,1:01:39,Wolf Creek Ranch,2024-07-10,11.6
+9,PRO,4,Thomas Cahoon,15,59,1:01:54,Wolf Creek Ranch,2024-07-10,11.6
+9,PRO,5,Jack Stevenson,40,54,1:02:09,Wolf Creek Ranch,2024-07-10,11.5
+9,PRO,6,Mark Tuttle,1,49,1:02:21,Wolf Creek Ranch,2024-07-10,11.5
+9,PRO,7,Scott Preston,35,44,1:05:33,Wolf Creek Ranch,2024-07-10,10.9
+9,PRO,8,Brandon Firth,25,39,1:09:14,Wolf Creek Ranch,2024-07-10,10.3
+9,PRO,9,William Roylance,44,36,1:10:05,Wolf Creek Ranch,2024-07-10,10.2
+9,PRO,10,Grey Mathewson,43,33,1:11:35,Wolf Creek Ranch,2024-07-10,10.0
+9,PRO,11,Asa Christensen,41,30,1:14:52,Wolf Creek Ranch,2024-07-10,9.6
+9,SEMI-PRO,1,Jacob Miller,159,80,0:56:29,Wolf Creek Ranch,2024-07-10,11.4
+9,SEMI-PRO,2,Nate Miller,109,73,0:56:31,Wolf Creek Ranch,2024-07-10,11.4
+9,SEMI-PRO,3,Dan Nelson,111,66,0:57:36,Wolf Creek Ranch,2024-07-10,11.2
+9,SEMI-PRO,4,Matt Parker,556,59,0:59:51,Wolf Creek Ranch,2024-07-10,10.7
+9,SEMI-PRO,5,Val Gibson,101,54,1:01:06,Wolf Creek Ranch,2024-07-10,10.5
+9,SEMI-PRO,6,Woody,0,49,1:01:26,Wolf Creek Ranch,2024-07-10,10.5
+9,SEMI-PRO,7,Matt Frisby,102,44,1:01:56,Wolf Creek Ranch,2024-07-10,10.4
+9,SEMI-PRO,8,Johnny D Pedersen,145,39,1:02:16,Wolf Creek Ranch,2024-07-10,10.3
+9,SEMI-PRO,9,Cody Shepherd,107,36,1:05:32,Wolf Creek Ranch,2024-07-10,9.8
+9,SEMI-PRO,DNF,Zach Child,129,1,,Wolf Creek Ranch,2024-07-10,
+9,SEMI-PRO,DNF,Josey Apostol,0,1,,Wolf Creek Ranch,2024-07-10,
+9,EXPERT A,1,Ashton Webster,262,80,0:54:59,Wolf Creek Ranch,2024-07-10,10.6
+9,EXPERT A,2,Wyatt Chambers,257,73,0:55:18,Wolf Creek Ranch,2024-07-10,10.5
+9,EXPERT A,3,Jansen Payne,201,66,0:56:40,Wolf Creek Ranch,2024-07-10,10.3
+9,EXPERT A,4,Nathanicus Mcclarkensburger,280,59,0:56:58,Wolf Creek Ranch,2024-07-10,10.2
+9,EXPERT A,5,Brandon Hill,218,54,0:57:17,Wolf Creek Ranch,2024-07-10,10.2
+9,EXPERT A,6,Tripp Kay,255,49,0:59:17,Wolf Creek Ranch,2024-07-10,9.8
+9,EXPERT A,7,Garrett Allred,256,44,1:01:24,Wolf Creek Ranch,2024-07-10,9.5
+9,EXPERT A,8,Heber Anderson,250,39,1:02:10,Wolf Creek Ranch,2024-07-10,9.4
+9,EXPERT A,9,Mike Madsen,202,36,1:03:45,Wolf Creek Ranch,2024-07-10,9.1
+9,EXPERT A,10,Jake Jorgenson,240,33,1:03:50,Wolf Creek Ranch,2024-07-10,9.1
+9,EXPERT A,11,Nate Cox,248,30,1:04:23,Wolf Creek Ranch,2024-07-10,9.0
+9,EXPERT A,12,Austin Miner,279,27,1:06:15,Wolf Creek Ranch,2024-07-10,8.8
+9,EXPERT A,13,Rob Jibson,276,24,1:07:12,Wolf Creek Ranch,2024-07-10,8.7
+9,EXPERT A,14,Spencer Freeman,206,21,1:08:03,Wolf Creek Ranch,2024-07-10,8.6
+9,EXPERT A,15,Lewis Stewart,249,18,1:08:03,Wolf Creek Ranch,2024-07-10,8.6
+9,EXPERT A,16,Blake Hadlock,254,15,1:13:41,Wolf Creek Ranch,2024-07-10,7.9
+9,EXPERT A,17,Michael Mathewson,278,12,1:20:16,Wolf Creek Ranch,2024-07-10,7.2
+9,EXPERT A,DNF,Cameron Gibby,211,1,,Wolf Creek Ranch,2024-07-10,
+9,EXPERT A,DNF,Zack Jorgenson,277,1,,Wolf Creek Ranch,2024-07-10,
+9,PRO/EXPERT WOMEN,1,Alexandra Charles,334,80,0:52:24,Wolf Creek Ranch,2024-07-10,11.1
+9,PRO/EXPERT WOMEN,2,Lucy Hillstrom,341,73,0:56:32,Wolf Creek Ranch,2024-07-10,10.3
+9,PRO/EXPERT WOMEN,3,Rachel Miller,302,66,1:00:44,Wolf Creek Ranch,2024-07-10,9.6
+9,PRO/EXPERT WOMEN,4,Anna Cox,318,59,1:02:31,Wolf Creek Ranch,2024-07-10,9.3
+9,PRO/EXPERT WOMEN,5,Kristi Mcilmoil,304,54,1:03:19,Wolf Creek Ranch,2024-07-10,9.2
+9,PRO/EXPERT WOMEN,6,Christina Perry,305,49,1:08:13,Wolf Creek Ranch,2024-07-10,8.5
+9,PRO/EXPERT WOMEN,7,Brynlee Bingham,301,44,1:09:24,Wolf Creek Ranch,2024-07-10,8.4
+9,PRO/EXPERT WOMEN,8,Maya Cox,326,39,1:09:46,Wolf Creek Ranch,2024-07-10,8.3
+9,PRO/EXPERT WOMEN,9,Sage Jorgenson,316,36,1:18:27,Wolf Creek Ranch,2024-07-10,7.4
+9,PRO/EXPERT WOMEN,10,Kadence Preston,303,33,1:18:28,Wolf Creek Ranch,2024-07-10,7.4
+9,EXPERT B,1,Jordan Thurston,403,80,0:44:45,Wolf Creek Ranch,2024-07-10,10.0
+9,EXPERT B,2,John Mcilmoil,408,73,0:45:21,Wolf Creek Ranch,2024-07-10,9.9
+9,EXPERT B,3,Cory Larsen,407,66,0:46:09,Wolf Creek Ranch,2024-07-10,9.7
+9,EXPERT B,4,Paul Hadlock,405,59,0:48:00,Wolf Creek Ranch,2024-07-10,9.3
+9,EXPERT B,5,Gage Thurgood,448,54,0:48:02,Wolf Creek Ranch,2024-07-10,9.3
+9,EXPERT B,6,Dennis Muhlestein,431,49,0:48:04,Wolf Creek Ranch,2024-07-10,9.3
+9,EXPERT B,7,Tyler Jukes,430,44,0:48:55,Wolf Creek Ranch,2024-07-10,9.2
+9,EXPERT B,8,Matthew Muhlestein,432,39,0:49:20,Wolf Creek Ranch,2024-07-10,9.1
+9,EXPERT B,9,Keith Payne,415,36,0:50:56,Wolf Creek Ranch,2024-07-10,8.8
+9,EXPERT B,10,Parker Goodwin,438,33,0:52:35,Wolf Creek Ranch,2024-07-10,8.5
+9,EXPERT B,11,Tyler Perry,406,30,0:53:35,Wolf Creek Ranch,2024-07-10,8.4
+9,EXPERT B,12,Ben Severson,416,27,0:53:37,Wolf Creek Ranch,2024-07-10,8.4
+9,EXPERT B,13,Eli Christensen,447,24,0:57:23,Wolf Creek Ranch,2024-07-10,7.8
+9,EXPERT B,14,Hyrum Witt,449,21,1:02:27,Wolf Creek Ranch,2024-07-10,7.2
+9,EXPERT C,1,John D Mcilmoil,535,80,0:43:50,Wolf Creek Ranch,2024-07-10,10.2
+9,EXPERT C,2,Dallan Robbins,506,73,0:46:58,Wolf Creek Ranch,2024-07-10,9.6
+9,EXPERT C,3,Shane Jenson,530,66,0:47:09,Wolf Creek Ranch,2024-07-10,9.5
+9,EXPERT C,4,Jaden Webster,533,59,0:48:19,Wolf Creek Ranch,2024-07-10,9.3
+9,EXPERT C,5,Jerry Brown,511,54,0:49:41,Wolf Creek Ranch,2024-07-10,9.0
+9,EXPERT C,6,Cameron Hill,505,49,0:50:32,Wolf Creek Ranch,2024-07-10,8.9
+9,EXPERT C,7,Tyler Webster,531,44,0:50:37,Wolf Creek Ranch,2024-07-10,8.9
+9,EXPERT C,8,Matthias Hulme,527,39,0:51:54,Wolf Creek Ranch,2024-07-10,8.6
+9,EXPERT C,9,Cole Gonsalves,526,36,0:52:20,Wolf Creek Ranch,2024-07-10,8.6
+9,EXPERT C,10,Ian Beaty,503,33,0:52:21,Wolf Creek Ranch,2024-07-10,8.6
+9,EXPERT C,11,Kerry Smith,501,30,0:52:50,Wolf Creek Ranch,2024-07-10,8.5
+9,EXPERT C,12,Johnnie Gonsalves,516,27,0:53:54,Wolf Creek Ranch,2024-07-10,8.3
+9,EXPERT C,13,Matt Stewart,519,24,0:53:56,Wolf Creek Ranch,2024-07-10,8.3
+9,EXPERT C,14,Jayson Vincent,507,21,0:55:24,Wolf Creek Ranch,2024-07-10,8.1
+9,EXPERT C,15,Derek Miner,536,18,0:56:52,Wolf Creek Ranch,2024-07-10,7.9
+9,EXPERT C,16,Hayden Wixom,537,15,0:57:47,Wolf Creek Ranch,2024-07-10,7.8
+9,EXPERT C,17,Calvin Cahoon,509,12,1:00:01,Wolf Creek Ranch,2024-07-10,7.5
+9,SPORT A,1,John Taylor,616,80,0:48:38,Wolf Creek Ranch,2024-07-10,8.6
+9,SPORT A,2,Jensen Paterson,606,73,0:50:12,Wolf Creek Ranch,2024-07-10,8.3
+9,SPORT A,3,Jeff Stroh,634,66,0:55:04,Wolf Creek Ranch,2024-07-10,7.6
+9,SPORT A,4,Bridger Wilson,626,59,0:55:40,Wolf Creek Ranch,2024-07-10,7.5
+9,SPORT A,5,Steven Christensen,631,54,0:58:30,Wolf Creek Ranch,2024-07-10,7.1
+9,SPORT A,6,Tyson Widdison,601,49,1:01:27,Wolf Creek Ranch,2024-07-10,6.8
+9,SPORT A,7,Becky Blaser,603,44,1:03:50,Wolf Creek Ranch,2024-07-10,6.5
+9,SPORT A,DNF,Devin Fish,632,1,,Wolf Creek Ranch,2024-07-10,
+9,SPORT A,DNF,Brent Haight,633,1,,Wolf Creek Ranch,2024-07-10,
+9,SPORT B,1,Archer Olson,730,80,0:27:17,Wolf Creek Ranch,2024-07-10,8.2
+9,SPORT B,2,Jackson Bingham,704,73,0:29:04,Wolf Creek Ranch,2024-07-10,7.7
+9,SPORT B,3,Darin Hakes,743,66,0:29:51,Wolf Creek Ranch,2024-07-10,7.5
+9,SPORT B,4,Darian Dash Bingham,735,59,0:31:25,Wolf Creek Ranch,2024-07-10,7.1
+9,SPORT B,5,Dylan Jerman,707,54,0:33:12,Wolf Creek Ranch,2024-07-10,6.7
+9,SPORT B,6,Richard Matheson,719,49,0:38:01,Wolf Creek Ranch,2024-07-10,5.9
+9,SPORT WOMEN,1,Ariann Apostol,804,80,0:30:31,Wolf Creek Ranch,2024-07-10,7.3
+9,SPORT WOMEN,2,Megan Webster,843,73,0:33:07,Wolf Creek Ranch,2024-07-10,6.8
+9,SPORT WOMEN,3,Addisen Pedersen,842,66,0:35:35,Wolf Creek Ranch,2024-07-10,6.3
+9,SPORT WOMEN,4,Linda Matheson,801,59,0:36:28,Wolf Creek Ranch,2024-07-10,6.1
+9,SPORT WOMEN,5,Hillary Brown,808,54,0:38:12,Wolf Creek Ranch,2024-07-10,5.9
+9,SPORT WOMEN,6,Maddie Child,837,49,0:38:52,Wolf Creek Ranch,2024-07-10,5.8
+9,SPORT WOMEN,7,Camilla Jacobsen,838,44,0:42:08,Wolf Creek Ranch,2024-07-10,5.3
+9,SPORT WOMEN,8,Grace Mckay,840,39,0:48:46,Wolf Creek Ranch,2024-07-10,4.6
+9,SPORT WOMEN,9,Diadora Pedersen,841,36,0:51:05,Wolf Creek Ranch,2024-07-10,4.4
+9,JUNIOR,1,Nate Jacobsen,905,80,0:31:53,Wolf Creek Ranch,2024-07-10,7.0
+9,JUNIOR,2,Isaac Miller,903,73,0:33:15,Wolf Creek Ranch,2024-07-10,6.7
+9,JUNIOR,3,Hyrum Jukes,927,66,0:40:08,Wolf Creek Ranch,2024-07-10,5.6
+9,JUNIOR,4,Kyrie Bingham,906,59,0:41:09,Wolf Creek Ranch,2024-07-10,5.4
+9,JUNIOR,5,Eden Hadlock,921,54,1:00:14,Wolf Creek Ranch,2024-07-10,3.7
+9,BEGINNER,1,Michael Silitch,1043,80,0:24:54,Wolf Creek Ranch,2024-07-10,7.2
+9,BEGINNER,2,Jay Jacobsen,1002,73,0:25:58,Wolf Creek Ranch,2024-07-10,6.9
+9,BEGINNER,3,Nathan Kerman,1034,66,0:31:22,Wolf Creek Ranch,2024-07-10,5.7
+9,BEGINNER,4,Dunken Paterson,1007,59,0:31:24,Wolf Creek Ranch,2024-07-10,5.7
+9,BEGINNER,5,Dan Kerman,1019,54,0:32:54,Wolf Creek Ranch,2024-07-10,5.4
+9,BEGINNER,DNF,Amy Kerman,1018,1,,Wolf Creek Ranch,2024-07-10,
+10,PRO,1,Carter Anderson,24,160,1:03:44,Sundance,2024-07-17,12.2
+10,PRO,2,Mason Brown,36,146,1:03:52,Sundance,2024-07-17,12.2
+10,PRO,3,Andrew Conover,2,132,1:06:16,Sundance,2024-07-17,11.8
+10,PRO,4,Chris Holley,21,118,1:06:46,Sundance,2024-07-17,11.7
+10,PRO,5,Spencer Maughan,42,108,1:08:49,Sundance,2024-07-17,11.3
+10,PRO,6,Mark Tuttle,1,98,1:09:06,Sundance,2024-07-17,11.3
+10,PRO,7,Thomas Cahoon,15,88,1:10:13,Sundance,2024-07-17,11.1
+10,PRO,8,Tanner Gillespie,27,78,1:10:56,Sundance,2024-07-17,11.0
+10,PRO,9,Jamison Burton,46,72,1:13:27,Sundance,2024-07-17,10.6
+10,PRO,10,Gavin Gunther,39,66,1:13:57,Sundance,2024-07-17,10.5
+10,PRO,11,Brandon Firth,25,60,1:15:51,Sundance,2024-07-17,10.3
+10,PRO,12,Chase Bacon,38,54,1:17:30,Sundance,2024-07-17,10.1
+10,PRO,13,Geophri Montague,26,48,1:20:14,Sundance,2024-07-17,9.7
+10,PRO,14,Scott Preston,35,42,1:20:32,Sundance,2024-07-17,9.7
+10,PRO,15,Easton Gray,10,36,1:21:27,Sundance,2024-07-17,9.6
+10,PRO,16,William Roylance,44,30,1:27:40,Sundance,2024-07-17,8.9
+10,PRO,DNF,Asa Christensen,41,2,,Sundance,2024-07-17,
+10,PRO,DNF,Logan Eccles,14,2,,Sundance,2024-07-17,
+10,SEMI-PRO,1,Jude Marsden,153,160,1:00:44,Sundance,2024-07-17,11.2
+10,SEMI-PRO,2,Jacob Miller,159,146,1:01:33,Sundance,2024-07-17,11.1
+10,SEMI-PRO,3,Wade Quilter,133,132,1:01:45,Sundance,2024-07-17,11.0
+10,SEMI-PRO,4,Dan Nelson,111,118,1:01:47,Sundance,2024-07-17,11.0
+10,SEMI-PRO,5,Nate Miller,109,108,1:02:41,Sundance,2024-07-17,10.9
+10,SEMI-PRO,6,Val Gibson,101,98,1:03:29,Sundance,2024-07-17,10.7
+10,SEMI-PRO,7,Bryson Douglass,156,88,1:03:30,Sundance,2024-07-17,10.7
+10,SEMI-PRO,8,Mike Broderick,150,78,1:04:21,Sundance,2024-07-17,10.6
+10,SEMI-PRO,9,Jayven Thomas,124,72,1:05:00,Sundance,2024-07-17,10.5
+10,SEMI-PRO,10,Asa Pulley,164,66,1:05:13,Sundance,2024-07-17,10.4
+10,SEMI-PRO,11,Brandon Smith,154,60,1:05:32,Sundance,2024-07-17,10.4
+10,SEMI-PRO,12,Ethan Burningham,161,54,1:05:51,Sundance,2024-07-17,10.3
+10,SEMI-PRO,13,Johnny D Pedersen,145,48,1:05:57,Sundance,2024-07-17,10.3
+10,SEMI-PRO,14,Eli Speck,123,42,1:06:00,Sundance,2024-07-17,10.3
+10,SEMI-PRO,15,Matt Parker,556,36,1:06:15,Sundance,2024-07-17,10.3
+10,SEMI-PRO,16,Woody,0,30,1:06:29,Sundance,2024-07-17,10.2
+10,SEMI-PRO,17,Crew Melchior,162,24,1:07:18,Sundance,2024-07-17,10.1
+10,SEMI-PRO,18,Zach Child,129,18,1:07:21,Sundance,2024-07-17,10.1
+10,SEMI-PRO,19,Matt Frisby,102,14,1:07:22,Sundance,2024-07-17,10.1
+10,SEMI-PRO,20,Adam Pellerin,163,10,1:07:30,Sundance,2024-07-17,10.1
+10,SEMI-PRO,21,Cody Shepherd,107,6,1:09:08,Sundance,2024-07-17,9.9
+10,SEMI-PRO,22,Nick Birch,108,4,1:13:04,Sundance,2024-07-17,9.3
+10,SEMI-PRO,23,Josey Apostol,0,4,1:13:30,Sundance,2024-07-17,9.3
+10,SEMI-PRO,DNF,Quinn Jacobsen,106,2,,Sundance,2024-07-17,
+10,SEMI-PRO,DNF,Luke Cahoon,113,2,,Sundance,2024-07-17,
+10,EXPERT A,1,Wyatt Chambers,257,160,0:54:05,Sundance,2024-07-17,10.8
+10,EXPERT A,2,Ashton Webster,262,146,0:55:34,Sundance,2024-07-17,10.5
+10,EXPERT A,3,Bolt Miller,272,132,0:56:33,Sundance,2024-07-17,10.3
+10,EXPERT A,4,Cameron Gibby,211,118,0:57:39,Sundance,2024-07-17,10.1
+10,EXPERT A,5,Nathanicus Mcclarkensburger,280,108,0:57:51,Sundance,2024-07-17,10.1
+10,EXPERT A,6,Camren Burgner,281,98,0:58:34,Sundance,2024-07-17,10.0
+10,EXPERT A,7,Jansen Payne,201,88,0:58:48,Sundance,2024-07-17,9.9
+10,EXPERT A,8,Evan Reese,284,78,0:58:57,Sundance,2024-07-17,9.9
+10,EXPERT A,9,Jonathan Vellinga,285,72,0:59:02,Sundance,2024-07-17,9.9
+10,EXPERT A,10,Austin Gunther,282,66,0:59:05,Sundance,2024-07-17,9.9
+10,EXPERT A,11,Kade Gray,252,60,1:00:36,Sundance,2024-07-17,9.6
+10,EXPERT A,12,Harry Mccoard,208,54,1:00:39,Sundance,2024-07-17,9.6
+10,EXPERT A,13,Heber Anderson,250,48,1:03:30,Sundance,2024-07-17,9.2
+10,EXPERT A,14,Mike Madsen,202,42,1:08:26,Sundance,2024-07-17,8.5
+10,EXPERT A,15,Lewis Stewart,249,36,1:09:20,Sundance,2024-07-17,8.4
+10,EXPERT A,DNF,Xarek Lyman,283,2,,Sundance,2024-07-17,
+10,EXPERT A,DNF,Mark Nelson,0,2,,Sundance,2024-07-17,
+10,PRO/EXPERT WOMEN,1,Anna Keller,338,160,0:58:13,Sundance,2024-07-17,10.0
+10,PRO/EXPERT WOMEN,2,Kc Holley,335,146,0:59:02,Sundance,2024-07-17,9.9
+10,PRO/EXPERT WOMEN,3,Rachel Miller,302,132,1:01:33,Sundance,2024-07-17,9.5
+10,PRO/EXPERT WOMEN,4,Aunika Kemp,344,118,1:04:07,Sundance,2024-07-17,9.1
+10,PRO/EXPERT WOMEN,5,Kadence Preston,303,108,1:04:09,Sundance,2024-07-17,9.1
+10,PRO/EXPERT WOMEN,6,Jeanette Pierce,332,98,1:06:23,Sundance,2024-07-17,8.8
+10,PRO/EXPERT WOMEN,7,Christina Perry,305,88,1:09:04,Sundance,2024-07-17,8.4
+10,PRO/EXPERT WOMEN,8,Brynlee Bingham,301,78,1:09:41,Sundance,2024-07-17,8.4
+10,PRO/EXPERT WOMEN,9,Zina Price,325,72,1:10:19,Sundance,2024-07-17,8.3
+10,PRO/EXPERT WOMEN,10,Kristi Mcilmoil,304,66,1:13:16,Sundance,2024-07-17,7.9
+10,PRO/EXPERT WOMEN,11,Jonna Blank,343,60,1:15:12,Sundance,2024-07-17,7.7
+10,PRO/EXPERT WOMEN,DNF,Hadley Peay,323,2,,Sundance,2024-07-17,
+10,EXPERT B,1,Matthew Muhlestein,432,160,0:39:17,Sundance,2024-07-17,10.1
+10,EXPERT B,2,Jordan Thurston,403,146,0:41:01,Sundance,2024-07-17,9.7
+10,EXPERT B,3,Gage Thurgood,448,132,0:41:47,Sundance,2024-07-17,9.5
+10,EXPERT B,4,Cory Larsen,407,118,0:43:26,Sundance,2024-07-17,9.1
+10,EXPERT B,5,Brett Vellinga,452,108,0:43:28,Sundance,2024-07-17,9.1
+10,EXPERT B,6,Shawn Powell,451,98,0:44:06,Sundance,2024-07-17,9.0
+10,EXPERT B,7,Dennis Muhlestein,431,88,0:44:38,Sundance,2024-07-17,8.9
+10,EXPERT B,8,Nicholas Sibert,413,78,0:44:39,Sundance,2024-07-17,8.9
+10,EXPERT B,9,Jeff Hare,450,72,0:45:24,Sundance,2024-07-17,8.7
+10,EXPERT B,10,Max Glade,401,66,0:46:33,Sundance,2024-07-17,8.5
+10,EXPERT B,11,Keith Payne,415,60,0:46:56,Sundance,2024-07-17,8.5
+10,EXPERT B,12,Tyler Jukes,430,54,0:47:54,Sundance,2024-07-17,8.3
+10,EXPERT B,13,Tyler Perry,406,48,0:48:30,Sundance,2024-07-17,8.2
+10,EXPERT B,14,Philip Gunther,444,42,0:49:06,Sundance,2024-07-17,8.1
+10,EXPERT B,15,Parker Goodwin,438,36,0:50:59,Sundance,2024-07-17,7.8
+10,EXPERT B,16,Eli Christensen,447,30,0:52:17,Sundance,2024-07-17,7.6
+10,EXPERT C,1,John D Mcilmoil,535,160,0:41:23,Sundance,2024-07-17,9.6
+10,EXPERT C,2,Dallan Robbins,506,146,0:41:54,Sundance,2024-07-17,9.5
+10,EXPERT C,3,Shane Jenson,530,132,0:42:45,Sundance,2024-07-17,9.3
+10,EXPERT C,4,Jaden Webster,533,118,0:42:59,Sundance,2024-07-17,9.2
+10,EXPERT C,5,Steve Mayfield,513,108,0:43:59,Sundance,2024-07-17,9.0
+10,EXPERT C,6,Tyler Webster,531,98,0:44:14,Sundance,2024-07-17,9.0
+10,EXPERT C,7,Jerry Brown,511,88,0:45:09,Sundance,2024-07-17,8.8
+10,EXPERT C,8,Ben Blank,539,78,0:45:21,Sundance,2024-07-17,8.7
+10,EXPERT C,9,Ian Beaty,503,72,0:46:13,Sundance,2024-07-17,8.6
+10,EXPERT C,10,Cole Gonsalves,526,66,0:47:07,Sundance,2024-07-17,8.4
+10,EXPERT C,11,Matthias Hulme,527,60,0:47:57,Sundance,2024-07-17,8.3
+10,EXPERT C,12,Kerry Smith,501,54,0:48:18,Sundance,2024-07-17,8.2
+10,EXPERT C,13,Johnnie Gonsalves,516,48,0:48:37,Sundance,2024-07-17,8.2
+10,EXPERT C,14,Cameron Hill,541,42,0:48:50,Sundance,2024-07-17,8.1
+10,EXPERT C,15,Jayson Vincent,507,36,0:49:30,Sundance,2024-07-17,8.0
+10,EXPERT C,16,Brig Thurgood,540,30,0:50:31,Sundance,2024-07-17,7.8
+10,EXPERT C,17,Calvin Cahoon,509,24,0:54:24,Sundance,2024-07-17,7.3
+10,EXPERT C,18,Ezra Montague,532,18,0:54:33,Sundance,2024-07-17,7.3
+10,EXPERT C,19,Mason Barlow,538,14,1:19:57,Sundance,2024-07-17,4.9
+10,EXPERT C,DNF,Matt Stewart,519,2,,Sundance,2024-07-17,
+10,SPORT A,1,Paxton Spessard,639,160,0:44:15,Sundance,2024-07-17,9.0
+10,SPORT A,2,Devin Fish,632,146,0:45:03,Sundance,2024-07-17,8.8
+10,SPORT A,3,Cole Kelson,637,132,0:45:35,Sundance,2024-07-17,8.7
+10,SPORT A,4,Alta Miller,628,118,0:47:10,Sundance,2024-07-17,8.4
+10,SPORT A,5,Conner Jones,611,108,0:48:32,Sundance,2024-07-17,8.2
+10,SPORT A,6,John Taylor,616,98,0:48:33,Sundance,2024-07-17,8.2
+10,SPORT A,7,Brody Smith,619,88,0:54:57,Sundance,2024-07-17,7.2
+10,SPORT A,8,Sean Bujold,640,78,0:55:16,Sundance,2024-07-17,7.2
+10,SPORT A,9,Bridger Wilson,626,72,0:56:27,Sundance,2024-07-17,7.0
+10,SPORT A,10,Becky Blaser,603,66,1:02:02,Sundance,2024-07-17,6.4
+10,SPORT A,11,Brian Rea,638,60,1:04:20,Sundance,2024-07-17,6.2
+10,SPORT A,12,Trevor Hudspeth,636,54,1:05:45,Sundance,2024-07-17,6.0
+10,SPORT A,13,Tyson Widdison,601,48,1:10:54,Sundance,2024-07-17,5.6
+10,SPORT B,1,Cannon Eccles,718,160,0:33:11,Sundance,2024-07-17,9.0
+10,SPORT B,2,Josh Teerlink,745,146,0:33:51,Sundance,2024-07-17,8.8
+10,SPORT B,3,Benjamin Preece,716,132,0:34:22,Sundance,2024-07-17,8.7
+10,SPORT B,4,Solomon Perkins,741,118,0:34:46,Sundance,2024-07-17,8.6
+10,SPORT B,5,Archer Olson,749,108,0:35:31,Sundance,2024-07-17,8.4
+10,SPORT B,6,Darian Dash Bingham,735,98,0:36:41,Sundance,2024-07-17,8.1
+10,SPORT B,7,Kimball Gay,713,88,0:36:42,Sundance,2024-07-17,8.1
+10,SPORT B,8,Jackson Bingham,704,78,0:36:56,Sundance,2024-07-17,8.1
+10,SPORT B,9,Asher Teerlink,744,72,0:37:01,Sundance,2024-07-17,8.1
+10,SPORT B,10,Joseph Vellinga,748,66,0:38:13,Sundance,2024-07-17,7.8
+10,SPORT B,11,Darin Hakes,743,60,0:39:36,Sundance,2024-07-17,7.5
+10,SPORT B,12,Jimmer Hare,740,54,0:40:01,Sundance,2024-07-17,7.5
+10,SPORT B,13,Dylan Jerman,707,48,0:41:17,Sundance,2024-07-17,7.2
+10,SPORT B,14,Mattix Thurston,746,42,0:44:49,Sundance,2024-07-17,6.7
+10,SPORT B,15,Richard Matheson,719,36,0:59:18,Sundance,2024-07-17,5.0
+10,SPORT WOMEN,2,Melissa Vellinga,846,146,0:36:32,Sundance,2024-07-17,8.2
+10,SPORT WOMEN,3,Leah Sorenson,832,132,0:39:13,Sundance,2024-07-17,7.6
+10,SPORT WOMEN,4,Sarah Cust,844,118,0:39:55,Sundance,2024-07-17,7.5
+10,SPORT WOMEN,5,Hillary Brown,808,108,0:42:35,Sundance,2024-07-17,7.0
+10,SPORT WOMEN,6,Patty Rice,836,98,0:43:01,Sundance,2024-07-17,6.9
+10,SPORT WOMEN,7,Ariann Apostol,804,88,0:46:53,Sundance,2024-07-17,6.4
+10,SPORT WOMEN,8,Covi Powell,845,78,0:47:36,Sundance,2024-07-17,6.3
+10,JUNIOR,2,Beau Godfrey,929,146,0:37:35,Sundance,2024-07-17,7.9
+10,JUNIOR,3,Nate Jacobsen,905,132,0:42:18,Sundance,2024-07-17,7.1
+10,JUNIOR,4,Isaac Miller,903,118,0:42:55,Sundance,2024-07-17,7.0
+10,JUNIOR,5,Maya Holley,928,108,0:44:59,Sundance,2024-07-17,6.6
+10,JUNIOR,6,Lucy Nelson,922,98,0:45:52,Sundance,2024-07-17,6.5
+10,JUNIOR,7,Daxton Rollins,904,88,0:57:25,Sundance,2024-07-17,5.2
+10,JUNIOR,8,Jenna Sorenson,925,78,1:01:28,Sundance,2024-07-17,4.8
+10,JUNIOR,9,Kyrie Bingham,906,72,1:08:48,Sundance,2024-07-17,4.3
+10,BEGINNER,1,Michael Silitch,1043,160,0:33:15,Sundance,2024-07-17,6.3
+10,BEGINNER,2,Jay Jacobsen,1002,146,0:34:53,Sundance,2024-07-17,6.0
+10,BEGINNER,3,Milo Vellinga,1044,132,0:35:25,Sundance,2024-07-17,5.9
+10,BEGINNER,4,Asher Burton,1008,118,0:35:45,Sundance,2024-07-17,5.9
+11,PRO,1,Andrew Conover,2,80,0:37:50,Euclid,2024-07-31,12.9
+11,PRO,2,Scott Preston,35,73,0:39:03,Euclid,2024-07-31,12.5
+11,PRO,3,Spencer Maughan,42,66,0:49:35,Euclid,2024-07-31,9.9
+11,PRO,4,Tanner Gillespie,27,59,0:30:10,Euclid,2024-07-31,12.2
+11,PRO,5,Thomas Cahoon,15,54,0:31:17,Euclid,2024-07-31,12.4
+11,SEMI-PRO,1,Jude Marsden,153,80,0:38:54,Euclid,2024-07-31,12.6
+11,SEMI-PRO,2,Logan Diekmann,155,73,0:39:28,Euclid,2024-07-31,12.4
+11,SEMI-PRO,3,Johnny D Pedersen,145,66,0:29:41,Euclid,2024-07-31,12.4
+11,SEMI-PRO,4,Nate Miller,109,59,0:29:45,Euclid,2024-07-31,12.3
+11,SEMI-PRO,5,Jacob Miller,159,54,0:29:45,Euclid,2024-07-31,12.2
+11,SEMI-PRO,6,Jake Broussard,126,49,0:30:25,Euclid,2024-07-31,12.2
+11,SEMI-PRO,7,Dan Nelson,111,44,0:30:32,Euclid,2024-07-31,12.3
+11,SEMI-PRO,8,Luke Cahoon,113,39,0:32:52,Euclid,2024-07-31,11.3
+11,SEMI-PRO,9,Woody,0,36,0:33:11,Euclid,2024-07-31,11.5
+11,SEMI-PRO,10,Val Gibson,101,33,0:21:37,Euclid,2024-07-31,11.7
+11,SEMI-PRO,11,Matt Frisby,102,30,0:23:34,Euclid,2024-07-31,10.7
+11,SEMI-PRO,12,Cody Shepherd,107,27,0:25:16,Euclid,2024-07-31,10.4
+11,SEMI-PRO,13,Brandon Smith,154,24,0:28:24,Euclid,2024-07-31,7.2
+11,SEMI-PRO,14,Quinn Jacobsen,106,21,0:12:11,Euclid,2024-07-31,9.8
+11,EXPERT A,1,Nathanicus Mcclarkensburger,280,80,0:31:11,Euclid,2024-07-31,12.1
+11,EXPERT A,2,Tripp Kay,255,73,0:33:20,Euclid,2024-07-31,11.1
+11,EXPERT A,3,Austin Gunther,282,66,0:33:26,Euclid,2024-07-31,11.0
+11,EXPERT A,4,Mike Madsen,202,59,0:35:27,Euclid,2024-07-31,10.5
+11,EXPERT A,5,Ridger Gasser,270,54,0:35:54,Euclid,2024-07-31,10.5
+11,EXPERT A,6,Harry Mccoard,208,49,0:35:58,Euclid,2024-07-31,10.5
+11,EXPERT A,7,Spencer Freeman,206,44,0:37:43,Euclid,2024-07-31,9.8
+11,EXPERT A,8,Lewis Stewart,249,39,0:42:10,Euclid,2024-07-31,9.4
+11,EXPERT A,9,Cameron Gibby,211,36,0:24:02,Euclid,2024-07-31,10.6
+11,EXPERT A,10,Alex Larsen,212,33,0:24:52,Euclid,2024-07-31,10.5
+11,EXPERT A,11,Jansen Payne,201,30,0:25:25,Euclid,2024-07-31,10.6
+11,PRO/EXPERT WOMEN,1,Kadence Preston,303,80,0:37:35,Euclid,2024-07-31,9.5
+11,PRO/EXPERT WOMEN,2,Kristi Mcilmoil,304,73,0:38:28,Euclid,2024-07-31,9.4
+11,PRO/EXPERT WOMEN,3,Brynlee Bingham,301,66,0:29:25,Euclid,2024-07-31,8.4
+11,PRO/EXPERT WOMEN,4,Christina Perry,305,59,0:29:43,Euclid,2024-07-31,8.4
+11,PRO/EXPERT WOMEN,DNF,Rachel Miller,302,2,,Euclid,2024-07-31,
+11,EXPERT B,1,John Mcilmoil,408,80,0:33:58,Euclid,2024-07-31,10.8
+11,EXPERT B,2,Cory Larsen,407,73,0:35:01,Euclid,2024-07-31,10.6
+11,EXPERT B,3,Jeff Hare,450,66,0:36:25,Euclid,2024-07-31,10.1
+11,EXPERT B,4,Matthew Muhlestein,432,59,0:37:56,Euclid,2024-07-31,9.8
+11,EXPERT B,5,Tyler Jukes,430,54,0:42:22,Euclid,2024-07-31,9.3
+11,EXPERT B,6,Keith Payne,415,49,0:24:35,Euclid,2024-07-31,9.9
+11,EXPERT B,7,Dennis Muhlestein,431,44,0:24:36,Euclid,2024-07-31,9.8
+11,EXPERT B,8,Paul Hadlock,405,39,0:25:26,Euclid,2024-07-31,9.7
+11,EXPERT B,9,Tyler Perry,406,36,0:29:41,Euclid,2024-07-31,8.6
+11,EXPERT B,10,Philip Gunther,444,33,0:30:08,Euclid,2024-07-31,8.2
+11,EXPERT B,11,Parker Goodwin,438,30,0:15:35,Euclid,2024-07-31,7.0
+11,EXPERT B,12,Jordan Thurston,403,27,0:19:55,Euclid,2024-07-31,6.1
+11,EXPERT C,1,Dallan Robbins,506,80,0:34:01,Euclid,2024-07-31,10.9
+11,EXPERT C,2,Nathan Curtis,542,73,0:35:48,Euclid,2024-07-31,10.6
+11,EXPERT C,3,Ian Beaty,503,66,0:40:09,Euclid,2024-07-31,9.1
+11,EXPERT C,4,Jayson Vincent,507,59,0:26:23,Euclid,2024-07-31,9.2
+11,EXPERT C,5,Matt Stewart,519,54,0:27:05,Euclid,2024-07-31,9.0
+11,EXPERT C,6,Matthias Hulme,527,49,0:27:18,Euclid,2024-07-31,8.7
+11,EXPERT C,7,Kerry Smith,501,44,0:27:32,Euclid,2024-07-31,8.7
+11,EXPERT C,8,Cameron Hill,541,39,0:27:41,Euclid,2024-07-31,8.7
+11,EXPERT C,9,Calvin Cahoon,509,36,0:30:29,Euclid,2024-07-31,8.3
+11,EXPERT C,10,Jared Payne,524,33,0:37:23,Euclid,2024-07-31,6.6
+11,EXPERT C,11,Cole Gonsalves,526,30,0:38:57,Euclid,2024-07-31,3.1
+11,EXPERT C,12,Johnnie Gonsalves,516,27,0:38:58,Euclid,2024-07-31,3.1
+11,SPORT A,1,Conner Jones,611,80,0:24:59,Euclid,2024-07-31,9.6
+11,SPORT A,2,Alta Miller,628,73,0:25:56,Euclid,2024-07-31,9.3
+11,SPORT A,3,Sean Bujold,640,66,0:27:54,Euclid,2024-07-31,8.7
+11,SPORT A,4,Tyson Widdison,601,59,0:35:30,Euclid,2024-07-31,7.2
+11,SPORT A,5,Brody Smith,619,54,0:42:38,Euclid,2024-07-31,6.9
+11,SPORT A,6,Bridger Wilson,626,49,0:15:36,Euclid,2024-07-31,7.5
+11,SPORT A,7,Jensen Paterson,606,44,0:21:43,Euclid,2024-07-31,5.1
+11,SPORT B,1,Solomon Perkins,741,80,0:25:28,Euclid,2024-07-31,9.6
+11,SPORT B,2,Cannon Eccles,718,73,0:26:25,Euclid,2024-07-31,9.1
+11,SPORT B,3,Scott Matheson,750,66,0:27:03,Euclid,2024-07-31,9.2
+11,SPORT B,4,Elias Kahler,724,59,0:27:32,Euclid,2024-07-31,9.0
+11,SPORT B,5,Jimmer Hare,740,54,0:27:44,Euclid,2024-07-31,8.9
+11,SPORT B,6,Hudson Nelson,751,49,0:27:48,Euclid,2024-07-31,8.7
+11,SPORT B,7,Darian Dash Bingham,735,44,0:28:30,Euclid,2024-07-31,8.6
+11,SPORT B,8,Mattix Thurston,746,39,0:31:55,Euclid,2024-07-31,7.8
+11,SPORT B,9,Dylan Jerman,707,36,0:32:02,Euclid,2024-07-31,7.7
+11,SPORT B,10,Jackson Bingham,704,33,0:33:20,Euclid,2024-07-31,7.6
+11,SPORT B,11,Richard Matheson,719,30,0:36:48,Euclid,2024-07-31,6.6
+11,SPORT B,12,Matt Cahoon,701,27,0:11:58,Euclid,2024-07-31,10.0
+11,SPORT B,13,Archer Olson,749,24,0:14:55,Euclid,2024-07-31,8.2
+11,SPORT WOMEN,1,Ariann Apostol,804,80,0:31:30,Euclid,2024-07-31,7.9
+11,SPORT WOMEN,2,Patty Rice,836,73,0:22:06,Euclid,2024-07-31,5.5
+11,SPORT WOMEN,DNF,Linda Matheson,801,2,,Euclid,2024-07-31,
+11,JUNIOR,1,David Rodriguez,930,80,0:15:42,Euclid,2024-07-31,7.7
+11,JUNIOR,2,Isaac Miller,903,73,0:17:16,Euclid,2024-07-31,7.0
+11,JUNIOR,3,Nate Jacobsen,905,66,0:17:54,Euclid,2024-07-31,6.7
+11,JUNIOR,4,Hyrum Jukes,927,59,0:21:14,Euclid,2024-07-31,5.7
+11,JUNIOR,5,Kyrie Bingham,906,54,0:23:53,Euclid,2024-07-31,5.1
+11,BEGINNER,1,Michael Silitch,1043,80,0:29:58,Euclid,2024-07-31,8.1
+11,BEGINNER,2,Dunken Paterson,1007,73,0:21:43,Euclid,2024-07-31,5.6
+11,BEGINNER,3,Jay Jacobsen,1002,66,0:22:37,Euclid,2024-07-31,5.4
+11,BEGINNER,4,Elliott Blum,1045,59,0:25:35,Euclid,2024-07-31,4.7
+11,BEGINNER,5,Dan Kerman,1019,54,0:28:31,Euclid,2024-07-31,4.2
+11,BEGINNER,6,Amy Kerman,1018,49,0:29:54,Euclid,2024-07-31,4.0
+11,BEGINNER,7,Nathan Kerman,1034,44,0:30:59,Euclid,2024-07-31,3.9
+11,BEGINNER,8,Siosefa Ka'ili,1039,39,0:36:53,Euclid,2024-07-31,3.3
