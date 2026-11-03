@@ -370,7 +370,7 @@
         const SORTABLE_COLS = [1, 2, 3];
 
         let allRows = [];   // array of objects keyed by CSV header
-        let sortColIdx = 3; // default: sort by race_count desc
+        let sortColIdx = 2; // default: sort by race_count desc
         let sortDir = -1;
 
         // ── Parse CSV ───────────────────────────────────────────────
@@ -479,7 +479,10 @@
             .then(text => {
                 allRows = parseCSV(text);
                 // Default sort: total_points descending
-                allRows.sort((a, b) => parseFloat(b.total_points) - parseFloat(a.total_points));
+                allRows.sort((a, b) =>
+                    (parseFloat(b.race_count) - parseFloat(a.race_count)) ||
+                    (parseFloat(b.total_points) - parseFloat(a.total_points))
+                );
                 buildHead();
                 renderRows(allRows);
             })
