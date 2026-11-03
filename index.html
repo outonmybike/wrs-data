@@ -364,10 +364,11 @@
             { key: 'racer_name',   label: 'Racer',        align: 'left',   fmt: v => v },
             { key: 'race_count',   label: 'Races',        align: 'right', fmt: v => v },
             { key: 'total_points', label: 'Total Points', align: 'center',  fmt: v => Number(v).toLocaleString() },
+            { key: 'avg_points',   label: 'Pts / Race',   align: 'center', fmt: v => v },
         ];
 
         // Columns that are sortable (exclude rank — rank reflects current sort order)
-        const SORTABLE_COLS = [1, 2, 3];
+        const SORTABLE_COLS = [1, 2, 3, 4];
 
         let allRows = [];   // array of objects keyed by CSV header
         let sortColIdx = 2; // default: sort by race_count desc
@@ -478,6 +479,11 @@
             .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); })
             .then(text => {
                 allRows = parseCSV(text);
+                allRows.forEach(row => {
+                    const pts = parseFloat(row.total_points);
+                    const races = parseFloat(row.race_count);
+                    row.avg_points = races > 0 ? (pts / races).toFixed(1) : '0.0';
+});
                 // Default sort: total_points descending
                 allRows.sort((a, b) =>
                     (parseFloat(b.race_count) - parseFloat(a.race_count)) ||
