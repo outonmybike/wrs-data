@@ -12,6 +12,7 @@ def name_mods(df):
         'Dan Nelson':'Sendy Dan Nelson',
         'Racer Gibson':'Racer',
         'John Woodruff':'Woody',
+        'Craig Farnsworth':'R Craig Farnsworth',
         })
     return df
 
