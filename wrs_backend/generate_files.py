@@ -8,7 +8,11 @@ QA_OUTPUT = 'all_riders_by_race_count.csv'
 
 
 def name_mods(df):
-    df = df.replace('Dan Nelson','Sendy Dan Nelson')
+    df = df.replace({
+        'Dan Nelson':'Sendy Dan Nelson',
+        'Racer Gibson':'Racer',
+        'John Woodruff':'Woody',
+        })
     return df
 
 def generate_top_100(source_file, destination_file,qa_output):
