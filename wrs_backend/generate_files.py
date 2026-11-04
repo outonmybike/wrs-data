@@ -10,6 +10,7 @@ QA_OUTPUT = 'all_riders_by_race_count.csv'
 def name_mods(df):
     df = df.replace({
         'Dan Nelson':'Sendy Dan Nelson',
+        'Daniel Nelson':'Sendy Dan Nelson',
         'Racer Gibson':'Racer',
         'John Woodruff':'Woody',
         'Craig Farnsworth':'R Craig Farnsworth',

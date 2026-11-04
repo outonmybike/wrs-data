@@ -15,7 +15,7 @@ DB_USER = 'admin'
 DB_PASSWORD = creds.db_password # or use os.environ['DB_PASSWORD']
 
 CONN_STRING = f'postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}'
-engine = create_engine(CONN_STRING)
+ENGINE = create_engine(CONN_STRING)
 
 
 def connect_to_db():
@@ -32,20 +32,13 @@ def connect_to_db():
         print(f"Error connecting to database: {e}")
         return None
 
-# CONN = connect_to_db()
-
-def create_table(df):
-    pass
-
 def csv_to_db():
     df = pd.read_csv(CSV_PATH)
     df.astype(str)
-    with engine.connect() as conn_test:
+    with ENGINE.connect() as conn_test:
         df.to_sql(PG_TABLE_NAME, conn_test, if_exists='replace', index=False)
 
 
-
-# Example Usage
 if __name__ == "__main__":
     # connection = connect_to_db()
 
