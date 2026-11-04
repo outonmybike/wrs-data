@@ -30,6 +30,11 @@ def generate_top_100(source_file, destination_file,qa_output):
     result_df['total_points'] = result_df['total_points'].astype(int)
 
     result_df.to_csv(qa_output, index=False)
+
+    # file for site
+    result_df['racer_name'] = result_df['racer_name'].str[:20]
+    
+
     result_df = result_df.head(1000)
     result_df.to_csv(destination_file, index=False)
 
